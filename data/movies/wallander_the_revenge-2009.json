@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wallander_the_revenge_2009",
+  "title": "Wallander: The Revenge",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1767592",
+    "imdb": "tt1333591",
+    "tmdb": 289344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

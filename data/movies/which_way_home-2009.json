@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_which_way_home_2009",
+  "title": "Which Way Home",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2566717",
+    "imdb": "tt0489342",
+    "tmdb": 55204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

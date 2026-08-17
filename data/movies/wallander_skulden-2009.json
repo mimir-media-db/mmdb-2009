@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wallander_skulden_2009",
+  "title": "Wallander – Skulden",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1767352",
+    "imdb": "tt1345414",
+    "tmdb": 289430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

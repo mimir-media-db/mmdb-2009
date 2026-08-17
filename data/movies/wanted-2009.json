@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wanted_2009",
+  "title": "Wanted",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2622347",
+    "imdb": "tt1084972",
+    "tmdb": 22717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 153
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_hunt_2009",
+  "title": "The Wild Hunt",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q253973",
+    "imdb": "tt1493886",
+    "tmdb": 44680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
