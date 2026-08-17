@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invitation_only_2009",
+  "title": "Invitation Only",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6061296",
+    "imdb": "tt1229821",
+    "tmdb": 23530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

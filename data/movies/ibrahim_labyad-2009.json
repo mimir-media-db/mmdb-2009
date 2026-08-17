@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ibrahim_labyad_2009",
+  "title": "Ibrahim Labyad",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1532162",
+    "imdb": "tt1459040",
+    "tmdb": 103364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 134
+}

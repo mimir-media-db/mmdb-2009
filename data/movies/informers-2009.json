@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_informers_2009",
+  "title": "The Informers",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2593159",
+    "imdb": "tt0865554",
+    "tmdb": 17436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 98
+}

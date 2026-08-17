@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ingenious_2009",
+  "title": "Ingenious",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549567",
+    "imdb": "tt1509129"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

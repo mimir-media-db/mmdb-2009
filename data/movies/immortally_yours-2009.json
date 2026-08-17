@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immortally_yours_2009",
+  "title": "Immortally Yours",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6005397",
+    "imdb": "tt0758755",
+    "tmdb": 19281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

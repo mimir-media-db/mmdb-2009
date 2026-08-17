@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italians_2009",
+  "title": "Italians",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3804331",
+    "imdb": "tt1082007",
+    "tmdb": 23509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 116
+}

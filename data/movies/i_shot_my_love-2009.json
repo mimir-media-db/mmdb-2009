@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_shot_my_love_2009",
+  "title": "I Shot My Love",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4535739",
+    "imdb": "tt1620790",
+    "tmdb": 44294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

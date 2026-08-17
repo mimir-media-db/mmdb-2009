@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impulso_2009",
+  "title": "Impulso",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5914643",
+    "imdb": "tt1728126",
+    "tmdb": 664631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

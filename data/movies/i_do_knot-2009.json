@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_do_knot_2009",
+  "title": "I Do ... Knot",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6102721",
+    "imdb": "tt1024820",
+    "tmdb": 68941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 111
+}
