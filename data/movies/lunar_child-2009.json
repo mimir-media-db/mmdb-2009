@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lunar_child_2009",
+  "title": "Lunar Child",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11348987",
+    "imdb": "tt1542943",
+    "tmdb": 749703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

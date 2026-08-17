@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leonard_cohen_live_at_the_isle_of_wight_1970_2009",
+  "title": "Leonard Cohen: Live At the Isle of Wight 1970",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117826008",
+    "imdb": "tt1604116",
+    "tmdb": 54542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

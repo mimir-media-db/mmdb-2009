@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_happens_2009",
+  "title": "Love Happens",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q754515",
+    "imdb": "tt0899106",
+    "tmdb": 25643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-18",
+  "runtime_minutes": 109
+}

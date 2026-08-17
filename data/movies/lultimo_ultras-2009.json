@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lultimo_ultras_2009",
+  "title": "L'ultimo ultras",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16569991",
+    "imdb": "tt1507315",
+    "tmdb": 82472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

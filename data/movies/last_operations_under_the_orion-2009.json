@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_operations_under_the_orion_2009",
+  "title": "Last Operations Under the Orion",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11582956",
+    "imdb": "tt1382642",
+    "tmdb": 38625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

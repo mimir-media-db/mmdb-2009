@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_black_dress_2009",
+  "title": "Little Black Dress",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599928",
+    "imdb": "tt1270771",
+    "tmdb": 1059312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

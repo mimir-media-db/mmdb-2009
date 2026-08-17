@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lisette_und_ihre_kinder_2009",
+  "title": "Lisette und ihre Kinder",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23449318",
+    "imdb": "tt1534027",
+    "tmdb": 29557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-01"
+}

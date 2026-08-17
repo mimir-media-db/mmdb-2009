@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lopuhi_2009",
+  "title": "Lopuhi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4251624",
+    "imdb": "tt1477014",
+    "tmdb": 84775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-13",
+  "runtime_minutes": 80
+}

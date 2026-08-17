@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_balada_de_vlad_tepes_2009",
+  "title": "La balada de Vlad Tepes",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19516210",
+    "imdb": "tt1542912",
+    "tmdb": 904324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

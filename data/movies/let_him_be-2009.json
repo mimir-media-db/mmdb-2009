@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_him_be_2009",
+  "title": "Let Him Be",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62512849",
+    "imdb": "tt1463410",
+    "tmdb": 81843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 82
+}

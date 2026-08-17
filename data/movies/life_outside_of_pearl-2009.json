@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_outside_of_pearl_2009",
+  "title": "Life Outside of Pearl",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134720043",
+    "imdb": "tt1513077",
+    "tmdb": 1330092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-09"
+}
