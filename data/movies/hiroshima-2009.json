@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hiroshima_2009",
+  "title": "Hiroshima",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18638686",
+    "imdb": "tt1504402",
+    "tmdb": 142084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}

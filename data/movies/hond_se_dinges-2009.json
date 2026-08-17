@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hond_se_dinges_2009",
+  "title": "Hond se dinges",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13034943",
+    "imdb": "tt1438524",
+    "tmdb": 93605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-20"
+}

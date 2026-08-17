@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hellsinki_2009",
+  "title": "Hellsinki",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11122984",
+    "imdb": "tt1227536",
+    "tmdb": 25335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 133
+}

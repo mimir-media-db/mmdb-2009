@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hungry_hills_2009",
+  "title": "Hungry Hills",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674257",
+    "imdb": "tt1487257",
+    "tmdb": 90929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-16"
+}

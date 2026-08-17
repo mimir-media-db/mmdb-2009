@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hitlist_2009",
+  "title": "Hitlist",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120720896",
+    "imdb": "tt1613097",
+    "tmdb": 671963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-20"
+}

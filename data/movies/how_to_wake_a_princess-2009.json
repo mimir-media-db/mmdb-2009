@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_wake_a_princess_2009",
+  "title": "How to Wake a Princess",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q739698",
+    "imdb": "tt0076223",
+    "tmdb": 50774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-01",
+  "runtime_minutes": 83
+}

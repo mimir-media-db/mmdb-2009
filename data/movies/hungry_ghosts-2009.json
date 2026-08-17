@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hungry_ghosts_2009",
+  "title": "The Hungry Ghosts",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7741016",
+    "imdb": "tt1225902",
+    "tmdb": 47974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harsh_life_of_veronica_lambert_2009",
+  "title": "The Harsh Life of Veronica Lambert",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720655",
+    "imdb": "tt1407998",
+    "tmdb": 134325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

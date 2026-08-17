@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hijoshi_zukan_2009",
+  "title": "Hijoshi zukan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11267611",
+    "imdb": "tt1405771",
+    "tmdb": 45775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-30",
+  "runtime_minutes": 105
+}

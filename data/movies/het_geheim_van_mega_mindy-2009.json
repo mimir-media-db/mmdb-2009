@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_het_geheim_van_mega_mindy_2009",
+  "title": "Het geheim van Mega Mindy",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2076027",
+    "imdb": "tt1442572",
+    "tmdb": 32979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-07-01",
+  "runtime_minutes": 67
+}

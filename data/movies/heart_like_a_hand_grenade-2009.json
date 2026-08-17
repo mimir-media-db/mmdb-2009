@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_like_a_hand_grenade_2009",
+  "title": "Heart Like a Hand Grenade",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15126585",
+    "imdb": "tt1018728",
+    "tmdb": 360283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-25",
+  "runtime_minutes": 96
+}

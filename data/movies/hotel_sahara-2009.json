@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_sahara_2009",
+  "title": "Hotel Sahara",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43783782",
+    "imdb": "tt1400397",
+    "tmdb": 1748245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-06"
+}

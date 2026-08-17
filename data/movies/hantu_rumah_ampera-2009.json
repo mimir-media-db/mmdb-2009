@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hantu_rumah_ampera_2009",
+  "title": "Hantu Rumah Ampera",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19726234",
+    "imdb": "tt1462485",
+    "tmdb": 496307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
