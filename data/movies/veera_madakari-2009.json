@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veera_madakari_2009",
+  "title": "Veera Madakari",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255128",
+    "imdb": "tt2917382",
+    "tmdb": 256159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

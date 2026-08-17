@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valkyrie_2009",
+  "title": "Valkyrie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q159054",
+    "imdb": "tt0985699",
+    "tmdb": 2253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-22",
+  "runtime_minutes": 120
+}
