@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vengeance_2009",
+  "title": "Vengeance",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1451982",
+    "imdb": "tt1329454",
+    "tmdb": 18899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 105
+}

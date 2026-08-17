@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vennila_kabadi_kuzhu_2009",
+  "title": "Vennila Kabadi Kuzhu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58109",
+    "imdb": "tt2196091",
+    "tmdb": 112876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
