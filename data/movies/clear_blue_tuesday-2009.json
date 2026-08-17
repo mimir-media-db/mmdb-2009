@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clear_blue_tuesday_2009",
+  "title": "Clear Blue Tuesday",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5130644",
+    "imdb": "tt1111295",
+    "tmdb": 201924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

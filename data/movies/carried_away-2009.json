@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carried_away_2009",
+  "title": "Carried Away",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5046318",
+    "imdb": "tt1383702",
+    "tmdb": 118005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

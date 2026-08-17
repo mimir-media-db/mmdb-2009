@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chintu_ji_2009",
+  "title": "Chintu Ji",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4524082",
+    "imdb": "tt1135931",
+    "tmdb": 22158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 155
+}

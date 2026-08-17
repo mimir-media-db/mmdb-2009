@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cobalt_blue_2009",
+  "title": "Cobalt Blue",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q603380",
+    "imdb": "tt1236410",
+    "tmdb": 61270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 119
+}

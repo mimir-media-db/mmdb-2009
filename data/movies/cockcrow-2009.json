@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cockcrow_2009",
+  "title": "Cock-Crow",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3681957",
+    "imdb": "tt2197879",
+    "tmdb": 202775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 56
+}

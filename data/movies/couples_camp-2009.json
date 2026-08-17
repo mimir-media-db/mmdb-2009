@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_couples_camp_2009",
+  "title": "Couples Camp",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1137572",
+    "imdb": "tt1573800",
+    "tmdb": 86729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

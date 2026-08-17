@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carter_2009",
+  "title": "The Carter",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2318709",
+    "imdb": "tt1247371",
+    "tmdb": 26430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

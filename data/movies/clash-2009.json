@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clash_2009",
+  "title": "Clash",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5127807",
+    "imdb": "tt1571565",
+    "tmdb": 55208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

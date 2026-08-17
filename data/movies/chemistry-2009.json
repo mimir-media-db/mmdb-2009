@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chemistry_2009",
+  "title": "Chemistry",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5090552",
+    "imdb": "tt1568808",
+    "tmdb": 801086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

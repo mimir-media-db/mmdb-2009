@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_canary_2009",
+  "title": "Canary",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5031188",
+    "imdb": "tt1379636",
+    "tmdb": 126253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

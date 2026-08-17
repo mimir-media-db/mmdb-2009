@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chengdu_i_love_you_2009",
+  "title": "Chengdu, I Love You",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5091308",
+    "imdb": "tt1481522",
+    "tmdb": 335305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 78
+}

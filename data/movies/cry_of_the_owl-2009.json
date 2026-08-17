@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cry_of_the_owl_2009",
+  "title": "The Cry of the Owl",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q443773",
+    "imdb": "tt1034302",
+    "tmdb": 18530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

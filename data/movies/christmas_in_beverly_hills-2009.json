@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_in_beverly_hills_2009",
+  "title": "Christmas in Beverly Hills",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3870629",
+    "imdb": "tt1504362",
+    "tmdb": 33282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

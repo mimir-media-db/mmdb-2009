@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_command_performance_2009",
+  "title": "Command Performance",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q930936",
+    "imdb": "tt1210801",
+    "tmdb": 23404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}
