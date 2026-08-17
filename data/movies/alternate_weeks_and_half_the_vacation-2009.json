@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alternate_weeks_and_half_the_vacation_2009",
+  "title": "Alternate Weeks (and Half the Vacation)",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549764",
+    "imdb": "tt1425938",
+    "tmdb": 29379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

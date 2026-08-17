@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ainthaam_padai_2009",
+  "title": "Ainthaam Padai",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4697522",
+    "imdb": "tt2359766",
+    "tmdb": 269728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ang_darling_kong_aswang_2009",
+  "title": "Ang Darling Kong Aswang",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4761817",
+    "imdb": "tt1555901",
+    "tmdb": 57910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 117
+}

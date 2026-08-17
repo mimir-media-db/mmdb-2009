@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ang_panday_2009",
+  "title": "Ang Panday",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4761864",
+    "imdb": "tt1366419",
+    "tmdb": 57916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 110
+}

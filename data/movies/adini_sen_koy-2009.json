@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adini_sen_koy_2009",
+  "title": "Adini Sen Koy",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6056846",
+    "imdb": "tt1523402",
+    "tmdb": 37427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

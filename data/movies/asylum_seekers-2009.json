@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_asylum_seekers_2009",
+  "title": "Asylum Seekers",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4812045",
+    "imdb": "tt1132135",
+    "tmdb": 33664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

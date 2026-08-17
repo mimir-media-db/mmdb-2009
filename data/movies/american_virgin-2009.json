@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_virgin_2009",
+  "title": "American Virgin",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2404850",
+    "imdb": "tt1318044",
+    "tmdb": 23568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 98
+}

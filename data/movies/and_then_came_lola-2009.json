@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_then_came_lola_2009",
+  "title": "And Then Came Lola",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2846037",
+    "imdb": "tt1123894",
+    "tmdb": 38645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 71
+}
