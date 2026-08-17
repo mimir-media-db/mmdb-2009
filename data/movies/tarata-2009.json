@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tarata_2009",
+  "title": "Tarata",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5843353",
+    "imdb": "tt2371306",
+    "tmdb": 681695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

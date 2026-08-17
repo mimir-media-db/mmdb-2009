@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tresor_2009",
+  "title": "Tresor",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199219",
+    "imdb": "tt1517493",
+    "tmdb": 36598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}

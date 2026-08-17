@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tous_les_hommes_sont_des_romans_2009",
+  "title": "Tous les hommes sont des romans",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3535606",
+    "imdb": "tt0881331",
+    "tmdb": 576010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
