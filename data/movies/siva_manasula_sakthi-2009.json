@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siva_manasula_sakthi_2009",
+  "title": "Siva Manasula Sakthi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7532272",
+    "imdb": "tt1496872",
+    "tmdb": 63664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_simon_malou_2009",
+  "title": "Simon & Malou",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10668100",
+    "imdb": "tt1314241",
+    "tmdb": 46296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-30",
+  "runtime_minutes": 94
+}

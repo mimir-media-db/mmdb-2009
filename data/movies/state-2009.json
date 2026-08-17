@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_state_2009",
+  "title": "State",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16084000",
+    "imdb": "tt2843436",
+    "tmdb": 478065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

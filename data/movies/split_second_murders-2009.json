@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_split_second_murders_2009",
+  "title": "Split Second Murders",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11125226",
+    "imdb": "tt1521849",
+    "tmdb": 155290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

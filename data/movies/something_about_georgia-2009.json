@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_something_about_georgia_2009",
+  "title": "Something About Georgia",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52395078",
+    "imdb": "tt1634131",
+    "tmdb": 707738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

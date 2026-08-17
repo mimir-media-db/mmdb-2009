@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_has_fallen_2009",
+  "title": "The Sky Has Fallen",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20949989",
+    "imdb": "tt1316078",
+    "tmdb": 119175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

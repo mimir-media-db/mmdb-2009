@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sins_of_my_father_2009",
+  "title": "Sins of My Father",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7525010",
+    "imdb": "tt1523980",
+    "tmdb": 46558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 94
+}

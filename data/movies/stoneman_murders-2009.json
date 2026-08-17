@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stoneman_murders_2009",
+  "title": "The Stoneman Murders",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7766633",
+    "imdb": "tt1183946",
+    "tmdb": 85708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

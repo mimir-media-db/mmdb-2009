@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slaughtered_2009",
+  "title": "Slaughtered",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7539060",
+    "imdb": "tt1641633",
+    "tmdb": 108096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

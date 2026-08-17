@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sagwan_2009",
+  "title": "Sagwan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17593396",
+    "imdb": "tt1422743",
+    "tmdb": 172199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 101
+}

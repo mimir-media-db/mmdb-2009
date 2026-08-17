@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snehituda_2009",
+  "title": "Snehituda...",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254350",
+    "imdb": "tt1580023",
+    "tmdb": 109369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-07"
+}

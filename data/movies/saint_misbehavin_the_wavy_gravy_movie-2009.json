@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saint_misbehavin_the_wavy_gravy_movie_2009",
+  "title": "Saint Misbehavin': The Wavy Gravy Movie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127276",
+    "imdb": "tt1326259",
+    "tmdb": 48307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

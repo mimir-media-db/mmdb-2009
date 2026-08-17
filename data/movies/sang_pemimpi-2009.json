@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sang_pemimpi_2009",
+  "title": "Sang Pemimpi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12511983",
+    "imdb": "tt1576459",
+    "tmdb": 80831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-04"
+}

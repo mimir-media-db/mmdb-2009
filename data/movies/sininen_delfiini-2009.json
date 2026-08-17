@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sininen_delfiini_2009",
+  "title": "Sininen delfiini",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11893638",
+    "imdb": "tt1505917"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skull_heads_2009",
+  "title": "Skull Heads",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127519",
+    "imdb": "tt1535024",
+    "tmdb": 27762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

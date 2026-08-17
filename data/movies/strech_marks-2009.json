@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strech_marks_2009",
+  "title": "Strech Marks",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49996649",
+    "imdb": "tt1531018",
+    "tmdb": 1167333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 67
+}

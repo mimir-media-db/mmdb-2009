@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_steppin_the_movie_2009",
+  "title": "Steppin: The Movie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q875505",
+    "imdb": "tt0826751",
+    "tmdb": 21283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-11",
+  "runtime_minutes": 138
+}

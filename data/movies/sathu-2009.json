@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sathu_2009",
+  "title": "Sathu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13023339",
+    "imdb": "tt2538614",
+    "tmdb": 215965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

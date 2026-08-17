@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweetgrass_2009",
+  "title": "Sweetgrass",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7655685",
+    "imdb": "tt1517252",
+    "tmdb": 50071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 101
+}

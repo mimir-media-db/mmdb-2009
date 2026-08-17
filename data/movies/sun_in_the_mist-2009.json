@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_in_the_mist_2009",
+  "title": "Sun in the Mist",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10372982",
+    "imdb": "tt1467080"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 75
+}

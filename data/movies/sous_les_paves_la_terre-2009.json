@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sous_les_paves_la_terre_2009",
+  "title": "Sous les pavés, la terre",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009442",
+    "imdb": "tt6382460",
+    "tmdb": 252358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

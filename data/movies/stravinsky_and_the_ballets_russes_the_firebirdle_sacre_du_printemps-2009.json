@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stravinsky_and_the_ballets_russes_the_firebirdle_sacre_du_printemps_2009",
+  "title": "Stravinsky and the Ballets Russes: The Firebird/Le Sacre du Printemps",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106936767",
+    "imdb": "tt2050624",
+    "tmdb": 95261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
