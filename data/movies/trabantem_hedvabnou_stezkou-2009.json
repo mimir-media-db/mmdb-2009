@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trabantem_hedvabnou_stezkou_2009",
+  "title": "Trabantem Hedvábnou stezkou",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104895733",
+    "imdb": "tt1592289",
+    "tmdb": 195163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 57
+}

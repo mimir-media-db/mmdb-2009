@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_travels_of_kinuyo_tanaka_2009",
+  "title": "The Travels of Kinuyo Tanaka",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62569719",
+    "imdb": "tt1530504",
+    "tmdb": 257092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thy_neighbor_2009",
+  "title": "Thy Neighbor",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16565165",
+    "imdb": "tt0847901",
+    "tmdb": 56956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 124
+}

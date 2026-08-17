@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_transition_period_2009",
+  "title": "The Transition Period",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137235913",
+    "imdb": "tt1859619",
+    "tmdb": 129404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

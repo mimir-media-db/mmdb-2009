@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_tenement_films_2009",
+  "title": "The Tenement Films",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126724487"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

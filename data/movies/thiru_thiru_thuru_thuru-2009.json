@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thiru_thiru_thuru_thuru_2009",
+  "title": "Thiru Thiru Thuru Thuru",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7785254",
+    "imdb": "tt2011326",
+    "tmdb": 252033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

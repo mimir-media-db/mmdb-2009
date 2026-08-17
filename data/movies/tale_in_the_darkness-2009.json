@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_in_the_darkness_2009",
+  "title": "Tale in the Darkness",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4421397",
+    "imdb": "tt1426384",
+    "tmdb": 172878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-21",
+  "runtime_minutes": 76
+}

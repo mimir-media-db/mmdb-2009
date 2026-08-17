@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tapestries_of_hope_2009",
+  "title": "Tapestries of Hope",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7684557",
+    "imdb": "tt1109523",
+    "tmdb": 127687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 78
+}

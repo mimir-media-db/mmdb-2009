@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trick_r_treat_2009",
+  "title": "Trick 'r Treat",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1686936",
+    "imdb": "tt0862856",
+    "tmdb": 23202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-06",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenshi_no_koi_2009",
+  "title": "Tenshi no Koi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1073956",
+    "imdb": "tt1538401",
+    "tmdb": 43635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-19",
+  "runtime_minutes": 119
+}

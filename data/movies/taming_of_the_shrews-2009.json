@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taming_of_the_shrews_2009",
+  "title": "The Taming of the Shrews",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20091818",
+    "imdb": "tt1515960",
+    "tmdb": 62686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

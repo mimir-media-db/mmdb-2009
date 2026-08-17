@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_two_legacies_2009",
+  "title": "Two Legacies",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49996454"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

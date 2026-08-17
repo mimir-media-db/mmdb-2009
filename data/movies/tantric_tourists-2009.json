@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tantric_tourists_2009",
+  "title": "Tantric Tourists",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7683875",
+    "imdb": "tt1246600",
+    "tmdb": 787827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

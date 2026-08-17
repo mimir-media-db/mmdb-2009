@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tellement_proches_2009",
+  "title": "Tellement proches",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3517386",
+    "imdb": "tt1404082",
+    "tmdb": 19268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-23",
+  "runtime_minutes": 102
+}

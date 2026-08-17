@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_takumikun_series_2_niji_iro_no_garasu_2009",
+  "title": "Takumi-kun Series 2: Niji Irō no Garasu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17479247",
+    "imdb": "tt1422709",
+    "tmdb": 276008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 74
+}

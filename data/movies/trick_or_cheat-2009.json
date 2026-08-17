@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trick_or_cheat_2009",
+  "title": "Trick or Cheat",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15934789",
+    "imdb": "tt1500739",
+    "tmdb": 170215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
