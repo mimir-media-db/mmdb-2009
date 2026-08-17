@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_ed_show",
+  "title": "The Ed Show",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7731540"
+  },
+  "last_updated": "2026-08-17"
+}

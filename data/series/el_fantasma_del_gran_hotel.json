@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_fantasma_del_gran_hotel",
+  "title": "El fantasma del Gran Hotel",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q80195",
+    "imdb": "tt1543294",
+    "tmdb": 107047
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 176
+}
