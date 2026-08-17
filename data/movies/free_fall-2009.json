@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_free_fall_2009",
+  "title": "Free Fall",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234671",
+    "imdb": "tt1355217",
+    "tmdb": 26681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

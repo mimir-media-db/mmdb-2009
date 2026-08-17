@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frame_of_mind_2009",
+  "title": "Frame of Mind",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5477918",
+    "imdb": "tt0837795",
+    "tmdb": 19940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

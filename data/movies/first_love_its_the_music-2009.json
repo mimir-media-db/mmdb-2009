@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_love_its_the_music_2009",
+  "title": "First Love: It's the Music!",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4349067",
+    "imdb": "tt1351212",
+    "tmdb": 64064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

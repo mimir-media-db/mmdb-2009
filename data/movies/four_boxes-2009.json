@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_four_boxes_2009",
+  "title": "Four Boxes",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5475040",
+    "imdb": "tt1144545",
+    "tmdb": 47515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

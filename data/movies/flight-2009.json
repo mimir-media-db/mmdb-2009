@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flight_2009",
+  "title": "Flight",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q498595",
+    "imdb": "tt1698482",
+    "tmdb": 222282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
