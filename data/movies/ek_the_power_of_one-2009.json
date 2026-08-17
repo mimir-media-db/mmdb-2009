@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_the_power_of_one_2009",
+  "title": "Ek: The Power of One",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350164",
+    "imdb": "tt1454461",
+    "tmdb": 59262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

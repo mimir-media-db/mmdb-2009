@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_terre_etrangere_2009",
+  "title": "En terre étrangère",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3053653",
+    "imdb": "tt1401117",
+    "tmdb": 534529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eeram_2009",
+  "title": "Eeram",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5347109",
+    "imdb": "tt1670635",
+    "tmdb": 66536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

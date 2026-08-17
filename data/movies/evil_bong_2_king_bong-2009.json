@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_bong_2_king_bong_2009",
+  "title": "Evil Bong 2: King Bong",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5418405",
+    "imdb": "tt1355627",
+    "tmdb": 20029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}

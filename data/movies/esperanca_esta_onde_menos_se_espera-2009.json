@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_esperanca_esta_onde_menos_se_espera_2009",
+  "title": "A Esperança Está Onde Menos Se Espera",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4656624",
+    "imdb": "tt1295065",
+    "tmdb": 105745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 120
+}
