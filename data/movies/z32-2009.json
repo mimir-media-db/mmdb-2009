@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_z32_2009",
+  "title": "Z32",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3574331",
+    "imdb": "tt1270707",
+    "tmdb": 95585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 81
+}
