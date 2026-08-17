@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_uco",
+  "title": "U.C.O.",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q9090989",
+    "imdb": "tt1179229",
+    "tmdb": 72567
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

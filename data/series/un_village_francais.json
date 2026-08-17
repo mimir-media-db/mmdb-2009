@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_un_village_francais",
+  "title": "Un village français",
+  "start_year": 2009,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q3549122",
+    "imdb": "tt1288631",
+    "tmdb": 35046
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 66
+}
