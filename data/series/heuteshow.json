@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heuteshow",
+  "title": "heute-show",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q265519",
+    "imdb": "tt1441143",
+    "tmdb": 46056
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 290
+}

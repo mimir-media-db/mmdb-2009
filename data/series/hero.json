@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hero",
+  "title": "Hero",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q493679",
+    "imdb": "tt1622747",
+    "tmdb": 32384
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}
