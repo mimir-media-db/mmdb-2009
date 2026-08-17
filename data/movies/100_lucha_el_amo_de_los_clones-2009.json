@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_lucha_el_amo_de_los_clones_2009",
+  "title": "100% lucha, el amo de los clones",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106155070",
+    "imdb": "tt1454602",
+    "tmdb": 685978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}
