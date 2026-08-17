@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palavra_encantada_2009",
+  "title": "Palavra (en)cantada",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20048773",
+    "imdb": "tt1312241",
+    "tmdb": 172293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 83
+}

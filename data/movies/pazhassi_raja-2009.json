@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pazhassi_raja_2009",
+  "title": "Pazhassi Raja",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13111537",
+    "imdb": "tt0887769",
+    "tmdb": 78642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-16"
+}

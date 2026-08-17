@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puppenjungs_der_fall_haarmann_2009",
+  "title": "Puppenjungs – Der Fall Haarmann",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61780102",
+    "imdb": "tt3133802",
+    "tmdb": 343413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

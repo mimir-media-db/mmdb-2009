@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pop_star_on_ice_2009",
+  "title": "Pop Star on Ice",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28669095",
+    "imdb": "tt1329422",
+    "tmdb": 168591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}

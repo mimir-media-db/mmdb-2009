@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_promotion_2009",
+  "title": "The Promotion",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3532038",
+    "imdb": "tt0803057",
+    "tmdb": 13172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-04"
+}

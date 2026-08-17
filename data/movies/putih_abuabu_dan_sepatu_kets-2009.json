@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_putih_abuabu_dan_sepatu_kets_2009",
+  "title": "Putih Abu-Abu dan Sepatu Kets",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130147",
+    "imdb": "tt1537886",
+    "tmdb": 646506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-29",
+  "runtime_minutes": 85
+}

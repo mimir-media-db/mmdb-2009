@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paulista_2009",
+  "title": "Paulista",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10355903",
+    "imdb": "tt1205004",
+    "tmdb": 64510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-02",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paran_jai_jaliya_re_2009",
+  "title": "Paran Jai Jaliya Re",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7135420",
+    "imdb": "tt1496834",
+    "tmdb": 528428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

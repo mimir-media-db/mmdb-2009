@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plop_en_de_kabouterbaby_2009",
+  "title": "Plop en de kabouterbaby",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2115780",
+    "imdb": "tt1584845",
+    "tmdb": 37807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-09",
+  "runtime_minutes": 65
+}

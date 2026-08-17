@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_preman_in_love_2009",
+  "title": "Preman in Love",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12506426",
+    "imdb": "tt1479339"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

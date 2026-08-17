@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paintball_2009",
+  "title": "Paintball",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3360615",
+    "imdb": "tt1205071",
+    "tmdb": 25377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-07-10",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_boys_2009",
+  "title": "Paper Boys",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7132599",
+    "imdb": "tt1391110",
+    "tmdb": 207957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
