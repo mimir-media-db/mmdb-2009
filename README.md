@@ -1,2 +1,3 @@
-# mmdb-2009
-MMDB 2009 — Movies and series from 2009
+# MMDB — 2009
+
+Movies and series released in 2009.
