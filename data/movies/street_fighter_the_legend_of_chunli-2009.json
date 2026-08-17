@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_street_fighter_the_legend_of_chunli_2009",
+  "title": "Street Fighter: The Legend of Chun-Li",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q663645",
+    "imdb": "tt0891592",
+    "tmdb": 15268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 96
+}

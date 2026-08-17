@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sword_with_no_name_2009",
+  "title": "The Sword with No Name",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q493734",
+    "imdb": "tt1465518",
+    "tmdb": 41441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sticky_fingers_2009",
+  "title": "Sticky Fingers",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232153",
+    "imdb": "tt1305796",
+    "tmdb": 26219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

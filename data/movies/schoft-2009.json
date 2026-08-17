@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schoft_2009",
+  "title": "Schoft",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4838791",
+    "imdb": "tt1404718",
+    "tmdb": 256948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

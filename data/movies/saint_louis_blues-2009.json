@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saint_louis_blues_2009",
+  "title": "Saint Louis Blues",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5688032",
+    "imdb": "tt1483813",
+    "tmdb": 258484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

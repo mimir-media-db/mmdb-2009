@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_buddies_2009",
+  "title": "Santa Buddies",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2222779",
+    "imdb": "tt1328875",
+    "tmdb": 24833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

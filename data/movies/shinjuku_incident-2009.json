@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shinjuku_incident_2009",
+  "title": "Shinjuku Incident",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1152485",
+    "imdb": "tt1075419",
+    "tmdb": 20083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 119
+}

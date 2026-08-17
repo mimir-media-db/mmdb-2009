@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_the_mystery_begins_2009",
+  "title": "Scooby-Doo! The Mystery Begins",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q603584",
+    "imdb": "tt1258157",
+    "tmdb": 22620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 86
+}

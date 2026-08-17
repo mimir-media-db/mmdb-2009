@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samurai_sentai_shinkenger_the_movie_the_fateful_war_2009",
+  "title": "Samurai Sentai Shinkenger the Movie: The Fateful War",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4251515",
+    "imdb": "tt1467295",
+    "tmdb": 188297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

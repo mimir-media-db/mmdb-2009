@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_breakdown_2009",
+  "title": "Spring Breakdown",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2669623",
+    "imdb": "tt0814331",
+    "tmdb": 18826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 84
+}

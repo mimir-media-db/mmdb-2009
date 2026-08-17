@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surviving_evil_2009",
+  "title": "Surviving Evil",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2804921",
+    "imdb": "tt0804539",
+    "tmdb": 32857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

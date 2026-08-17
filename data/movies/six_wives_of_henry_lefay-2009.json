@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_six_wives_of_henry_lefay_2009",
+  "title": "The Six Wives of Henry Lefay",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3989320",
+    "imdb": "tt1074214",
+    "tmdb": 29919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}
