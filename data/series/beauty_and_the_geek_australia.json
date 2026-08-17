@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beauty_and_the_geek_australia",
+  "title": "Beauty and the Geek Australia",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4877934",
+    "imdb": "tt1530517",
+    "tmdb": 30972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 49
+}

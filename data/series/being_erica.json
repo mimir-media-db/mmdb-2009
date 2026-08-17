@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_being_erica",
+  "title": "Being Erica",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q573689",
+    "imdb": "tt1149608",
+    "tmdb": 8459
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 49
+}

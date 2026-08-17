@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bienvenue_aux_dames",
+  "title": "Bienvenue aux dames",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2901969",
+    "imdb": "tt1755066",
+    "tmdb": 35927
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

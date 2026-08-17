@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bbq_pitmasters",
+  "title": "BBQ Pitmasters",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4835067",
+    "imdb": "tt1554330",
+    "tmdb": 31978
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 49
+}

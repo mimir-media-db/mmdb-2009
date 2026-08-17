@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boy_meets_girl",
+  "title": "Boy Meets Girl",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4345092",
+    "imdb": "tt1225790",
+    "tmdb": 18627
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

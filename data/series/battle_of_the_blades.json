@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_battle_of_the_blades",
+  "title": "Battle of the Blades",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4872853",
+    "imdb": "tt1503671",
+    "tmdb": 21565
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 57
+}

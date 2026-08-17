@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_brothers_karamazov",
+  "title": "The Brothers Karamazov",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4096037",
+    "imdb": "tt0456762",
+    "tmdb": 77384
+  },
+  "last_updated": "2026-08-17"
+}
