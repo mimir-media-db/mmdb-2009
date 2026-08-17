@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eia_pour_cesaire_2009",
+  "title": "Eia pour Césaire",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118641025",
+    "imdb": "tt3179556",
+    "tmdb": 804562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 60
+}

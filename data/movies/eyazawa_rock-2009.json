@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eyazawa_rock_2009",
+  "title": "E.YAZAWA ROCK",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11197401",
+    "imdb": "tt1476977"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

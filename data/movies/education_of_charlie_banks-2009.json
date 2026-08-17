@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_education_of_charlie_banks_2009",
+  "title": "The Education of Charlie Banks",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3986749",
+    "imdb": "tt0783515",
+    "tmdb": 19587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-27",
+  "runtime_minutes": 100
+}

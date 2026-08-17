@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exile_2009",
+  "title": "Exile",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49856214",
+    "imdb": "tt5948186",
+    "tmdb": 461881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 48
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_expedition_grizzly_2009",
+  "title": "Expedition Grizzly",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11985646",
+    "imdb": "tt1487902"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

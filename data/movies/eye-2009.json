@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eye_2009",
+  "title": "The Eye",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898836",
+    "imdb": "tt0969313",
+    "tmdb": 347446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

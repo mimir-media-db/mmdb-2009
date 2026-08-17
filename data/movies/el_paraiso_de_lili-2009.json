@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_paraiso_de_lili_2009",
+  "title": "El Paraíso de Lili",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140770877",
+    "imdb": "tt1824958",
+    "tmdb": 788005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 17
+}

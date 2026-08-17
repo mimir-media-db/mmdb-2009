@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_busca_del_primer_europeo_2009",
+  "title": "En Busca del Primer Europeo",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55712951",
+    "imdb": "tt3800850"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 50
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elephant_love_2009",
+  "title": "Elephant Love",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18397407",
+    "imdb": "tt3628874",
+    "tmdb": 501449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

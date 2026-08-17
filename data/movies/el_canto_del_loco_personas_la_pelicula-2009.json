@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_canto_del_loco_personas_la_pelicula_2009",
+  "title": "El Canto del Loco - Personas: La película",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11003562",
+    "imdb": "tt1330985",
+    "tmdb": 316445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

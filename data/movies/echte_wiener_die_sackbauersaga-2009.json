@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_echte_wiener_die_sackbauersaga_2009",
+  "title": "Echte Wiener - Die Sackbauer-Saga",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1281036",
+    "imdb": "tt1174035",
+    "tmdb": 52858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-30",
+  "runtime_minutes": 111
+}

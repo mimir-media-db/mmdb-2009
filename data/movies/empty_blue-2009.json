@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_empty_blue_2009",
+  "title": "Empty Blue",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11291458",
+    "imdb": "tt1446061",
+    "tmdb": 599317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

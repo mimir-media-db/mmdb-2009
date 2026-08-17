@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_amanecer_2009",
+  "title": "El Amanecer",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109411496",
+    "imdb": "tt1556634",
+    "tmdb": 939859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

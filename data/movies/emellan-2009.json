@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_emellan_2009",
+  "title": "Emellan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10482166",
+    "imdb": "tt1583993"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
