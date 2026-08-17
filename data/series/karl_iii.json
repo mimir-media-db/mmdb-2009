@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_karl_iii",
+  "title": "Karl III",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6371920",
+    "imdb": "tt1388430",
+    "tmdb": 25584
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

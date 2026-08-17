@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kristian",
+  "title": "Kristian",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q12322906",
+    "imdb": "tt1545564",
+    "tmdb": 51139
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

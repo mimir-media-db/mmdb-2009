@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_king_of_snooker",
+  "title": "The King of Snooker",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3472304",
+    "imdb": "tt11912344",
+    "tmdb": 16238
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_komiks_presents_flash_bomba",
+  "title": "Komiks Presents: Flash Bomba",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6428338",
+    "imdb": "tt1388383",
+    "tmdb": 16292
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kaira_shopping",
+  "title": "Kaïra Shopping",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3194535",
+    "imdb": "tt4838260",
+    "tmdb": 82663
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 50
+}
