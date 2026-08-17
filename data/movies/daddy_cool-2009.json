@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daddy_cool_2009",
+  "title": "Daddy Cool",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5207996",
+    "imdb": "tt1404573",
+    "tmdb": 21606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

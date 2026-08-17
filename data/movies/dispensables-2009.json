@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dispensables_2009",
+  "title": "The Dispensables",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1212153",
+    "imdb": "tt1425220",
+    "tmdb": 210953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 114
+}

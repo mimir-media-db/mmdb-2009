@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirt_the_movie_2009",
+  "title": "Dirt! The Movie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5280921",
+    "imdb": "tt1243971",
+    "tmdb": 40090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 86
+}

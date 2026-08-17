@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_district_13_ultimatum_2009",
+  "title": "District 13: Ultimatum",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1144055",
+    "imdb": "tt1247640",
+    "tmdb": 15357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_to_the_spirits_2009",
+  "title": "Dance to the Spirits",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3015593",
+    "imdb": "tt1596727",
+    "tmdb": 1276835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

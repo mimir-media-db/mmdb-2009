@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_happens_2009",
+  "title": "Death Happens",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5247135",
+    "imdb": "tt2076782",
+    "tmdb": 44152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

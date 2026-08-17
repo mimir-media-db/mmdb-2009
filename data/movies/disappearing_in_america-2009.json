@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disappearing_in_america_2009",
+  "title": "Disappearing In America",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5281292",
+    "imdb": "tt0928362",
+    "tmdb": 112442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

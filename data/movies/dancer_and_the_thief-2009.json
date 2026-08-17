@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancer_and_the_thief_2009",
+  "title": "The Dancer and the Thief",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3826202",
+    "imdb": "tt1243375",
+    "tmdb": 35411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 105
+}
