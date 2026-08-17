@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_james_mays_toy_stories",
+  "title": "James May's Toy Stories",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3806671",
+    "imdb": "tt1536735",
+    "tmdb": 31107
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

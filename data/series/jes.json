@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jes",
+  "title": "Jes",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2008890",
+    "imdb": "tt1395461",
+    "tmdb": 26249
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}
