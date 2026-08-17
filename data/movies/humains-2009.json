@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_humains_2009",
+  "title": "Humains",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3143107",
+    "imdb": "tt1109478",
+    "tmdb": 17408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

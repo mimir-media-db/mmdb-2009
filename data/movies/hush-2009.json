@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hush_2009",
+  "title": "The Hush",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3685276",
+    "imdb": "tt1236389",
+    "tmdb": 57995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

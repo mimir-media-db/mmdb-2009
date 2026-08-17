@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_name_2009",
+  "title": "A Hard Name",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657254",
+    "imdb": "tt1435967",
+    "tmdb": 87299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

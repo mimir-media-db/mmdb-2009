@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_je_taime_2009",
+  "title": "Hollywood, je t'aime",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4141651",
+    "imdb": "tt1432150",
+    "tmdb": 44376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

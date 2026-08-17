@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_world_of_el_superbeasto_2009",
+  "title": "The Haunted World of El Superbeasto",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1324620",
+    "imdb": "tt0419724",
+    "tmdb": 23127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_cricket_and_the_giant_bugs_2009",
+  "title": "The Happy Cricket and the Giant Bugs",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3023628",
+    "imdb": "tt1670262",
+    "tmdb": 205949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
