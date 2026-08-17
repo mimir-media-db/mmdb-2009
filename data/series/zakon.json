@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zakon",
+  "title": "Zakon!",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q11224276",
+    "imdb": "tt1305794",
+    "tmdb": 131749
+  },
+  "last_updated": "2026-08-17"
+}
