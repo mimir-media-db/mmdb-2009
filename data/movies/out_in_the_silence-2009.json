@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_in_the_silence_2009",
+  "title": "Out in the Silence",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7111505",
+    "imdb": "tt1564058",
+    "tmdb": 105781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 56
+}

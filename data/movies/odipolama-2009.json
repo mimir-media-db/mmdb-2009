@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_odipolama_2009",
+  "title": "Odipolama",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7077837",
+    "imdb": "tt6767754",
+    "tmdb": 111780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
