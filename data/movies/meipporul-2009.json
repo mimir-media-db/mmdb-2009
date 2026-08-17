@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meipporul_2009",
+  "title": "Meipporul",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77901171",
+    "imdb": "tt1260382",
+    "tmdb": 1131340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_2009",
+  "title": "The Miracle",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4517676",
+    "imdb": "tt1197626",
+    "tmdb": 240789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-10",
+  "runtime_minutes": 110
+}

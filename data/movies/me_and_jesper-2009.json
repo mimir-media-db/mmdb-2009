@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_jesper_2009",
+  "title": "Me and Jesper",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20756875",
+    "imdb": "tt4147352"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 49
+}

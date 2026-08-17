@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_milosc_na_wybiegu_2009",
+  "title": "Milosc na wybiegu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11784158",
+    "imdb": "tt1494798",
+    "tmdb": 68801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-21",
+  "runtime_minutes": 94
+}

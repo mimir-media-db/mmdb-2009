@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mama_lova_2009",
+  "title": "Mama Lova",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16662612",
+    "imdb": "tt1996315"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

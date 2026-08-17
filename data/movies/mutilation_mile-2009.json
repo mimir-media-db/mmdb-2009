@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mutilation_mile_2009",
+  "title": "Mutilation Mile",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18708858",
+    "imdb": "tt1443355",
+    "tmdb": 253410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

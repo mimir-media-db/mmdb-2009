@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_making_of_2009",
+  "title": "Making Of",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2364819",
+    "imdb": "tt0976145",
+    "tmdb": 177501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-28",
+  "runtime_minutes": 120
+}

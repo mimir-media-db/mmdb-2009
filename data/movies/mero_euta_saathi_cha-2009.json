@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mero_euta_saathi_cha_2009",
+  "title": "Mero Euta Saathi Cha",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6819905",
+    "imdb": "tt2094059",
+    "tmdb": 495701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-28"
+}

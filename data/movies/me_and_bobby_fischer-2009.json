@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_bobby_fischer_2009",
+  "title": "Me and Bobby Fischer",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6803027",
+    "imdb": "tt5709168",
+    "tmdb": 354676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-17"
+}

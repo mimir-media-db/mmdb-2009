@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_motor_y_motivo_2009",
+  "title": "Motor y motivo",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278501",
+    "imdb": "tt6447664",
+    "tmdb": 941557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

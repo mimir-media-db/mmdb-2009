@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mark_of_love_2009",
+  "title": "Mark of Love",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23607821",
+    "imdb": "tt1522156",
+    "tmdb": 208191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_missing_father_2009",
+  "title": "Missing Father",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50082186",
+    "imdb": "tt3517034"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

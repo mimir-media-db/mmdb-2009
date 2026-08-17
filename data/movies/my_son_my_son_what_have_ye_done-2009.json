@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_son_my_son_what_have_ye_done_2009",
+  "title": "My Son, My Son, What Have Ye Done?",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1511905",
+    "imdb": "tt1233219",
+    "tmdb": 44027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-06",
+  "runtime_minutes": 91
+}

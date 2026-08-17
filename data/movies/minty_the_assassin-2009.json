@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minty_the_assassin_2009",
+  "title": "Minty: The Assassin",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21070731",
+    "imdb": "tt0975699",
+    "tmdb": 71612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moving_earth_2009",
+  "title": "The Moving Earth",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728377",
+    "imdb": "tt1468834",
+    "tmdb": 267477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-30",
+  "runtime_minutes": 52
+}

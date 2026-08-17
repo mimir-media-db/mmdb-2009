@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midday_sun_2009",
+  "title": "The Midday Sun",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10339818",
+    "imdb": "tt1732720",
+    "tmdb": 274446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

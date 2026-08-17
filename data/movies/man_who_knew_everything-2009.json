@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_knew_everything_2009",
+  "title": "The Man Who Knew Everything",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4508484",
+    "imdb": "tt1194603",
+    "tmdb": 22495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-11",
+  "runtime_minutes": 106
+}
