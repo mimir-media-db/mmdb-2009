@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_30_seconds",
+  "title": "30 Seconds",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4634528",
+    "imdb": "tt1407326",
+    "tmdb": 18100
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
