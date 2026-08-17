@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polytechnique_2009",
+  "title": "Polytechnique",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2053630",
+    "imdb": "tt1194238",
+    "tmdb": 22302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 77
+}

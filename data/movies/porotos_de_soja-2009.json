@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_porotos_de_soja_2009",
+  "title": "Porotos de soja",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6082955",
+    "imdb": "tt1438532"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 98
+}

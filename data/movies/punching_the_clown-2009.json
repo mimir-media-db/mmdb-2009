@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punching_the_clown_2009",
+  "title": "Punching the Clown",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7260001",
+    "imdb": "tt1192624",
+    "tmdb": 47863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

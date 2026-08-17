@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penance_2009",
+  "title": "Penance",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7162201",
+    "imdb": "tt1261414",
+    "tmdb": 30286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}

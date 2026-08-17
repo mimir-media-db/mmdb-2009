@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paco_2009",
+  "title": "Paco",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q501749",
+    "imdb": "tt1334466",
+    "tmdb": 46810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 128
+}

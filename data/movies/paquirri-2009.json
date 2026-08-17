@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paquirri_2009",
+  "title": "Paquirri",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6060321",
+    "imdb": "tt1468802",
+    "tmdb": 735259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

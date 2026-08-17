@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piede_di_dio_2009",
+  "title": "Piede di Dio",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3902734",
+    "imdb": "tt1439250",
+    "tmdb": 81934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 97
+}

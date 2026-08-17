@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_passing_strange_2009",
+  "title": "Passing Strange",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3897288",
+    "imdb": "tt3457144",
+    "tmdb": 24487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
