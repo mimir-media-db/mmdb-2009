@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_damnation_2009",
+  "title": "City of Damnation",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492014",
+    "imdb": "tt1880412",
+    "tmdb": 19613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-22",
+  "runtime_minutes": 121
+}

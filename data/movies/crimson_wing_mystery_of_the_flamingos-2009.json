@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimson_wing_mystery_of_the_flamingos_2009",
+  "title": "The Crimson Wing: Mystery of the Flamingos",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3230433",
+    "imdb": "tt0902967",
+    "tmdb": 36569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-25",
+  "runtime_minutes": 78
+}

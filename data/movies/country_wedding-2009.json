@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_country_wedding_2009",
+  "title": "Country Wedding",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q617161",
+    "imdb": "tt1039891",
+    "tmdb": 35624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clone_returns_home_2009",
+  "title": "The Clone Returns Home",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11299921",
+    "imdb": "tt1313130",
+    "tmdb": 42938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

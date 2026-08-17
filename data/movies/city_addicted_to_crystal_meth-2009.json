@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_addicted_to_crystal_meth_2009",
+  "title": "The City Addicted to Crystal Meth",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7723163",
+    "imdb": "tt1712046",
+    "tmdb": 68363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

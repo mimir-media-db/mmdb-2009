@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chocolate_2009",
+  "title": "Chocolate",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466354",
+    "imdb": "tt1183252",
+    "tmdb": 15003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-06",
+  "runtime_minutes": 110
+}

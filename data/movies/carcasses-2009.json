@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carcasses_2009",
+  "title": "Carcasses",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50379340",
+    "imdb": "tt1426357",
+    "tmdb": 102807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 72
+}

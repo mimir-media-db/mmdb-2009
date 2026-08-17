@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_tropics_2009",
+  "title": "Cold Tropics",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18469748",
+    "imdb": "tt2246947",
+    "tmdb": 181539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 24
+}

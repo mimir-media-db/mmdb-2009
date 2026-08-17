@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cher_ami_2009",
+  "title": "Cher Ami",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8345237",
+    "imdb": "tt1476250",
+    "tmdb": 215408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-19",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cooking_up_dreams_2009",
+  "title": "Cooking Up Dreams",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278493",
+    "imdb": "tt1561435",
+    "tmdb": 128990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cabeza_de_buda_2009",
+  "title": "Cabeza de buda",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21480493",
+    "imdb": "tt1512735",
+    "tmdb": 340694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

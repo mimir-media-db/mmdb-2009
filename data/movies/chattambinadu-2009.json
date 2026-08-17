@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chattambinadu_2009",
+  "title": "Chattambinadu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5087857",
+    "imdb": "tt1574343",
+    "tmdb": 198351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-01"
+}

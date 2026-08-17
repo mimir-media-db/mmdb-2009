@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cracks_2009",
+  "title": "Cracks",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2708250",
+    "imdb": "tt1183665",
+    "tmdb": 35052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-11",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_citizen_havel_is_rolling_the_empty_barrels_2009",
+  "title": "Citizen Havel Is Rolling the Empty Barrels",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12042058",
+    "imdb": "tt2307690",
+    "tmdb": 1627705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-14",
+  "runtime_minutes": 72
+}

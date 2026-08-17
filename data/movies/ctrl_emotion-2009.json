@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ctrl_emotion_2009",
+  "title": "Ctrl Emotion",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5191791",
+    "imdb": "tt3534388",
+    "tmdb": 123485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-09",
+  "runtime_minutes": 23
+}
