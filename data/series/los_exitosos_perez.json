@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_exitosos_perez",
+  "title": "Los Exitosos Perez",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1975034",
+    "imdb": "tt1514956",
+    "tmdb": 32143
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 175
+}

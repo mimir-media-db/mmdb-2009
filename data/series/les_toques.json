@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_toques",
+  "title": "Les Toqués",
+  "start_year": 2009,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3235770",
+    "imdb": "tt1350516",
+    "tmdb": 117081
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_little_krishna",
+  "title": "Little Krishna",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6650615",
+    "imdb": "tt1629042",
+    "tmdb": 41780
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

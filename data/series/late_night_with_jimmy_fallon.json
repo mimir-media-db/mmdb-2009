@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_late_night_with_jimmy_fallon",
+  "title": "Late Night with Jimmy Fallon",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1817561",
+    "imdb": "tt1231460",
+    "tmdb": 8621
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 969
+}

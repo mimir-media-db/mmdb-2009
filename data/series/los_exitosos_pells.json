@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_los_exitosos_pells",
+  "title": "Los exitosos Pells",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q979238",
+    "imdb": "tt1397119",
+    "tmdb": 100527
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 142
+}
