@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sajan_ghar_jaana_hai",
+  "title": "Sajan Ghar Jaana Hai",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7402614",
+    "imdb": "tt4533740",
+    "tmdb": 30750
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 233
+}

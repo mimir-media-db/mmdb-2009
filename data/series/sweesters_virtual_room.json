@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_sweesters_virtual_room",
+  "title": "Sweesters: Virtual Room",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3978763",
+    "imdb": "tt1376674"
+  },
+  "last_updated": "2026-08-17"
+}

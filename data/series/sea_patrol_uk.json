@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sea_patrol_uk",
+  "title": "Sea Patrol UK",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7439965",
+    "imdb": "tt1655222",
+    "tmdb": 32703
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_scoop",
+  "title": "Scoop",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7434372",
+    "imdb": "tt1365377"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

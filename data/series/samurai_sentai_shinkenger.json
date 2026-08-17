@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_samurai_sentai_shinkenger",
+  "title": "Samurai Sentai Shinkenger",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1193889",
+    "imdb": "tt1353147",
+    "tmdb": 16347
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 49
+}

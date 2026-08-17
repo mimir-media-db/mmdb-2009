@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sas_got_talent",
+  "title": "SA's Got Talent",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7388399",
+    "imdb": "tt5763250",
+    "tmdb": 31506
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7
+}

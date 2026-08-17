@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scenes_de_menages",
+  "title": "Scènes de ménages",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3476602",
+    "imdb": "tt1533783",
+    "tmdb": 55216
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 4250
+}

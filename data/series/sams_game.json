@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_sams_game",
+  "title": "Sam's Game",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7407013",
+    "imdb": "tt1476008"
+  },
+  "last_updated": "2026-08-17"
+}

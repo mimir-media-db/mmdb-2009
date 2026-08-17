@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_saints_and_scroungers",
+  "title": "Saints and Scroungers",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7402445",
+    "imdb": "tt1499821",
+    "tmdb": 37118
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 155
+}
