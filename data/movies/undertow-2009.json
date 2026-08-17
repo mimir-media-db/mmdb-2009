@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_undertow_2009",
+  "title": "Undertow",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2640882",
+    "imdb": "tt1368491",
+    "tmdb": 52799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-23",
+  "runtime_minutes": 102
+}

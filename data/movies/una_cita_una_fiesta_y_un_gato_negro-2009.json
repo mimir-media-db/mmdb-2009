@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_cita_una_fiesta_y_un_gato_negro_2009",
+  "title": "Una cita, una fiesta y un gato negro",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001748",
+    "imdb": "tt1741278",
+    "tmdb": 928502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_usb_2009",
+  "title": "USB",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11252123",
+    "imdb": "tt1365566",
+    "tmdb": 338300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
