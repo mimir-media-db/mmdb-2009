@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jusqua_toi_2009",
+  "title": "Jusqu'à toi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3190258",
+    "imdb": "tt1094668",
+    "tmdb": 32338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}
