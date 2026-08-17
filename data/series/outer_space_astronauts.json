@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outer_space_astronauts",
+  "title": "Outer Space Astronauts",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7112011",
+    "imdb": "tt1265869",
+    "tmdb": 26142
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

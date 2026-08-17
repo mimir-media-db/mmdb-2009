@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_overruled",
+  "title": "Overruled!",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1573814",
+    "imdb": "tt0906712",
+    "tmdb": 21526
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_oliver_pocher_show",
+  "title": "The Oliver Pocher Show",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1215262",
+    "imdb": "tt1507077",
+    "tmdb": 31326
+  },
+  "last_updated": "2026-08-17"
+}
