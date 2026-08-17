@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_london_dreams_2009",
+  "title": "London Dreams",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4266474",
+    "imdb": "tt0486615",
+    "tmdb": 25511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 152
+}

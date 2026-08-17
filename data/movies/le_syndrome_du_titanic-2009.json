@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_syndrome_du_titanic_2009",
+  "title": "Le syndrome du Titanic",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3227490",
+    "imdb": "tt1503718",
+    "tmdb": 52374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

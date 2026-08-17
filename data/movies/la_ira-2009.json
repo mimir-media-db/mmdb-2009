@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ira_2009",
+  "title": "La ira",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967055",
+    "imdb": "tt1446482"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

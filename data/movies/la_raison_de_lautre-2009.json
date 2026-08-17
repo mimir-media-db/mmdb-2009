@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_raison_de_lautre_2009",
+  "title": "La Raison de l'autre",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212147",
+    "imdb": "tt1593715",
+    "tmdb": 64105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

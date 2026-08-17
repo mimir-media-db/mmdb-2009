@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liebe_mauer_2009",
+  "title": "Liebe Mauer",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1764911",
+    "imdb": "tt1471171",
+    "tmdb": 43652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legal_aid_2009",
+  "title": "Legal Aid",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2986282",
+    "imdb": "tt1179836",
+    "tmdb": 17659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

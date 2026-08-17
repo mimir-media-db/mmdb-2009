@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_dandelion_dust_2009",
+  "title": "Like Dandelion Dust",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4004066",
+    "imdb": "tt0981042",
+    "tmdb": 43937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

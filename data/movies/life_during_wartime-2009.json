@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_during_wartime_2009",
+  "title": "Life During Wartime",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2661541",
+    "imdb": "tt0808526",
+    "tmdb": 39800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 98
+}

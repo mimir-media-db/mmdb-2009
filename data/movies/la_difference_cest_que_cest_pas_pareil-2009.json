@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_difference_cest_que_cest_pas_pareil_2009",
+  "title": "La différence, c'est que c'est pas pareil",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3214049",
+    "imdb": "tt1135923",
+    "tmdb": 54448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

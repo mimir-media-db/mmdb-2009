@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leslie_my_name_is_evil_2009",
+  "title": "Leslie, My Name Is Evil",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3830900",
+    "imdb": "tt1345488",
+    "tmdb": 45622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

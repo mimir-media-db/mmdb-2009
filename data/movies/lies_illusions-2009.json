@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lies_illusions_2009",
+  "title": "Lies & Illusions",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6544252",
+    "imdb": "tt1202222",
+    "tmdb": 23736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

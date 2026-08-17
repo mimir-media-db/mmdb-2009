@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_evil_2009",
+  "title": "Live Evil",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6655114",
+    "imdb": "tt0791321",
+    "tmdb": 28930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

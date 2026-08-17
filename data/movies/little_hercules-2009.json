@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_hercules_2009",
+  "title": "Little Hercules",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3256687",
+    "imdb": "tt0489210",
+    "tmdb": 74178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

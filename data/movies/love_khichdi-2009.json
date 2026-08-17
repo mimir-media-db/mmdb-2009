@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_khichdi_2009",
+  "title": "Love Khichdi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690901",
+    "imdb": "tt1474271",
+    "tmdb": 21611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 130
+}

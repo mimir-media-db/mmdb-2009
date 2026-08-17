@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_tigra_chaco_2009",
+  "title": "La Tigra, Chaco",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6460847",
+    "imdb": "tt1318899",
+    "tmdb": 252426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 79
+}

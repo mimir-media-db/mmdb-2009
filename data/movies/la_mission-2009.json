@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mission_2009",
+  "title": "La Mission",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3210737",
+    "imdb": "tt1200272",
+    "tmdb": 43219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_domination_masculine_2009",
+  "title": "La domination masculine",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208331",
+    "imdb": "tt1499246",
+    "tmdb": 59596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 103
+}
