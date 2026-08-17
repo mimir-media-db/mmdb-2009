@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_tundra_2009",
+  "title": "The Wild Tundra",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72882330"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 6
+}

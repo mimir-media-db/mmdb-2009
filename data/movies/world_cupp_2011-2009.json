@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_world_cupp_2011_2009",
+  "title": "World Cupp 2011",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8035626",
+    "imdb": "tt1591615"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

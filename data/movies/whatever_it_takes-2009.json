@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whatever_it_takes_2009",
+  "title": "Whatever It Takes",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131849877",
+    "imdb": "tt0478056",
+    "tmdb": 154801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-14",
+  "runtime_minutes": 54
+}

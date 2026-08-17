@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_and_love_in_kabul_2009",
+  "title": "War and Love in Kabul",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25796251",
+    "imdb": "tt1363475",
+    "tmdb": 310454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-07"
+}

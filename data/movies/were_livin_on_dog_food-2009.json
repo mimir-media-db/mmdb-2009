@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_were_livin_on_dog_food_2009",
+  "title": "We're Livin' on Dog Food",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24190369",
+    "imdb": "tt1490031",
+    "tmdb": 305732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

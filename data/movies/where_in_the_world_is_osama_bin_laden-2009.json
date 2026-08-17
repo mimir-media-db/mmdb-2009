@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_in_the_world_is_osama_bin_laden_2009",
+  "title": "Where in the World Is Osama Bin Laden?",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3666921",
+    "imdb": "tt0963208",
+    "tmdb": 12179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-09",
+  "runtime_minutes": 90
+}

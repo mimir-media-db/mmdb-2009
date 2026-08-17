@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_boys_2009",
+  "title": "The War Boys",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12132358",
+    "imdb": "tt1070887",
+    "tmdb": 39958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

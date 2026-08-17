@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_the_mods_2009",
+  "title": "We Are The Mods",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978413",
+    "imdb": "tt1125297",
+    "tmdb": 139648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 81
+}

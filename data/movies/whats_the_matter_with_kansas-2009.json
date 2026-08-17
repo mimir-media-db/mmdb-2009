@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_the_matter_with_kansas_2009",
+  "title": "What's the Matter with Kansas?",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7990901",
+    "imdb": "tt1323977",
+    "tmdb": 55840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

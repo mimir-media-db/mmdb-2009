@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_city_2009",
+  "title": "The Waiting City",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7773224",
+    "imdb": "tt1270850",
+    "tmdb": 49733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

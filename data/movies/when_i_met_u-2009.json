@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_met_u_2009",
+  "title": "When I Met U",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7992566",
+    "imdb": "tt1236382",
+    "tmdb": 72255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_warmi_varaq_2009",
+  "title": "Warmi Varaq",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130163225"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

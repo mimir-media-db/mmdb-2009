@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_wedding_2009",
+  "title": "White Wedding",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522764",
+    "imdb": "tt1213929",
+    "tmdb": 24681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-29",
+  "runtime_minutes": 93
+}

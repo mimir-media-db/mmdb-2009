@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_why_beauty_matters_2009",
+  "title": "Why Beauty Matters",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755376",
+    "imdb": "tt3006616",
+    "tmdb": 220290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_written_by_2009",
+  "title": "Written By",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8038550",
+    "imdb": "tt1451620",
+    "tmdb": 25187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}
