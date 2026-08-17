@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xmen_the_last_stand_2009",
+  "title": "X-Men: The Last Stand",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q221168",
+    "imdb": "tt0376994",
+    "tmdb": 36668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-21",
+  "runtime_minutes": 104
+}
