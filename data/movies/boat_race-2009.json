@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boat_race_2009",
+  "title": "The Boat Race",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212574",
+    "imdb": "tt1406175",
+    "tmdb": 54152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-08",
+  "runtime_minutes": 100
+}

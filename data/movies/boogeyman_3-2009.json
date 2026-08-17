@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boogeyman_3_2009",
+  "title": "Boogeyman 3",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1059522",
+    "imdb": "tt1204883",
+    "tmdb": 15262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-30",
+  "runtime_minutes": 94
+}

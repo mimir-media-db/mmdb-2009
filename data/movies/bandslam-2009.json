@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bandslam_2009",
+  "title": "Bandslam",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q806374",
+    "imdb": "tt0976222",
+    "tmdb": 23367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-06",
+  "runtime_minutes": 111
+}

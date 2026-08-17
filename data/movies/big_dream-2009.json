@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_dream_2009",
+  "title": "The Big Dream",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3226819",
+    "imdb": "tt1194231",
+    "tmdb": 51477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-09",
+  "runtime_minutes": 101
+}

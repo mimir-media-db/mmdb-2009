@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blessing_2009",
+  "title": "The Blessing",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496376",
+    "imdb": "tt1299391",
+    "tmdb": 23596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-24",
+  "runtime_minutes": 75
+}

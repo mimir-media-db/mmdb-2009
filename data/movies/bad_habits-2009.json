@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_habits_2009",
+  "title": "Bad Habits",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17985708",
+    "imdb": "tt1378190",
+    "tmdb": 332233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

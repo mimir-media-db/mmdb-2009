@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_buenos_aires_2009",
+  "title": "Black Buenos Aires",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11938525",
+    "imdb": "tt1182315",
+    "tmdb": 109817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-13",
+  "runtime_minutes": 90
+}

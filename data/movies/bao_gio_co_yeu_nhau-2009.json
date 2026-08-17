@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bao_gio_co_yeu_nhau_2009",
+  "title": "Bao giờ có yêu nhau",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130748647",
+    "imdb": "tt5660296",
+    "tmdb": 514833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-12"
+}

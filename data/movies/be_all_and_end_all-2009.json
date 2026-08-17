@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_all_and_end_all_2009",
+  "title": "The Be All and End All",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7715945",
+    "imdb": "tt1220873",
+    "tmdb": 61529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

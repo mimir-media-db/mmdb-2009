@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bukan_cinta_biasa_2009",
+  "title": "Bukan Cinta Biasa",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12477446",
+    "imdb": "tt1431030",
+    "tmdb": 380934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

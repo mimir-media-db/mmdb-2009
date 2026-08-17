@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_oranges_2009",
+  "title": "Blue Oranges",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16827644",
+    "imdb": "tt1334437",
+    "tmdb": 309256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

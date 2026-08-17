@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_2009",
+  "title": "Beauty",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4877868",
+    "imdb": "tt1711444",
+    "tmdb": 831532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-14"
+}

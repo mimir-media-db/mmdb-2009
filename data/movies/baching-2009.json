@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baching_2009",
+  "title": "Baching",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q798185",
+    "imdb": "tt1250944",
+    "tmdb": 64052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-12",
+  "runtime_minutes": 90
+}

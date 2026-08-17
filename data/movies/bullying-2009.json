@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullying_2009",
+  "title": "Bullying",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8253600",
+    "imdb": "tt1288635",
+    "tmdb": 73911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 112
+}

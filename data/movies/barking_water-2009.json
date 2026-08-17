@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barking_water_2009",
+  "title": "Barking Water",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12101803",
+    "imdb": "tt1201135",
+    "tmdb": 53121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}

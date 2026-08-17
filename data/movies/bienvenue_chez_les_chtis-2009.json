@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bienvenue_chez_les_chtis_2009",
+  "title": "Bienvenue chez les Ch'tis",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1144330",
+    "imdb": "tt1064932",
+    "tmdb": 8265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-30",
+  "runtime_minutes": 106
+}
