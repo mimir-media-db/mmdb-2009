@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3xftm_2009",
+  "title": "3xFTM",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55726595",
+    "imdb": "tt6447466",
+    "tmdb": 608848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-04"
+}

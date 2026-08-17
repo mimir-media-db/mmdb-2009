@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_32nd_december_love_error_2009",
+  "title": "32nd December Love Error",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13012296",
+    "imdb": "tt1893188",
+    "tmdb": 81766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
