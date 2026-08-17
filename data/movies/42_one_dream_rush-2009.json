@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_42_one_dream_rush_2009",
+  "title": "42 One Dream Rush",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18420798",
+    "imdb": "tt2073510",
+    "tmdb": 1264525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-15",
+  "runtime_minutes": 42
+}
