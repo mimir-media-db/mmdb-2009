@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_imprescindibles",
+  "title": "Imprescindibles",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85871307",
+    "imdb": "tt2614298",
+    "tmdb": 83130
+  },
+  "last_updated": "2026-08-17"
+}

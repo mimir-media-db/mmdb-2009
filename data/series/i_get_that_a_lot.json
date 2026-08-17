@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_get_that_a_lot",
+  "title": "I Get That a Lot",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3853423",
+    "imdb": "tt1404620",
+    "tmdb": 17873
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 7
+}

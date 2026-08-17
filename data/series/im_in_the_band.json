@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_im_in_the_band",
+  "title": "I'm in the Band",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q18925",
+    "imdb": "tt1433495",
+    "tmdb": 21650
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 42
+}

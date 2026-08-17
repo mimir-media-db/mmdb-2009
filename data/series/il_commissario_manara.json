@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_il_commissario_manara",
+  "title": "Il commissario Manara",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3793538",
+    "imdb": "tt1100935",
+    "tmdb": 40889
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}
