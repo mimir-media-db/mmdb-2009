@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ob_ihr_wollt_oder_nicht_2009",
+  "title": "Ob ihr wollt oder nicht!",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21145868",
+    "imdb": "tt1227529",
+    "tmdb": 162362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 110
+}

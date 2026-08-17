@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onezero_2009",
+  "title": "One-Zero",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12250426",
+    "imdb": "tt1410252",
+    "tmdb": 57802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-04",
+  "runtime_minutes": 105
+}

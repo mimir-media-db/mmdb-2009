@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_os_famosos_e_os_duendes_da_morte_2009",
+  "title": "Os Famosos e os Duendes da Morte",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7105461",
+    "imdb": "tt1483795",
+    "tmdb": 73919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-08"
+}

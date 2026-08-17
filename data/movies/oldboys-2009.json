@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oldboys_2009",
+  "title": "Oldboys",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12330002",
+    "imdb": "tt1298847",
+    "tmdb": 41454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-25",
+  "runtime_minutes": 100
+}
