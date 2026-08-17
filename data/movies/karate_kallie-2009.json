@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karate_kallie_2009",
+  "title": "Karate Kallie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13035134",
+    "imdb": "tt1504680",
+    "tmdb": 88993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-18",
+  "runtime_minutes": 90
+}

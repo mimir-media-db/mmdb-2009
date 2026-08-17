@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killshot_2009",
+  "title": "Killshot",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2699480",
+    "imdb": "tt0443559",
+    "tmdb": 16164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-07-16",
+  "runtime_minutes": 95
+}

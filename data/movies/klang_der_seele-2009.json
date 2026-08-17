@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_klang_der_seele_2009",
+  "title": "Klang der Seele",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60385816",
+    "imdb": "tt1450093"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-07-09",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kembang_perawan_2009",
+  "title": "Kembang Perawan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12490705",
+    "imdb": "tt1535591",
+    "tmdb": 791715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-22"
+}

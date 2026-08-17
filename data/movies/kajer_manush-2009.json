@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kajer_manush_2009",
+  "title": "Kajer Manush",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91162185",
+    "imdb": "tt2572120"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

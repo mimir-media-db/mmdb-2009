@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kawasakis_rose_2009",
+  "title": "Kawasaki's Rose",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3500440",
+    "imdb": "tt1552197",
+    "tmdb": 54312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-21",
+  "runtime_minutes": 95
+}
