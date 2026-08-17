@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nini",
+  "title": "Niní",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1080627",
+    "imdb": "tt1509784",
+    "tmdb": 42111
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 137
+}

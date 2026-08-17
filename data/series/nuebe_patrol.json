@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nuebe_patrol",
+  "title": "Nuebe Patrol",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16959538",
+    "tmdb": 59971
+  },
+  "last_updated": "2026-08-17"
+}

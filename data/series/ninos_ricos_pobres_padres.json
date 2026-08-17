@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ninos_ricos_pobres_padres",
+  "title": "Niños Ricos, Pobres Padres",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1086658",
+    "imdb": "tt1464446"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 125
+}
