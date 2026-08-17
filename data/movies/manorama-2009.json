@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manorama_2009",
+  "title": "Manorama",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6751415",
+    "imdb": "tt2255008",
+    "tmdb": 132460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

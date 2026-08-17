@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maos_last_dancer_2009",
+  "title": "Mao's Last Dancer",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q622877",
+    "imdb": "tt1071812",
+    "tmdb": 33870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 121
+}

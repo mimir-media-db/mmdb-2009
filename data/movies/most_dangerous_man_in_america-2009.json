@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_most_dangerous_man_in_america_2009",
+  "title": "The Most Dangerous Man in America",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1198661",
+    "imdb": "tt1319726",
+    "tmdb": 34576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

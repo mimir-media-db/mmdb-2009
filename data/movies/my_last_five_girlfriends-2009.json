@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_last_five_girlfriends_2009",
+  "title": "My Last Five Girlfriends",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4386088",
+    "imdb": "tt1050002",
+    "tmdb": 43550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

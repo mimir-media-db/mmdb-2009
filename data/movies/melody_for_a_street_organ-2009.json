@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_melody_for_a_street_organ_2009",
+  "title": "Melody for a Street Organ",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1753634",
+    "imdb": "tt1482194",
+    "tmdb": 149150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 153
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_more_than_a_game_2009",
+  "title": "More Than a Game",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3862911",
+    "imdb": "tt1286821",
+    "tmdb": 33295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 105
+}

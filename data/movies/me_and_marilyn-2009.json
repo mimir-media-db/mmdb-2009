@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_marilyn_2009",
+  "title": "Me and Marilyn",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3801068",
+    "imdb": "tt1523479",
+    "tmdb": 52124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

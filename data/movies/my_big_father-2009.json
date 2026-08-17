@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_big_father_2009",
+  "title": "My Big Father",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945028",
+    "imdb": "tt1704175",
+    "tmdb": 365576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

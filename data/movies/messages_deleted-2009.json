@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_messages_deleted_2009",
+  "title": "Messages Deleted",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6821818",
+    "imdb": "tt1072754",
+    "tmdb": 79073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

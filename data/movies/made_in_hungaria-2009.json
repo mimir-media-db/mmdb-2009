@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_hungaria_2009",
+  "title": "Made in Hungaria",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1161435",
+    "imdb": "tt1224369",
+    "tmdb": 60279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 109
+}

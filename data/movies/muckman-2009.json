@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muckman_2009",
+  "title": "Muckman",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6931198",
+    "imdb": "tt1460014",
+    "tmdb": 103984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

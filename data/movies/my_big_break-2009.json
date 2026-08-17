@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_big_break_2009",
+  "title": "My Big Break",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945014",
+    "imdb": "tt0999986",
+    "tmdb": 248330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

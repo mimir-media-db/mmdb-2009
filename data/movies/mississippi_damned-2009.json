@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mississippi_damned_2009",
+  "title": "Mississippi Damned",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6879110",
+    "imdb": "tt1169834",
+    "tmdb": 193309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 120
+}

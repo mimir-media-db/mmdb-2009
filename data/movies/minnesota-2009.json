@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minnesota_2009",
+  "title": "Minnesota",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4295012",
+    "imdb": "tt1435543",
+    "tmdb": 63922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 86
+}
