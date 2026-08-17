@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guru_en_aalu_2009",
+  "title": "Guru En Aalu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5620350",
+    "imdb": "tt2777850",
+    "tmdb": 20045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grado_3_2009",
+  "title": "Grado 3",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5884037",
+    "imdb": "tt1479680",
+    "tmdb": 41864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 110
+}

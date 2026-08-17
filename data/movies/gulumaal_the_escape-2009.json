@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gulumaal_the_escape_2009",
+  "title": "Gulumaal: The Escape",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5617922",
+    "imdb": "tt1645757",
+    "tmdb": 330505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_groupie_2009",
+  "title": "Groupie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3118112",
+    "imdb": "tt1422653",
+    "tmdb": 44014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 79
+}

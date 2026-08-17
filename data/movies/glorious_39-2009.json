@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glorious_39_2009",
+  "title": "Glorious 39",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2583180",
+    "imdb": "tt1319694",
+    "tmdb": 35939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 129
+}
