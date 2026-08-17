@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_16_to_life_2009",
+  "title": "16 to Life",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4552091",
+    "imdb": "tt1130087",
+    "tmdb": 91122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
