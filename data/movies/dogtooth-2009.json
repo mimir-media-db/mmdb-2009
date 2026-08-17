@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dogtooth_2009",
+  "title": "Dogtooth",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1075918",
+    "imdb": "tt1379182",
+    "tmdb": 38810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-18",
+  "runtime_minutes": 93
+}

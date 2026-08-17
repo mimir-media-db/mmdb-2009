@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disappearance_2009",
+  "title": "Disappearance",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349578",
+    "imdb": "tt1562437",
+    "tmdb": 108513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-19"
+}

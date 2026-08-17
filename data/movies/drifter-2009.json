@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drifter_2009",
+  "title": "Drifter",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1258948",
+    "imdb": "tt1178123",
+    "tmdb": 507554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-11",
+  "runtime_minutes": 80
+}

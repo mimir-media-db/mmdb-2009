@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_delta_2009",
+  "title": "Delta",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q903603",
+    "imdb": "tt0910860",
+    "tmdb": 8896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-06",
+  "runtime_minutes": 92
+}

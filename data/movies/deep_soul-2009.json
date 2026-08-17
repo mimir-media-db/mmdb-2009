@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_soul_2009",
+  "title": "Deep Soul",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16834763",
+    "imdb": "tt1334328",
+    "tmdb": 53128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-22",
+  "runtime_minutes": 142
+}

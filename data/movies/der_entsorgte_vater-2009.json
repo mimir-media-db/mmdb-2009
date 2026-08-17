@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_entsorgte_vater_2009",
+  "title": "Der entsorgte Vater",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1198550",
+    "imdb": "tt1312084",
+    "tmdb": 617749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-11",
+  "runtime_minutes": 86
+}

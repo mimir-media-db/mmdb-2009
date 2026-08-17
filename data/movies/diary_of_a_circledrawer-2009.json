@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_circledrawer_2009",
+  "title": "Diary of a Circledrawer",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16422555",
+    "imdb": "tt1245708",
+    "tmdb": 944454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

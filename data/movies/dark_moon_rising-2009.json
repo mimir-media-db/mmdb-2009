@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_moon_rising_2009",
+  "title": "Dark Moon Rising",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5223333",
+    "imdb": "tt1231593",
+    "tmdb": 39564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-10",
+  "runtime_minutes": 124
+}

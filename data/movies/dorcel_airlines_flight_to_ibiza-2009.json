@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dorcel_airlines_flight_to_ibiza_2009",
+  "title": "Dorcel Airlines: Flight to Ibiza",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139970990",
+    "imdb": "tt1630632",
+    "tmdb": 48168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

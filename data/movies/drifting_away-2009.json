@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drifting_away_2009",
+  "title": "Drifting Away",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20780411",
+    "imdb": "tt1519636",
+    "tmdb": 415513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-09"
+}
