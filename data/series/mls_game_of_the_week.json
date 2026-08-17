@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_mls_game_of_the_week",
+  "title": "MLS Game of the Week",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6716640"
+  },
+  "last_updated": "2026-08-17"
+}

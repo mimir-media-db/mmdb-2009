@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mexicos_next_top_model",
+  "title": "Mexico's Next Top Model",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3855796",
+    "imdb": "tt1578024",
+    "tmdb": 18597
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 62
+}

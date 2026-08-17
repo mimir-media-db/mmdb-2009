@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maria_de_todos_los_angeles",
+  "title": "María de Todos los Ángeles",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6004851",
+    "imdb": "tt1487513",
+    "tmdb": 73777
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 33
+}

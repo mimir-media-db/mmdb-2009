@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moving_on",
+  "title": "Moving On",
+  "start_year": 2009,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q3326959",
+    "imdb": "tt1340758",
+    "tmdb": 18632
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 65
+}

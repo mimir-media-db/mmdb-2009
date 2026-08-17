@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_middle",
+  "title": "The Middle",
+  "start_year": 2009,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q1138000",
+    "imdb": "tt1442464",
+    "tmdb": 1422
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 215
+}

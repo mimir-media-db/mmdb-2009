@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_murderland",
+  "title": "Murderland",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6938170",
+    "imdb": "tt1531804",
+    "tmdb": 31397
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

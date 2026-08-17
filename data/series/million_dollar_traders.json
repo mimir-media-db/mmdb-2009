@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_million_dollar_traders",
+  "title": "Million Dollar Traders",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4675651",
+    "imdb": "tt2787372",
+    "tmdb": 17478
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

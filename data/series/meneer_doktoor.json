@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_meneer_doktoor",
+  "title": "Meneer Doktoor",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2096426",
+    "imdb": "tt1853223"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mosaferan",
+  "title": "Mosaferan",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5890932",
+    "imdb": "tt5831366",
+    "tmdb": 224305
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_missing",
+  "title": "Missing",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6878311",
+    "imdb": "tt1380582",
+    "tmdb": 18040
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

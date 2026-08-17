@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_man_vs_cartoon",
+  "title": "Man vs. Cartoon",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6746468",
+    "imdb": "tt1463632",
+    "tmdb": 21518
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

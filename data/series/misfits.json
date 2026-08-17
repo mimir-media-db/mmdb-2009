@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_misfits",
+  "title": "Misfits",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q589569",
+    "imdb": "tt1548850",
+    "tmdb": 31295
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 37
+}

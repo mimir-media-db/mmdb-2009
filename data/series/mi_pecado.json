@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_pecado",
+  "title": "Mi pecado",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1068083",
+    "imdb": "tt1445556",
+    "tmdb": 18048
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 110
+}
