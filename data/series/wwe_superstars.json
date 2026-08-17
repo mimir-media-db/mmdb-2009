@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wwe_superstars",
+  "title": "WWE Superstars",
+  "start_year": 2009,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q35752",
+    "imdb": "tt1401882",
+    "tmdb": 16281
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 398
+}

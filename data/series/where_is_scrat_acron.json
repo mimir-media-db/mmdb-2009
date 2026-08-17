@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_where_is_scrat_acron",
+  "title": "Where Is Scrat Acron",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7993300",
+    "imdb": "tt1523918",
+    "tmdb": 31612
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

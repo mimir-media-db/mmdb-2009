@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_welkame",
+  "title": "Welkame",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11288571",
+    "imdb": "tt1438515",
+    "tmdb": 207016
+  },
+  "last_updated": "2026-08-17"
+}

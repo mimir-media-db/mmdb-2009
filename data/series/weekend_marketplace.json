@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_weekend_marketplace",
+  "title": "Weekend Marketplace",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7979431"
+  },
+  "last_updated": "2026-08-17"
+}
