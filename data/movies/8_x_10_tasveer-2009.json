@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_8_x_10_tasveer_2009",
+  "title": "8 x 10 Tasveer",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4645267",
+    "imdb": "tt1105709",
+    "tmdb": 18673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 122
+}
