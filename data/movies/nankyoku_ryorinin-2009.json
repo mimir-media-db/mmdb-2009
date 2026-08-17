@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nankyoku_ryorinin_2009",
+  "title": "Nankyoku Ryōrinin",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10856056",
+    "imdb": "tt1345728",
+    "tmdb": 106378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 125
+}

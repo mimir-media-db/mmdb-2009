@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_lives_of_marion_barry_2009",
+  "title": "The Nine Lives of Marion Barry",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807619",
+    "imdb": "tt1326243",
+    "tmdb": 101877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

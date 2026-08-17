@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_rush_2009",
+  "title": "Night Rush",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43527855",
+    "imdb": "tt1239444",
+    "tmdb": 114000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-29"
+}

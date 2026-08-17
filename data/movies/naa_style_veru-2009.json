@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naa_style_veru_2009",
+  "title": "Naa Style Veru",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13000796",
+    "imdb": "tt1579641",
+    "tmdb": 137385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

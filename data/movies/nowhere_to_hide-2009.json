@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nowhere_to_hide_2009",
+  "title": "Nowhere to Hide",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30766080",
+    "imdb": "tt1308144",
+    "tmdb": 75547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}

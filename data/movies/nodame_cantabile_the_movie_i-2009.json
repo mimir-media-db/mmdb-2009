@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nodame_cantabile_the_movie_i_2009",
+  "title": "Nodame Cantabile: The Movie I",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11275181",
+    "imdb": "tt1337672",
+    "tmdb": 37555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-19",
+  "runtime_minutes": 121
+}

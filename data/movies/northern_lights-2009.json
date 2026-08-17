@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_lights_2009",
+  "title": "Northern Lights",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33554840",
+    "imdb": "tt1471207",
+    "tmdb": 254238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-27",
+  "runtime_minutes": 27
+}
