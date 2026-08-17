@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_victorian_farm",
+  "title": "Victorian Farm",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7927211",
+    "imdb": "tt1372211",
+    "tmdb": 16385
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

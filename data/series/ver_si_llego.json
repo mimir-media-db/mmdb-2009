@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ver_si_llego",
+  "title": "¡A ver si llego!",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6172030",
+    "imdb": "tt1360720",
+    "tmdb": 98916
+  },
+  "last_updated": "2026-08-17"
+}

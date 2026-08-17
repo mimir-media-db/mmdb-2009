@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_verborgen_verhalen",
+  "title": "Verborgen Verhalen",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3335577",
+    "imdb": "tt1630024",
+    "tmdb": 319834
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 90
+}
