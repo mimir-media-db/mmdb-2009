@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alaska_state_troopers",
+  "title": "Alaska State Troopers",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4708620",
+    "imdb": "tt1531068",
+    "tmdb": 35086
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 89
+}

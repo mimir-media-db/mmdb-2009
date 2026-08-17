@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_angela_and_friends",
+  "title": "Angela and Friends",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4762594",
+    "imdb": "tt1548828",
+    "tmdb": 31428
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 180
+}

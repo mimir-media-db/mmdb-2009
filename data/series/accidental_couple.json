@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_accidental_couple",
+  "title": "The Accidental Couple",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q485094",
+    "imdb": "tt2799100",
+    "tmdb": 44576
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

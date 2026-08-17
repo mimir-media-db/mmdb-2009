@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_e_sexo",
+  "title": "Amor e Sexo",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q9610957",
+    "imdb": "tt2094217",
+    "tmdb": 42342
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 71
+}

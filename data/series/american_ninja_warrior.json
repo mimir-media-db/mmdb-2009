@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_ninja_warrior",
+  "title": "American Ninja Warrior",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4744595",
+    "imdb": "tt1587934",
+    "tmdb": 37913
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 223
+}

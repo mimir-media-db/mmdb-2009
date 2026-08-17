@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_above_suspicion",
+  "title": "Above Suspicion",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3151596",
+    "imdb": "tt1247637",
+    "tmdb": 16343
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 11
+}

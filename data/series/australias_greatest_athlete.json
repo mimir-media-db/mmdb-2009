@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_australias_greatest_athlete",
+  "title": "Australia's Greatest Athlete",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4823498",
+    "tmdb": 17974
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

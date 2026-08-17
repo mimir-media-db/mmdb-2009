@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alan_carr_chatty_man",
+  "title": "Alan Carr: Chatty Man",
+  "start_year": 2009,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q4706335",
+    "imdb": "tt1468760",
+    "tmdb": 19105
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 202
+}
