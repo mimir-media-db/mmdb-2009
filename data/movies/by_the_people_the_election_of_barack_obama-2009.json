@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_the_people_the_election_of_barack_obama_2009",
+  "title": "By the People: The Election of Barack Obama",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5003876",
+    "imdb": "tt1201658",
+    "tmdb": 30077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 116
+}

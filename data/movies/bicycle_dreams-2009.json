@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bicycle_dreams_2009",
+  "title": "Bicycle Dreams",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4903747",
+    "imdb": "tt1351099",
+    "tmdb": 65576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

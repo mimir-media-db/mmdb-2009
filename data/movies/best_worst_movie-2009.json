@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_worst_movie_2009",
+  "title": "Best Worst Movie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3639019",
+    "imdb": "tt1144539",
+    "tmdb": 40819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beetle_queen_conquers_tokyo_2009",
+  "title": "Beetle Queen Conquers Tokyo",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4880205",
+    "imdb": "tt1339635",
+    "tmdb": 68701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

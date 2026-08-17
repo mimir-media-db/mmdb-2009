@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blank_2009",
+  "title": "Blank",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3201391",
+    "imdb": "tt1392088",
+    "tmdb": 299867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 75
+}

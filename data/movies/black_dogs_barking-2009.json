@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_dogs_barking_2009",
+  "title": "Black Dogs Barking",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4920675",
+    "imdb": "tt1399198",
+    "tmdb": 106662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

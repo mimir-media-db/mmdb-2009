@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blame_it_on_mum_2009",
+  "title": "Blame It on Mum",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414123",
+    "imdb": "tt1401625",
+    "tmdb": 43620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

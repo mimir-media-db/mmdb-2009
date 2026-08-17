@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_batbabe_the_dark_nightie_2009",
+  "title": "Batbabe: The Dark Nightie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2891086",
+    "imdb": "tt1327697",
+    "tmdb": 50556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

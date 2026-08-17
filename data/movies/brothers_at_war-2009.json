@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_at_war_2009",
+  "title": "Brothers at War",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4975691",
+    "imdb": "tt1239427",
+    "tmdb": 28858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 110
+}

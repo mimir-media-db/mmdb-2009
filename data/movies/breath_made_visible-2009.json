@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breath_made_visible_2009",
+  "title": "Breath Made Visible",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4959823",
+    "imdb": "tt1351105",
+    "tmdb": 147697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 82
+}

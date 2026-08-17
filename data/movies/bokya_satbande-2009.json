@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bokya_satbande_2009",
+  "title": "Bokya Satbande",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4938849",
+    "imdb": "tt2497024",
+    "tmdb": 167570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

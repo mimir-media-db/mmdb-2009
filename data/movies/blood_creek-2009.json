@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_creek_2009",
+  "title": "Blood Creek",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q885110",
+    "imdb": "tt0450336",
+    "tmdb": 30685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 86
+}

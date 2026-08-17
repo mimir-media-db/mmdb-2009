@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bosch_presidente_en_la_frontera_imperial_2009",
+  "title": "Bosch: Presidente en la frontera imperial",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5732393",
+    "imdb": "tt1453963",
+    "tmdb": 283765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

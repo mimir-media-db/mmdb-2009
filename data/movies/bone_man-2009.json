@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bone_man_2009",
+  "title": "The Bone Man",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q875558",
+    "imdb": "tt1181927",
+    "tmdb": 21467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 121
+}
