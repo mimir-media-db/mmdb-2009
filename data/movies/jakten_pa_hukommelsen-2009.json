@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jakten_pa_hukommelsen_2009",
+  "title": "Jakten på hukommelsen",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17414232",
+    "imdb": "tt1439556",
+    "tmdb": 309634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-20",
+  "runtime_minutes": 80
+}

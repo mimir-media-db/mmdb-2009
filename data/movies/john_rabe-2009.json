@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_john_rabe_2009",
+  "title": "John Rabe",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q673850",
+    "imdb": "tt1124377",
+    "tmdb": 5937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-07",
+  "runtime_minutes": 134
+}

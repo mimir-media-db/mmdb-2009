@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johan_falk_operation_naktergal_2009",
+  "title": "Johan Falk: Operation Näktergal",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10540373",
+    "imdb": "tt1528764",
+    "tmdb": 24713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

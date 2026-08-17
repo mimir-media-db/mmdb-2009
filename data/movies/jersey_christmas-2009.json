@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jersey_christmas_2009",
+  "title": "A Jersey Christmas",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19952769",
+    "imdb": "tt1082815",
+    "tmdb": 41420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

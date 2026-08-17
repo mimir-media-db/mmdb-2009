@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jag_jeondeyan_de_mele_2009",
+  "title": "Jag Jeondeyan De Mele",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522753",
+    "imdb": "tt1500815",
+    "tmdb": 17164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-20"
+}

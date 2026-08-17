@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_people_the_movie_2009",
+  "title": "Jesus People: The Movie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63923770",
+    "imdb": "tt1314653",
+    "tmdb": 260861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

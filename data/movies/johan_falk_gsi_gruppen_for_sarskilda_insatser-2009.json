@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johan_falk_gsi_gruppen_for_sarskilda_insatser_2009",
+  "title": "Johan Falk: GSI - Gruppen för särskilda insatser",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18291034",
+    "imdb": "tt1295905",
+    "tmdb": 24023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 118
+}
