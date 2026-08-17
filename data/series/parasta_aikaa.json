@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_parasta_aikaa",
+  "title": "Parasta aikaa",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q11886685",
+    "imdb": "tt1594409",
+    "tmdb": 121543
+  },
+  "last_updated": "2026-08-17"
+}

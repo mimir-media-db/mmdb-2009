@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pavitra_rishta",
+  "title": "Pavitra Rishta",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q38101",
+    "imdb": "tt2282359",
+    "tmdb": 18486
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1424
+}

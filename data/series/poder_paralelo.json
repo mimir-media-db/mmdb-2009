@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_poder_paralelo",
+  "title": "Poder Paralelo",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6081291",
+    "imdb": "tt1409934",
+    "tmdb": 17430
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 239
+}

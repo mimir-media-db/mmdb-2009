@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_psychoville",
+  "title": "Psychoville",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1107270",
+    "imdb": "tt1305562",
+    "tmdb": 17420
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}
