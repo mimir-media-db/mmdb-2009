@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kappal_muthalaali_2009",
+  "title": "Kappal Muthalaali",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6367112",
+    "imdb": "tt1666166",
+    "tmdb": 492809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

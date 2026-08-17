@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_keralotsavam_2009_2009",
+  "title": "Keralotsavam 2009",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6393536",
+    "imdb": "tt1450752"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
