@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revenant_2009",
+  "title": "The Revenant",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2499390",
+    "imdb": "tt1336006",
+    "tmdb": 79896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 117
+}

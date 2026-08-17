@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reykjavik_whale_watching_massacre_2009",
+  "title": "Reykjavik Whale Watching Massacre",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3278233",
+    "imdb": "tt1075749",
+    "tmdb": 30388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

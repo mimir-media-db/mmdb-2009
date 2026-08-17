@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ragazze_la_vita_trema_2009",
+  "title": "Ragazze - La vita trema",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3929332",
+    "imdb": "tt1547964",
+    "tmdb": 1197266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}
