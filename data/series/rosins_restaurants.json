@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rosins_restaurants",
+  "title": "Rosins Restaurants",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2167444",
+    "imdb": "tt1547346",
+    "tmdb": 62642
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 154
+}

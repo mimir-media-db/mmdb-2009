@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rush_tv",
+  "title": "Rush TV",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7380739",
+    "imdb": "tt4369344",
+    "tmdb": 32693
+  },
+  "last_updated": "2026-08-17"
+}
