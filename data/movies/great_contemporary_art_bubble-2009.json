@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_contemporary_art_bubble_2009",
+  "title": "The Great Contemporary Art Bubble",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92285971",
+    "imdb": "tt1517259",
+    "tmdb": 255679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

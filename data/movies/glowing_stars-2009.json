@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glowing_stars_2009",
+  "title": "Glowing Stars",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4353356",
+    "imdb": "tt1286151",
+    "tmdb": 18815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-30",
+  "runtime_minutes": 90
+}

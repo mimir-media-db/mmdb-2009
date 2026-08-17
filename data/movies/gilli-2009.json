@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gilli_2009",
+  "title": "Gilli",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248600",
+    "imdb": "tt14188920",
+    "tmdb": 1337745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

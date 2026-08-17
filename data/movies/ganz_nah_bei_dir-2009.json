@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ganz_nah_bei_dir_2009",
+  "title": "Ganz nah bei Dir",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54634313",
+    "imdb": "tt1235424",
+    "tmdb": 65775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-29",
+  "runtime_minutes": 88
+}

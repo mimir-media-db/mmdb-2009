@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grandpa_is_dead_2009",
+  "title": "Grandpa is Dead",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21161219",
+    "imdb": "tt1429338",
+    "tmdb": 243083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

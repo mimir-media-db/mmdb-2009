@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_george_a_zombie_intervention_2009",
+  "title": "George: A Zombie Intervention",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250686",
+    "imdb": "tt1310641",
+    "tmdb": 92322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

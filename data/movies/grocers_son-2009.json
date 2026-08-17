@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grocers_son_2009",
+  "title": "The Grocer's Son",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2740523",
+    "imdb": "tt0864770",
+    "tmdb": 8049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-23",
+  "runtime_minutes": 96
+}

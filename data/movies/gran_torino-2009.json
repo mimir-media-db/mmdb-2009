@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gran_torino_2009",
+  "title": "Gran Torino",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126699",
+    "imdb": "tt1205489",
+    "tmdb": 13223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-09",
+  "runtime_minutes": 116
+}

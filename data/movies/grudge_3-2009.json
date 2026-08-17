@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grudge_3_2009",
+  "title": "The Grudge 3",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2287693",
+    "imdb": "tt1053859",
+    "tmdb": 1977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-05",
+  "runtime_minutes": 104
+}
