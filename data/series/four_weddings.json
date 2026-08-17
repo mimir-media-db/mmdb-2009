@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_four_weddings",
+  "title": "Four Weddings",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8565111",
+    "imdb": "tt1853128",
+    "tmdb": 22976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 54
+}

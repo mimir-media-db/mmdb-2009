@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_florinda",
+  "title": "Florinda",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5461879",
+    "imdb": "tt1166721",
+    "tmdb": 6995
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

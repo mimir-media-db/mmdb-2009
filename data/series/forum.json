@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_forum",
+  "title": "Forum",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3748868",
+    "imdb": "tt1642047",
+    "tmdb": 292875
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flemming",
+  "title": "Flemming",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1169525",
+    "imdb": "tt1482968",
+    "tmdb": 41037
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

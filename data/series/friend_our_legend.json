@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_friend_our_legend",
+  "title": "Friend, Our Legend",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q626563",
+    "imdb": "tt6354758",
+    "tmdb": 35473
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}
