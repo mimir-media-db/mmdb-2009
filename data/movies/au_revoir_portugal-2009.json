@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_au_revoir_portugal_2009",
+  "title": "Au Revoir, Portugal!",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168607",
+    "imdb": "tt5628042"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

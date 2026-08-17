@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_als_brain_2009",
+  "title": "Al's Brain",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30673563",
+    "imdb": "tt1486550",
+    "tmdb": 758392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

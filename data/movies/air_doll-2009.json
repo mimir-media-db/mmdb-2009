@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_air_doll_2009",
+  "title": "Air Doll",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1038530",
+    "imdb": "tt1371630",
+    "tmdb": 25053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-14",
+  "runtime_minutes": 125
+}

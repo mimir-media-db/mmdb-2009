@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angels_demons_2009",
+  "title": "Angels & Demons",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q192934",
+    "imdb": "tt0808151",
+    "tmdb": 13448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-13",
+  "runtime_minutes": 146
+}

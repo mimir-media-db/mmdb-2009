@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventureland_2009",
+  "title": "Adventureland",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q379994",
+    "imdb": "tt1091722",
+    "tmdb": 16614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-19",
+  "runtime_minutes": 107
+}

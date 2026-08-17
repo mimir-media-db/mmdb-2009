@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_armoire_2009",
+  "title": "The Armoire",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59784473",
+    "imdb": "tt1560996",
+    "tmdb": 107150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 22
+}

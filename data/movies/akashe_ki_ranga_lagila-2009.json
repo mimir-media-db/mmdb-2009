@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akashe_ki_ranga_lagila_2009",
+  "title": "Akashe Ki Ranga Lagila",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4700343",
+    "imdb": "tt1468288",
+    "tmdb": 1095434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-12"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_widow_2009",
+  "title": "American Widow",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74178029",
+    "imdb": "tt0454777",
+    "tmdb": 1033003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

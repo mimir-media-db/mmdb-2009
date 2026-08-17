@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aliker_2009",
+  "title": "Aliker",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16303600",
+    "imdb": "tt1035422",
+    "tmdb": 575738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 110
+}

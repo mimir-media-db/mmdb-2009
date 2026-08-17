@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alarm_fur_cobra_11_das_ende_der_welt_2009",
+  "title": "Alarm für Cobra 11: Das Ende der Welt",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27928279",
+    "imdb": "tt1490061"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}

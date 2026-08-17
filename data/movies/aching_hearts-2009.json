@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aching_hearts_2009",
+  "title": "Aching Hearts",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12323334",
+    "imdb": "tt1087861",
+    "tmdb": 16030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-13",
+  "runtime_minutes": 121
+}

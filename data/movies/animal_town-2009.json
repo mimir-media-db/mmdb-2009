@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_animal_town_2009",
+  "title": "Animal Town",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2850010",
+    "imdb": "tt1508655",
+    "tmdb": 131124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-18",
+  "runtime_minutes": 97
+}

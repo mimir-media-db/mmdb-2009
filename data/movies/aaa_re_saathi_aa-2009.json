@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aaa_re_saathi_aa_2009",
+  "title": "Aaa Re Saathi Aa",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50825304",
+    "imdb": "tt1459820",
+    "tmdb": 1095823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
