@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chase",
+  "title": "The Chase",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1498075",
+    "imdb": "tt1502749",
+    "tmdb": 21502
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 910
+}

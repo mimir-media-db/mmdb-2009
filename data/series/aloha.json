@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aloha",
+  "title": "Aloha!",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12300101",
+    "imdb": "tt1522776",
+    "tmdb": 51132
+  },
+  "last_updated": "2026-08-17"
+}

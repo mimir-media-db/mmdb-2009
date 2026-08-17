@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_exploding_girl_2009",
+  "title": "The Exploding Girl",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520801",
+    "imdb": "tt1294161",
+    "tmdb": 44770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

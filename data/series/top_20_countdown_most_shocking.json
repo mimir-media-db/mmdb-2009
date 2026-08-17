@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_20_countdown_most_shocking",
+  "title": "Top 20 Countdown: Most Shocking",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7824401",
+    "imdb": "tt1526928",
+    "tmdb": 37361
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 70
+}

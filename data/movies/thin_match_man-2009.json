@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thin_match_man_2009",
+  "title": "The Thin Match Man",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3820054",
+    "imdb": "tt1339687",
+    "tmdb": 58521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 81
+}

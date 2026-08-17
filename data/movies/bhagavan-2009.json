@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhagavan_2009",
+  "title": "Bhagavan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900617",
+    "imdb": "tt1569356",
+    "tmdb": 330492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

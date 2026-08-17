@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hairy_bikers_food_tour_of_britain",
+  "title": "The Hairy Bikers' Food Tour of Britain",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7738634",
+    "imdb": "tt1685433",
+    "tmdb": 30955
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

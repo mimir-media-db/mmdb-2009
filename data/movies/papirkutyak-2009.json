@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papirkutyak_2009",
+  "title": "Papírkutyák",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q246626",
+    "imdb": "tt1247685",
+    "tmdb": 62431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

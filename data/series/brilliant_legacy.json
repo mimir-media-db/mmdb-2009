@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brilliant_legacy",
+  "title": "Brilliant Legacy",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q489617",
+    "imdb": "tt2283335",
+    "tmdb": 31120
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 28
+}

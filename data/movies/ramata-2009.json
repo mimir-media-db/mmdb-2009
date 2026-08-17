@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ramata_2009",
+  "title": "Ramata",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3929845",
+    "imdb": "tt1425247",
+    "tmdb": 576951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

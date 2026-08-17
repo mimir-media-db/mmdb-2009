@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adhe_neram_adhe_idam_2009",
+  "title": "Adhe Neram Adhe Idam",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4682494",
+    "imdb": "tt10127926",
+    "tmdb": 98904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

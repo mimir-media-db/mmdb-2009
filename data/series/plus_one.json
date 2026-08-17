@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_plus_one",
+  "title": "Plus One",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7205608",
+    "imdb": "tt1287231",
+    "tmdb": 24662
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

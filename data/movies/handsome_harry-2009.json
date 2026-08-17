@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_handsome_harry_2009",
+  "title": "Handsome Harry",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5647659",
+    "imdb": "tt1318001",
+    "tmdb": 51933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 96
+}

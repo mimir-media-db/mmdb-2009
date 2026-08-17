@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_against_the_dark_2009",
+  "title": "Against the Dark",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q390164",
+    "imdb": "tt1194271",
+    "tmdb": 15039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

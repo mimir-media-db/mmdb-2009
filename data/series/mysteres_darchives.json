@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mysteres_darchives",
+  "title": "Mystères d'archives",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2517989",
+    "imdb": "tt3088600",
+    "tmdb": 75339
+  },
+  "last_updated": "2026-08-17"
+}

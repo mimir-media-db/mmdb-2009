@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_guy_for_my_girlfriend_2009",
+  "title": "The Perfect Guy for My Girlfriend",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1958683",
+    "imdb": "tt1346281",
+    "tmdb": 81230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 124
+}

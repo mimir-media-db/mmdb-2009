@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7_kocal_hurmuz_2009",
+  "title": "7 Kocalı Hürmüz",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6085203",
+    "imdb": "tt1523583",
+    "tmdb": 38547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

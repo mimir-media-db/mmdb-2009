@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_circus_2009",
+  "title": "Circus",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5121783",
+    "imdb": "tt3171836",
+    "tmdb": 1180573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

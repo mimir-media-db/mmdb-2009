@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gulmohar_2009",
+  "title": "Gulmohar",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5617827",
+    "imdb": "tt2610274",
+    "tmdb": 494959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

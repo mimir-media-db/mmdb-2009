@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_take_2009",
+  "title": "Double Take",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3037484",
+    "imdb": "tt1386926",
+    "tmdb": 56271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}

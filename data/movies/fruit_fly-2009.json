@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fruit_fly_2009",
+  "title": "Fruit Fly",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5506362",
+    "imdb": "tt1326221",
+    "tmdb": 60246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 94
+}

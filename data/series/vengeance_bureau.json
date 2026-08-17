@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vengeance_bureau",
+  "title": "The Vengeance Bureau",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16408865",
+    "imdb": "tt1678635",
+    "tmdb": 112456
+  },
+  "last_updated": "2026-08-17"
+}

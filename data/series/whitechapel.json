@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whitechapel",
+  "title": "Whitechapel",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1247762",
+    "imdb": "tt1186356",
+    "tmdb": 17450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 18
+}

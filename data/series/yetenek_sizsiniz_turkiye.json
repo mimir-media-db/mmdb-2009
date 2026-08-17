@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yetenek_sizsiniz_turkiye",
+  "title": "Yetenek Sizsiniz Türkiye",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6095898",
+    "imdb": "tt9089698"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 160
+}

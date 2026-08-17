@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_haken_no_oscar",
+  "title": "Haken no Oscar",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20579519",
+    "imdb": "tt1491879",
+    "tmdb": 90607
+  },
+  "last_updated": "2026-08-17"
+}

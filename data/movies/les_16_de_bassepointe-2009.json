@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_16_de_bassepointe_2009",
+  "title": "Les 16 de Basse-Pointe",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3235407",
+    "imdb": "tt1429365",
+    "tmdb": 456766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 108
+}

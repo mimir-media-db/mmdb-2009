@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_furo_mtv",
+  "title": "Furo MTV",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5509693",
+    "imdb": "tt1569588",
+    "tmdb": 214733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 700
+}

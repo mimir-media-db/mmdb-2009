@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_voroniny",
+  "title": "Voroniny",
+  "start_year": 2009,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q4125559",
+    "imdb": "tt2301092",
+    "tmdb": 46078
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 24,
+  "total_episodes": 552
+}

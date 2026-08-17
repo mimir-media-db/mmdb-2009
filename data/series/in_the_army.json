@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_in_the_army",
+  "title": "In the Army",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q13052369",
+    "imdb": "tt5777468"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 681
+}

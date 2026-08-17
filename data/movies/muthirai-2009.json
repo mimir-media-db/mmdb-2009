@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muthirai_2009",
+  "title": "Muthirai",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6943853",
+    "imdb": "tt1503144",
+    "tmdb": 262558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

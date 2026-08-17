@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_named_desire_2009",
+  "title": "The City Named Desire",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2266387",
+    "imdb": "tt1422114",
+    "tmdb": 1669686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

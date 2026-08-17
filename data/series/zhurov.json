@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zhurov",
+  "title": "Zhurov",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4181971",
+    "imdb": "tt3322556",
+    "tmdb": 86142
+  },
+  "last_updated": "2026-08-17"
+}

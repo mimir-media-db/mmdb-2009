@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_irene_2009",
+  "title": "The Other Irene",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3202643",
+    "imdb": "tt1528042",
+    "tmdb": 37446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

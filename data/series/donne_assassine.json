@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_donne_assassine",
+  "title": "Donne assassine",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q953819",
+    "imdb": "tt1309098",
+    "tmdb": 41430
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

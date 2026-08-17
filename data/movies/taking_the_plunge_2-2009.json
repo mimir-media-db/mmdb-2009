@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taking_the_plunge_2_2009",
+  "title": "Taking the Plunge 2",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576936",
+    "imdb": "tt1322410",
+    "tmdb": 26930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tournament_2009",
+  "title": "The Tournament",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q249151",
+    "imdb": "tt0471041",
+    "tmdb": 24056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

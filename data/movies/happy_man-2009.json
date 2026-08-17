@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_man_2009",
+  "title": "A Happy Man",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300434",
+    "imdb": "tt1075115",
+    "tmdb": 40175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 103
+}

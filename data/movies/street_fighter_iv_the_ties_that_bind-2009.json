@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_street_fighter_iv_the_ties_that_bind_2009",
+  "title": "Street Fighter IV: The Ties That Bind",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3500254",
+    "imdb": "tt1394259",
+    "tmdb": 16257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

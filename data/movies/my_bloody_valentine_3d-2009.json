@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_bloody_valentine_3d_2009",
+  "title": "My Bloody Valentine 3D",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1137784",
+    "imdb": "tt1179891",
+    "tmdb": 14435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 101
+}

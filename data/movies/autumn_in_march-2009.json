@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_autumn_in_march_2009",
+  "title": "Autumn in March",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4827199",
+    "tmdb": 421196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

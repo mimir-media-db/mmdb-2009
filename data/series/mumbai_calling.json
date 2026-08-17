@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mumbai_calling",
+  "title": "Mumbai Calling",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3327759",
+    "imdb": "tt1039348",
+    "tmdb": 18532
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

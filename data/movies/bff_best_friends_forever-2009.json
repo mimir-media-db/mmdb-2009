@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bff_best_friends_forever_2009",
+  "title": "BFF: Best Friends Forever",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4835520",
+    "imdb": "tt1429323",
+    "tmdb": 43507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

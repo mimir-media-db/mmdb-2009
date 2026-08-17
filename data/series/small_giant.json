@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_small_giant",
+  "title": "The Small Giant",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q17183840",
+    "imdb": "tt1740655",
+    "tmdb": 282448
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

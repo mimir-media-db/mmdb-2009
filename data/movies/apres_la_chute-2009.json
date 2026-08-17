@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apres_la_chute_2009",
+  "title": "Après la chute",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2859017",
+    "imdb": "tt1483741",
+    "tmdb": 1542727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 63
+}

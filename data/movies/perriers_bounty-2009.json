@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perriers_bounty_2009",
+  "title": "Perrier's Bounty",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q970779",
+    "imdb": "tt1003034",
+    "tmdb": 41009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

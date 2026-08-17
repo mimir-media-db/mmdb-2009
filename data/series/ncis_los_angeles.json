@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ncis_los_angeles",
+  "title": "NCIS: Los Angeles",
+  "start_year": 2009,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q6084",
+    "imdb": "tt1378167",
+    "tmdb": 17610
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 323
+}

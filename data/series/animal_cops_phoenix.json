@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_cops_phoenix",
+  "title": "Animal Cops: Phoenix",
+  "start_year": 2009,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q4764780",
+    "imdb": "tt1542800",
+    "tmdb": 22050
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

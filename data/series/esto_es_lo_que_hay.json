@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_esto_es_lo_que_hay",
+  "title": "Esto es lo que hay",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5849482",
+    "imdb": "tt1683595",
+    "tmdb": 271042
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 27
+}

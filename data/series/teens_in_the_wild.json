@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_teens_in_the_wild",
+  "title": "Teens in the Wild",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15030936"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

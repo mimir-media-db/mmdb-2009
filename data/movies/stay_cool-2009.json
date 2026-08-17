@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stay_cool_2009",
+  "title": "Stay Cool",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2297848",
+    "imdb": "tt1235807",
+    "tmdb": 11388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_came_from_kuchar_2009",
+  "title": "It Came from Kuchar",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6091610",
+    "imdb": "tt1303745",
+    "tmdb": 39774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

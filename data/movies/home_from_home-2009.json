@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_from_home_2009",
+  "title": "Home from Home",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1340988",
+    "imdb": "tt1363465",
+    "tmdb": 76530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 97
+}

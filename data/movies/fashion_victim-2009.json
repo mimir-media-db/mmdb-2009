@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fashion_victim_2009",
+  "title": "Fashion Victim",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3442436",
+    "imdb": "tt1463450",
+    "tmdb": 52617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

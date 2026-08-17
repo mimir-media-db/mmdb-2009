@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_turn_3_left_for_dead_2009",
+  "title": "Wrong Turn 3: Left for Dead",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1583771",
+    "imdb": "tt1261978",
+    "tmdb": 23823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 87
+}

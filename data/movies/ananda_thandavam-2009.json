@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ananda_thandavam_2009",
+  "title": "Ananda Thandavam",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4751319",
+    "imdb": "tt1365436",
+    "tmdb": 323152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

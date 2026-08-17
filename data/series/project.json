@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_project",
+  "title": "The Project",
+  "start_year": 2009,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3985572",
+    "imdb": "tt1480165",
+    "tmdb": 19152
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 3626
+}

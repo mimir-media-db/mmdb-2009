@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moustapha_alassane_cineaste_du_possible_2009",
+  "title": "Moustapha Alassane, cinéaste du possible",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3326301",
+    "imdb": "tt8412292",
+    "tmdb": 480861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

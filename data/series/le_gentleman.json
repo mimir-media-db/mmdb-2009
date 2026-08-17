@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_gentleman",
+  "title": "Le gentleman",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3223091",
+    "imdb": "tt1780292",
+    "tmdb": 38518
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

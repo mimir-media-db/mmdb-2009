@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dar_chashme_baad",
+  "title": "Dar Chashm-e Baad",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4116841",
+    "imdb": "tt1757050",
+    "tmdb": 32560
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 44
+}

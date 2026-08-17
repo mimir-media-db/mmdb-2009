@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_room_2009",
+  "title": "The Killing Room",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q250401",
+    "imdb": "tt1119191",
+    "tmdb": 20777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}

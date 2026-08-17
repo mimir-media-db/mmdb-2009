@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_terra_x_geheimakte_sophienschatz_2009",
+  "title": "Terra X: Geheimakte Sophienschatz",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1402507",
+    "imdb": "tt1517049"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 45
+}

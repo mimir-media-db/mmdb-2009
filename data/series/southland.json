@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_southland",
+  "title": "Southland",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1156746",
+    "imdb": "tt1299368",
+    "tmdb": 17611
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 43
+}

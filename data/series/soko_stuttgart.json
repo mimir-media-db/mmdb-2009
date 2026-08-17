@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soko_stuttgart",
+  "title": "SOKO Stuttgart",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q183209",
+    "imdb": "tt1410219",
+    "tmdb": 40905
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 367
+}

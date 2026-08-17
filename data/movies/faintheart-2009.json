@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faintheart_2009",
+  "title": "Faintheart",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5429741",
+    "imdb": "tt1080012",
+    "tmdb": 18739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

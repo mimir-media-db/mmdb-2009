@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_technotise_edit_i_2009",
+  "title": "Technotise: Edit & I",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q225964",
+    "imdb": "tt1372301",
+    "tmdb": 38248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 103
+}

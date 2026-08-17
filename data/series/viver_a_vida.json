@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_viver_a_vida",
+  "title": "Viver a Vida",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3089306",
+    "imdb": "tt1484897",
+    "tmdb": 31556
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

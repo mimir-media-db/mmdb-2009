@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dislecksia_the_movie_2009",
+  "title": "Dislecksia: The Movie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5282333",
+    "imdb": "tt1461219",
+    "tmdb": 225318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

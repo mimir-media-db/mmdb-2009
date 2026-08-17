@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lyubka_2009",
+  "title": "Lyubka",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1698252",
+    "imdb": "tt1431722",
+    "tmdb": 662443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 165
+}

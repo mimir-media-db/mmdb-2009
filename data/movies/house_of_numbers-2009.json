@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_numbers_2009",
+  "title": "House of Numbers",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3080365",
+    "imdb": "tt1311710",
+    "tmdb": 60362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

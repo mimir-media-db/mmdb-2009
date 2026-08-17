@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walled_in_2009",
+  "title": "Walled In",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q387032",
+    "imdb": "tt1104006",
+    "tmdb": 16335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 91
+}

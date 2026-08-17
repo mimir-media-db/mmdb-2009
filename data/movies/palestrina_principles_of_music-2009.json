@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palestrina_principles_of_music_2009",
+  "title": "Palestrina - principles of music",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2047753",
+    "imdb": "tt1611965",
+    "tmdb": 973810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 52
+}

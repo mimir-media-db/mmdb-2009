@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadhalna_summa_illai_2009",
+  "title": "Kadhalna Summa Illai",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6345437",
+    "imdb": "tt13613000",
+    "tmdb": 1131324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

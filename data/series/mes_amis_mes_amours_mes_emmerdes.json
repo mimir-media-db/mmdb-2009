@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mes_amis_mes_amours_mes_emmerdes",
+  "title": "Mes amis, mes amours, mes emmerdes...",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q3306728",
+    "imdb": "tt1322116",
+    "tmdb": 61900
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 26
+}

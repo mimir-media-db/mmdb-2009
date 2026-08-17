@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_lemon_lima_2009",
+  "title": "Dear Lemon Lima",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5246884",
+    "imdb": "tt1242423",
+    "tmdb": 71394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 87
+}

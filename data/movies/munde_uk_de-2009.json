@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_munde_uk_de_2009",
+  "title": "Munde U.K. De",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6935766",
+    "imdb": "tt1577854",
+    "tmdb": 17601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

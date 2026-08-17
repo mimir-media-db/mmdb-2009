@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spyies_2009",
+  "title": "Spy(ies)",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3058423",
+    "imdb": "tt1149592",
+    "tmdb": 14726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 99
+}

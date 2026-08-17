@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vincere_2009",
+  "title": "Vincere",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1995296",
+    "imdb": "tt1156173",
+    "tmdb": 30239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 128
+}

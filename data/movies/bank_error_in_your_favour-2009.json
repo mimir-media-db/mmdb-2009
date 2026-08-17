@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bank_error_in_your_favour_2009",
+  "title": "Bank Error in Your Favour",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3057448",
+    "imdb": "tt1314240",
+    "tmdb": 26152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kill_arman",
+  "title": "Kill Arman",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4355539",
+    "imdb": "tt1496709",
+    "tmdb": 37615
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

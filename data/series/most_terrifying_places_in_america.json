@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_most_terrifying_places_in_america",
+  "title": "Most Terrifying Places in America",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6916787",
+    "imdb": "tt1579243",
+    "tmdb": 34287
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cloud_painting_machine_2009",
+  "title": "The Cloud Painting Machine",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967490",
+    "imdb": "tt1267497",
+    "tmdb": 199027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

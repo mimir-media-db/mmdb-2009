@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jersey_shore",
+  "title": "Jersey Shore",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1165712",
+    "imdb": "tt1563069",
+    "tmdb": 31343
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 71
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_de_tv_kantine",
+  "title": "De TV kantine",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2415736",
+    "imdb": "tt1643032",
+    "tmdb": 25396
+  },
+  "last_updated": "2026-08-17"
+}

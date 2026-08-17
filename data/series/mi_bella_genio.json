@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_bella_genio",
+  "title": "Mi bella genio",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6012391",
+    "imdb": "tt1383302",
+    "tmdb": 95481
+  },
+  "last_updated": "2026-08-17"
+}

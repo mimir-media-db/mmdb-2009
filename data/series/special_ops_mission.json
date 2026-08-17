@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_special_ops_mission",
+  "title": "Special Ops Mission",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7574670",
+    "imdb": "tt1469154",
+    "tmdb": 30825
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

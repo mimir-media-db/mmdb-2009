@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_train_2009",
+  "title": "Night Train",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1249597",
+    "imdb": "tt1020055",
+    "tmdb": 14549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 87
+}

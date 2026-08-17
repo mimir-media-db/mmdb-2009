@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cuenta_conmigo",
+  "title": "Cuenta conmigo",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5793735",
+    "imdb": "tt1394525",
+    "tmdb": 290466
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 106
+}

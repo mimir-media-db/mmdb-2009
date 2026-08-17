@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wallander_lackan_2009",
+  "title": "Wallander – Läckan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1763619",
+    "imdb": "tt1502380",
+    "tmdb": 289426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

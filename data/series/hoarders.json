@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hoarders",
+  "title": "Hoarders",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3138878",
+    "imdb": "tt1497563",
+    "tmdb": 30946
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 83
+}

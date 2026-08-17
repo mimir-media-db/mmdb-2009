@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terra_madre_2009",
+  "title": "Terra Madre",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3984523",
+    "imdb": "tt1362133",
+    "tmdb": 396646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 78
+}

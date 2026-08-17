@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_healing_art_2009",
+  "title": "A Healing Art",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657273",
+    "imdb": "tt1692240",
+    "tmdb": 1052694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

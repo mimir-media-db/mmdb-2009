@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anu_2009",
+  "title": "Anu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4777681",
+    "imdb": "tt0867137",
+    "tmdb": 910919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

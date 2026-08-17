@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_time_rush",
+  "title": "Big Time Rush",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q794761",
+    "imdb": "tt1131746",
+    "tmdb": 31356
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 74
+}

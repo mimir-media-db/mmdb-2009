@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_howards_big_question",
+  "title": "Little Howard's Big Question",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6650369",
+    "imdb": "tt1360434",
+    "tmdb": 18125
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

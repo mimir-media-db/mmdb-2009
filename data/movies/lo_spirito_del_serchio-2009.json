@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_spirito_del_serchio_2009",
+  "title": "Lo spirito del Serchio",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3835883",
+    "imdb": "tt1486793"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 52
+}

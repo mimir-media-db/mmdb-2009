@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_antonio",
+  "title": "My Antonio",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6944940",
+    "imdb": "tt1474300",
+    "tmdb": 21659
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

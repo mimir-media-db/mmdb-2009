@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rewers_2009",
+  "title": "Rewers",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2147045",
+    "imdb": "tt1514837",
+    "tmdb": 36405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 99
+}

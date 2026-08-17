@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_women_from_georgia_2009",
+  "title": "Women from Georgia",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4179503",
+    "imdb": "tt0989765"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 54
+}

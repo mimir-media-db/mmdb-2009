@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_hooker_in_a_trunk_2009",
+  "title": "Dead Hooker in a Trunk",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5245218",
+    "imdb": "tt1508661",
+    "tmdb": 65214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

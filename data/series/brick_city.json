@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brick_city",
+  "title": "Brick City",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4965900",
+    "imdb": "tt1442064",
+    "tmdb": 23843
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 11
+}

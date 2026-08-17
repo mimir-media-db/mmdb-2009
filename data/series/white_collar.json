@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_white_collar",
+  "title": "White Collar",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q31915",
+    "imdb": "tt1358522",
+    "tmdb": 21510
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 81
+}

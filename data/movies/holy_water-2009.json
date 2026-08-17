@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_water_2009",
+  "title": "Holy Water",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3786381",
+    "imdb": "tt1292652",
+    "tmdb": 38932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

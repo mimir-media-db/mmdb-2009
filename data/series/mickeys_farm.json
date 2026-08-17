@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mickeys_farm",
+  "title": "Mickey's Farm",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6838534",
+    "imdb": "tt1833426",
+    "tmdb": 39035
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 143
+}

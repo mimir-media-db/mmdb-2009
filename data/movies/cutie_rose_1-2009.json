@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cutie_rose_1_2009",
+  "title": "Cutie Rose - 1",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5795098"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 63
+}

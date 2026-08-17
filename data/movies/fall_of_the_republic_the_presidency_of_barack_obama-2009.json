@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_of_the_republic_the_presidency_of_barack_obama_2009",
+  "title": "Fall of the Republic - The Presidency of Barack Obama",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2497575",
+    "imdb": "tt1540880",
+    "tmdb": 26750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 144
+}

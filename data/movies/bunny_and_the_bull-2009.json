@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bunny_and_the_bull_2009",
+  "title": "Bunny and the Bull",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4997882",
+    "imdb": "tt1251725",
+    "tmdb": 35395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 101
+}

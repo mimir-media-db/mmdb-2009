@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gangs_2009",
+  "title": "Gangs",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1313498",
+    "imdb": "tt1294712",
+    "tmdb": 76097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

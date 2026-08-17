@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aussie_ladette_to_lady",
+  "title": "Aussie Ladette to Lady",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4822816",
+    "imdb": "tt1450342",
+    "tmdb": 17485
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

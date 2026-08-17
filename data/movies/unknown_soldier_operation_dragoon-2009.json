@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unknown_soldier_operation_dragoon_2009",
+  "title": "The Unknown Soldier: Operation Dragoon",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870513",
+    "imdb": "tt2017467",
+    "tmdb": 1256680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

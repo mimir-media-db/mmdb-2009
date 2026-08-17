@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_show_me_show_me",
+  "title": "Show Me Show Me",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7502985",
+    "imdb": "tt4448234",
+    "tmdb": 18587
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 162
+}

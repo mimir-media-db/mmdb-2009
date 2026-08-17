@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_question_of_genius",
+  "title": "A Question of Genius",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4659090",
+    "imdb": "tt1400969",
+    "tmdb": 17961
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 45
+}

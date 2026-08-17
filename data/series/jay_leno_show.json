@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jay_leno_show",
+  "title": "The Jay Leno Show",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3040985",
+    "imdb": "tt1381004",
+    "tmdb": 8563
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 95
+}

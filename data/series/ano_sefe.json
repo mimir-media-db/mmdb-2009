@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ano_sefe",
+  "title": "Ano, séfe!",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10853521",
+    "imdb": "tt1404577",
+    "tmdb": 50830
+  },
+  "last_updated": "2026-08-17"
+}

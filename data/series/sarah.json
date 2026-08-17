@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sarah",
+  "title": "Sarah",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7422028",
+    "imdb": "tt5953482"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_moon",
+  "title": "Mr Moon",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q16998221",
+    "imdb": "tt1870140",
+    "tmdb": 208233
+  },
+  "last_updated": "2026-08-17"
+}

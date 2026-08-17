@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rasai_na_gaillimhe",
+  "title": "Rásaí na Gaillimhe",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113310430",
+    "imdb": "tt1442444",
+    "tmdb": 329295
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

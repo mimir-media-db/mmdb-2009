@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vanishing_of_the_bees_2009",
+  "title": "Vanishing of the Bees",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3554608",
+    "imdb": "tt1521877",
+    "tmdb": 62323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

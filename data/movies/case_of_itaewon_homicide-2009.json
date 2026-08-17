@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_case_of_itaewon_homicide_2009",
+  "title": "The Case of Itaewon Homicide",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q493475",
+    "imdb": "tt2323565",
+    "tmdb": 54457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

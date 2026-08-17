@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saw_vi_2009",
+  "title": "Saw VI",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q834327",
+    "imdb": "tt1233227",
+    "tmdb": 22804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

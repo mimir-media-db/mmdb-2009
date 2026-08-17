@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_creation_2009",
+  "title": "Creation",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2319804",
+    "imdb": "tt0974014",
+    "tmdb": 30431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 108
+}

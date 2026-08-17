@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_taking_the_stage",
+  "title": "Taking the Stage",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4353563",
+    "imdb": "tt1401687",
+    "tmdb": 17963
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

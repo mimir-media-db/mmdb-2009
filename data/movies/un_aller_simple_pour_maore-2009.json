@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_aller_simple_pour_maore_2009",
+  "title": "Un aller simple pour Maoré",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548299",
+    "imdb": "tt1371646",
+    "tmdb": 576011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

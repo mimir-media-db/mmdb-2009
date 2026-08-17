@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_darwins_brave_new_world",
+  "title": "Darwin's Brave New World",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5225902",
+    "imdb": "tt1392904",
+    "tmdb": 37873
+  },
+  "last_updated": "2026-08-17"
+}

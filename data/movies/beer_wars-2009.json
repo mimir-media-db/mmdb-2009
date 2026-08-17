@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beer_wars_2009",
+  "title": "Beer Wars",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4879961",
+    "imdb": "tt1326194",
+    "tmdb": 19837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}

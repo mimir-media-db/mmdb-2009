@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_sea_2009",
+  "title": "Little Sea",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3849799",
+    "imdb": "tt1527664",
+    "tmdb": 82518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

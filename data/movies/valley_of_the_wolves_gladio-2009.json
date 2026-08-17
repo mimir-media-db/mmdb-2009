@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_the_wolves_gladio_2009",
+  "title": "Valley of the Wolves: Gladio",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2389805",
+    "imdb": "tt1523491",
+    "tmdb": 35747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 122
+}

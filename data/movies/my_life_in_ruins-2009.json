@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_in_ruins_2009",
+  "title": "My Life in Ruins",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1419210",
+    "imdb": "tt0865559",
+    "tmdb": 23049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 98
+}

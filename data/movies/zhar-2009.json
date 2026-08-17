@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zhar_2009",
+  "title": "Z'har",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3574320",
+    "imdb": "tt1559326",
+    "tmdb": 343344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unnaipol_oruvan_2009",
+  "title": "Unnaipol Oruvan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3475092",
+    "imdb": "tt1417299",
+    "tmdb": 25121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

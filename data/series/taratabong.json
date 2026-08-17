@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_taratabong",
+  "title": "Taratabong",
+  "start_year": 2009,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3981085",
+    "imdb": "tt1299512",
+    "tmdb": 259381
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

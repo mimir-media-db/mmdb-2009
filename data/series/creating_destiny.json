@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_creating_destiny",
+  "title": "Creating Destiny",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6852718",
+    "imdb": "tt2120917",
+    "tmdb": 38934
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 31
+}

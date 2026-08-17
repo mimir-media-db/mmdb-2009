@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_short_of_love_2009",
+  "title": "Short of Love",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185501",
+    "imdb": "tt1463188",
+    "tmdb": 41537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

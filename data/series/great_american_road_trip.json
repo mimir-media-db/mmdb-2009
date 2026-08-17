@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_american_road_trip",
+  "title": "The Great American Road Trip",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q16954615",
+    "imdb": "tt1463571",
+    "tmdb": 21599
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

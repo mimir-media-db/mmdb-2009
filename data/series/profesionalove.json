@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_profesionalove",
+  "title": "Profesionálové",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56640293",
+    "imdb": "tt1386722"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

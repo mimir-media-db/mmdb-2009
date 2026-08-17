@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_the_love_of_movies_the_story_of_american_film_criticism_2009",
+  "title": "For the Love of Movies: The Story of American Film Criticism",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5467093",
+    "imdb": "tt1241707",
+    "tmdb": 86097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}

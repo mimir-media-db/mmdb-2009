@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_panther_2_2009",
+  "title": "The Pink Panther 2",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q815681",
+    "imdb": "tt0838232",
+    "tmdb": 15159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

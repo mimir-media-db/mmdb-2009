@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_harlem_heights",
+  "title": "Harlem Heights",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5658541"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

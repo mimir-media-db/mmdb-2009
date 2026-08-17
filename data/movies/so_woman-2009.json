@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_so_woman_2009",
+  "title": "So Woman!",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3538963",
+    "imdb": "tt1264912",
+    "tmdb": 60680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

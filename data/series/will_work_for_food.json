@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_will_work_for_food",
+  "title": "Will Work for Food",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8003197",
+    "imdb": "tt1280478",
+    "tmdb": 8595
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

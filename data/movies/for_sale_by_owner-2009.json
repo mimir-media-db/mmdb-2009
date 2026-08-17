@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_sale_by_owner_2009",
+  "title": "For Sale by Owner",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5466864",
+    "imdb": "tt1094296",
+    "tmdb": 24877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 94
+}

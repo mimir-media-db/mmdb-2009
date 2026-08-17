@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_klangbad_avantgarde_in_the_meadows_2009",
+  "title": "Klangbad: Avant-garde in the Meadows",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1269050",
+    "imdb": "tt1543315"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}

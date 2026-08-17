@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_serial_killer_2009",
+  "title": "Bloody Serial Killer",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4096809",
+    "imdb": "tt1336621",
+    "tmdb": 31991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 91
+}

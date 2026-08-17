@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_heart_vampires",
+  "title": "I Heart Vampires",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5977622",
+    "imdb": "tt1414707",
+    "tmdb": 32341
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 42
+}

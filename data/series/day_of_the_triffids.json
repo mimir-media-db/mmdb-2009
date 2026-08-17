@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_day_of_the_triffids",
+  "title": "The Day of the Triffids",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q922635",
+    "imdb": "tt1332653",
+    "tmdb": 39796
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bangkok_adrenalin_2009",
+  "title": "Bangkok Adrenalin",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2882469",
+    "imdb": "tt1442486",
+    "tmdb": 38526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

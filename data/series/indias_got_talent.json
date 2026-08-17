@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_indias_got_talent",
+  "title": "India's Got Talent",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6019170",
+    "imdb": "tt4197638",
+    "tmdb": 19457
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7
+}

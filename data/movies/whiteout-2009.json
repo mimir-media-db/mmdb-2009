@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whiteout_2009",
+  "title": "Whiteout",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74636",
+    "imdb": "tt0365929",
+    "tmdb": 22787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 97
+}

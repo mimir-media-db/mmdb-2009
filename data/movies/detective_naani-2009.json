@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_detective_naani_2009",
+  "title": "Detective Naani",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5265632",
+    "imdb": "tt0893585",
+    "tmdb": 393252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

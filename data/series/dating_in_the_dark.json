@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dating_in_the_dark",
+  "title": "Dating in the Dark",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5227673",
+    "imdb": "tt1800832",
+    "tmdb": 39187
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

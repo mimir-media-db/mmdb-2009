@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rettur",
+  "title": "Réttur",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q24958111",
+    "imdb": "tt1368433",
+    "tmdb": 240868
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_courtyards_2009",
+  "title": "Seven Courtyards",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6078443",
+    "imdb": "tt1538812",
+    "tmdb": 1740591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

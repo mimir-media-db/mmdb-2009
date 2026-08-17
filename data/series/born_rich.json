@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_born_rich",
+  "title": "Born Rich",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4945842",
+    "imdb": "tt1592623",
+    "tmdb": 18140
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 39
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_temptation_of_st_tony_2009",
+  "title": "The Temptation of St. Tony",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2948124",
+    "imdb": "tt1247696",
+    "tmdb": 46756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brief_interviews_with_hideous_men_2009",
+  "title": "Brief Interviews with Hideous Men",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1772792",
+    "imdb": "tt0790627",
+    "tmdb": 29151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}

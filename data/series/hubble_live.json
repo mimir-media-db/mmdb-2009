@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_hubble_live",
+  "title": "Hubble Live",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16845333"
+  },
+  "last_updated": "2026-08-17"
+}

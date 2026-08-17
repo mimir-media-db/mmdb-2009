@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_michael_jacksons_this_is_it_2009",
+  "title": "Michael Jackson's This Is It",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44447",
+    "imdb": "tt1477715",
+    "tmdb": 13576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 111
+}

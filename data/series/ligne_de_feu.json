@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ligne_de_feu",
+  "title": "Ligne de feu",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3240058",
+    "imdb": "tt1483623",
+    "tmdb": 102336
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

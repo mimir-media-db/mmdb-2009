@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_dewi",
+  "title": "Dewi",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q12481408",
+    "tmdb": 50075
+  },
+  "last_updated": "2026-08-17"
+}

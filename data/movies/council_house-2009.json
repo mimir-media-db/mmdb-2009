@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_council_house_2009",
+  "title": "Council House",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3213574",
+    "imdb": "tt1296459",
+    "tmdb": 526610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 64
+}

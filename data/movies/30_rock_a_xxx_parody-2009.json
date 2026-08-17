@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_rock_a_xxx_parody_2009",
+  "title": "30 Rock: A XXX Parody",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4634524",
+    "imdb": "tt1499909",
+    "tmdb": 45152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 143
+}

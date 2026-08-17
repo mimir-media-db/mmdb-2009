@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_electric_company",
+  "title": "The Electric Company",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7731708",
+    "imdb": "tt0995011",
+    "tmdb": 16202
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 52
+}

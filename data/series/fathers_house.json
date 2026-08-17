@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fathers_house",
+  "title": "Father's House",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19840090",
+    "imdb": "tt32544472",
+    "tmdb": 86359
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

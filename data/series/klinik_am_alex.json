@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_klinik_am_alex",
+  "title": "Klinik am Alex",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1774576",
+    "imdb": "tt1294422"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 27
+}

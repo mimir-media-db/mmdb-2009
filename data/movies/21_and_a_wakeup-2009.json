@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_21_and_a_wakeup_2009",
+  "title": "21 and a Wake-Up",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4631008",
+    "imdb": "tt1268161",
+    "tmdb": 190161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

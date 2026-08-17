@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_ghost_stories",
+  "title": "Celebrity Ghost Stories",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5057737",
+    "imdb": "tt1320080",
+    "tmdb": 32803
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 88
+}

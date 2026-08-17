@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stewart_lees_comedy_vehicle",
+  "title": "Stewart Lee's Comedy Vehicle",
+  "start_year": 2009,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7615851",
+    "imdb": "tt1227802",
+    "tmdb": 17662
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

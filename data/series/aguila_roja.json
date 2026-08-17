@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aguila_roja",
+  "title": "Águila Roja",
+  "start_year": 2009,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q2730318",
+    "imdb": "tt1381020",
+    "tmdb": 25065
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 116
+}

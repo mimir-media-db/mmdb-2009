@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_of_frozen_dreams_2009",
+  "title": "Winter of Frozen Dreams",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2124822",
+    "imdb": "tt0960098",
+    "tmdb": 30121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

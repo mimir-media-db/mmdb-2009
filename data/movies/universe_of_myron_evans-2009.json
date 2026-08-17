@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_universe_of_myron_evans_2009",
+  "title": "The universe of Myron Evans",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1180310",
+    "imdb": "tt1339243"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

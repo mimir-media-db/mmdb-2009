@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_corazon_salvaje",
+  "title": "Corazón salvaje",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q8350921",
+    "imdb": "tt1522468",
+    "tmdb": 31214
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 135
+}

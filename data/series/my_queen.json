@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_queen",
+  "title": "My Queen",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5975239",
+    "imdb": "tt4344826",
+    "tmdb": 18842
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

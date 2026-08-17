@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_protectors",
+  "title": "The Protectors",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1238735",
+    "imdb": "tt1298825",
+    "tmdb": 61912
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

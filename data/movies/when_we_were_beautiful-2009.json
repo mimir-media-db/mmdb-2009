@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_we_were_beautiful_2009",
+  "title": "When We Were Beautiful",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4019370",
+    "imdb": "tt1411663",
+    "tmdb": 33793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 75
+}

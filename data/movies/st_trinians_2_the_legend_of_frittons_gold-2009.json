@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_st_trinians_2_the_legend_of_frittons_gold_2009",
+  "title": "St Trinian's 2: The Legend of Fritton's Gold",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2454282",
+    "imdb": "tt1210106",
+    "tmdb": 37565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_putaani_party_2009",
+  "title": "Putaani Party",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7262162",
+    "imdb": "tt1504694",
+    "tmdb": 1001470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

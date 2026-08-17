@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_matalobos",
+  "title": "Matalobos",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7473621",
+    "imdb": "tt1414420",
+    "tmdb": 55187
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faismoi_plaisir_2009",
+  "title": "Fais-moi plaisir!",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3064580",
+    "imdb": "tt1361541",
+    "tmdb": 57302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 84
+}

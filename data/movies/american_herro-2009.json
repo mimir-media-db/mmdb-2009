@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_herro_2009",
+  "title": "American Herro",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4743992",
+    "imdb": "tt1370819",
+    "tmdb": 1324941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

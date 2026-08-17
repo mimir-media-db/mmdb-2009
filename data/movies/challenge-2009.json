@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_challenge_2009",
+  "title": "Challenge",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068880",
+    "imdb": "tt1399178",
+    "tmdb": 528422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_project_runway_korea",
+  "title": "Project Runway Korea",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7249295",
+    "tmdb": 8477
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 59
+}

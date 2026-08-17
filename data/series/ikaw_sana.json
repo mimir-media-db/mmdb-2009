@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ikaw_sana",
+  "title": "Ikaw Sana",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5995489",
+    "imdb": "tt1534352",
+    "tmdb": 30874
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

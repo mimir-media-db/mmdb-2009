@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whatever_works_2009",
+  "title": "Whatever Works",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q692208",
+    "imdb": "tt1178663",
+    "tmdb": 19265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

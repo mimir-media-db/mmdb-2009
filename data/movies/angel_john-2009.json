@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_john_2009",
+  "title": "Angel John",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4762196",
+    "imdb": "tt1545976",
+    "tmdb": 405991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

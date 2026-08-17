@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gangster_exchange_2009",
+  "title": "Gangster Exchange",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5521249",
+    "imdb": "tt0846004",
+    "tmdb": 83928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

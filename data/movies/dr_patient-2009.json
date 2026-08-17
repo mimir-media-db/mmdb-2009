@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_patient_2009",
+  "title": "Dr. Patient",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5304317",
+    "imdb": "tt1547629",
+    "tmdb": 352638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

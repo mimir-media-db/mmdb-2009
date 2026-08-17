@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_european_building",
+  "title": "The European Building",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6467301",
+    "imdb": "tt24017496"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

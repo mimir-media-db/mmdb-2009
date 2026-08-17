@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pepeng_agimat",
+  "title": "Pepeng Agimat",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7166252",
+    "imdb": "tt0347760",
+    "tmdb": 31487
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hows_your_news",
+  "title": "How's Your News?",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5917340",
+    "imdb": "tt1264090",
+    "tmdb": 17500
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

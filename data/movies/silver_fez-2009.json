@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_fez_2009",
+  "title": "The Silver Fez",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3522716",
+    "imdb": "tt1559324",
+    "tmdb": 1390195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

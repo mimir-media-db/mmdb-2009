@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letters_to_father_jacob_2009",
+  "title": "Letters to Father Jacob",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1059450",
+    "imdb": "tt1364487",
+    "tmdb": 55522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_osbournes_reloaded",
+  "title": "Osbournes Reloaded",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7105828",
+    "imdb": "tt1305560",
+    "tmdb": 18025
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

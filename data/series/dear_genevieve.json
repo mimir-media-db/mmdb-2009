@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_genevieve",
+  "title": "Dear Genevieve",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5246869",
+    "imdb": "tt1343001",
+    "tmdb": 25168
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 105
+}

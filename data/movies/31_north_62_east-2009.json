@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_31_north_62_east_2009",
+  "title": "31 North 62 East",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93622",
+    "imdb": "tt1235404",
+    "tmdb": 58781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

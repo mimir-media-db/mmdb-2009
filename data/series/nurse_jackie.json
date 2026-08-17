@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nurse_jackie",
+  "title": "Nurse Jackie",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q23614",
+    "imdb": "tt1190689",
+    "tmdb": 18053
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 80
+}

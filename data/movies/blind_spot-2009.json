@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_spot_2009",
+  "title": "Blind Spot",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3265230",
+    "imdb": "tt1013859",
+    "tmdb": 41232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 82
+}

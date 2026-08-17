@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stoked",
+  "title": "Stoked",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q998999",
+    "imdb": "tt1504166",
+    "tmdb": 21761
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

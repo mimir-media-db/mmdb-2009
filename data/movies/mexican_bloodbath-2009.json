@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mexican_bloodbath_2009",
+  "title": "Mexican Bloodbath",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3307664",
+    "imdb": "tt1084717",
+    "tmdb": 72236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

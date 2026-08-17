@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aasma_the_sky_is_the_limit_2009",
+  "title": "Aasma: The Sky Is the Limit",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4662731",
+    "imdb": "tt1252594",
+    "tmdb": 15504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

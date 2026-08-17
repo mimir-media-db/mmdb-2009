@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_more_to_love",
+  "title": "More to Love",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6911189",
+    "imdb": "tt1477137",
+    "tmdb": 21727
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

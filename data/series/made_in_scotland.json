@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_made_in_scotland",
+  "title": "Made in Scotland",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6726755"
+  },
+  "last_updated": "2026-08-17"
+}

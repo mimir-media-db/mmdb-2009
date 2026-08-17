@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ruth_watsons_hotel_rescue",
+  "title": "Ruth Watson's Hotel Rescue",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7383256",
+    "imdb": "tt1520712",
+    "tmdb": 31144
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

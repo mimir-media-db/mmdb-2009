@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_modern_family",
+  "title": "Modern Family",
+  "start_year": 2009,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16756",
+    "imdb": "tt1442437",
+    "tmdb": 1421
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 250
+}

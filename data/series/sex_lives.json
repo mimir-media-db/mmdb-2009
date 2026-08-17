@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_sex_lives",
+  "title": "Sex Lives",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q16238307",
+    "imdb": "tt2992664"
+  },
+  "last_updated": "2026-08-17"
+}

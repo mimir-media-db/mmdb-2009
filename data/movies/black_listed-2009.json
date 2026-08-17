@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_listed_2009",
+  "title": "Black Listed",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2893736",
+    "imdb": "tt1060244",
+    "tmdb": 163751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

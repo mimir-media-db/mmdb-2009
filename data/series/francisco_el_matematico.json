@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_francisco_el_matematico",
+  "title": "Francisco el matemático",
+  "start_year": 2009,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q5868272",
+    "imdb": "tt6216702",
+    "tmdb": 107155
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 841
+}

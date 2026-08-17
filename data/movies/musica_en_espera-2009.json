@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_musica_en_espera_2009",
+  "title": "Música en espera",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2010539",
+    "imdb": "tt1372282",
+    "tmdb": 90658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 98
+}

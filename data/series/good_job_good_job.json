@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_good_job_good_job",
+  "title": "Good Job, Good Job",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2044549",
+    "tmdb": 46522
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

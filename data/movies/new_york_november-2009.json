@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_york_november_2009",
+  "title": "New York: November",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1146775",
+    "imdb": "tt1532545",
+    "tmdb": 853028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 105
+}

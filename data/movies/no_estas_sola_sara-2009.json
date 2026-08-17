@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_estas_sola_sara_2009",
+  "title": "No estás sola, Sara",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6043750",
+    "imdb": "tt1512810",
+    "tmdb": 146562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 64
+}

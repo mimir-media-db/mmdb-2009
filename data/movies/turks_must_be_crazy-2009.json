@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turks_must_be_crazy_2009",
+  "title": "The Turks Must Be Crazy",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6068629",
+    "imdb": "tt1700494",
+    "tmdb": 37575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

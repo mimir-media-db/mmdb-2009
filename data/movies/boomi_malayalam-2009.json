@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boomi_malayalam_2009",
+  "title": "Boomi Malayalam",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4943526",
+    "imdb": "tt1430074",
+    "tmdb": 278222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

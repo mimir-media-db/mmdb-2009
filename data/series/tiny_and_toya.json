@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tiny_and_toya",
+  "title": "Tiny and Toya",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7808657",
+    "imdb": "tt1471823",
+    "tmdb": 21532
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

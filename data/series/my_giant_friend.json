@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_giant_friend",
+  "title": "My Giant Friend",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2084071",
+    "imdb": "tt1554785",
+    "tmdb": 58756
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

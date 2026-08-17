@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_willkommen_bei_mario_barth",
+  "title": "Willkommen bei Mario Barth",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2581616",
+    "imdb": "tt1418094",
+    "tmdb": 22458
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 93
+}

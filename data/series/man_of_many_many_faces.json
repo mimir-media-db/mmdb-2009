@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_man_of_many_many_faces",
+  "title": "Man of Many Many Faces",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3290319",
+    "imdb": "tt5908292",
+    "tmdb": 17960
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_ludolfs_dankeschon_fur_italien_2009",
+  "title": "Die Ludolfs - Dankeschön für Italien!",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1214632",
+    "imdb": "tt1401240",
+    "tmdb": 26226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 98
+}

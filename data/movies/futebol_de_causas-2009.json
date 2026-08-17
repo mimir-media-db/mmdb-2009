@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_futebol_de_causas_2009",
+  "title": "Futebol de Causas",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1475437",
+    "imdb": "tt1974261",
+    "tmdb": 1225995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speaking_in_code_2009",
+  "title": "Speaking in Code",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q600937",
+    "imdb": "tt1474864",
+    "tmdb": 44621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}

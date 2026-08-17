@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_regreso_a_la_guaca",
+  "title": "Regreso a la Guaca",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q17996680",
+    "imdb": "tt4175734",
+    "tmdb": 93579
+  },
+  "last_updated": "2026-08-17"
+}

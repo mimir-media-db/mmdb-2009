@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_east_west_east_the_final_sprint_2009",
+  "title": "East, West, East: The Final Sprint",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3303206",
+    "imdb": "tt1426360",
+    "tmdb": 313972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

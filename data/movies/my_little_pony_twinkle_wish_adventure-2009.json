@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_pony_twinkle_wish_adventure_2009",
+  "title": "My Little Pony: Twinkle Wish Adventure",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1956410",
+    "imdb": "tt1664723",
+    "tmdb": 57505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

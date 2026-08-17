@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_private_chefs_of_beverly_hills",
+  "title": "Private Chefs of Beverly Hills",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7246056",
+    "imdb": "tt1572500",
+    "tmdb": 32575
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

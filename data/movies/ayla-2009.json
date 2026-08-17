@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ayla_2009",
+  "title": "Ayla",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q793027",
+    "imdb": "tt1572985",
+    "tmdb": 96746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

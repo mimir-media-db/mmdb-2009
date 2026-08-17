@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bored_to_death",
+  "title": "Bored to Death",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q521289",
+    "imdb": "tt1255913",
+    "tmdb": 31078
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

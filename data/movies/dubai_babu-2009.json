@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dubai_babu_2009",
+  "title": "Dubai Babu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5310505",
+    "imdb": "tt14148980",
+    "tmdb": 339864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

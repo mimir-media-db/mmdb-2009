@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_people_2009",
+  "title": "The Ordinary People",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3431801",
+    "imdb": "tt1353105",
+    "tmdb": 33404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

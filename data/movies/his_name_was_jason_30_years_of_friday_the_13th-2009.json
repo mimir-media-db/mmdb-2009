@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_his_name_was_jason_30_years_of_friday_the_13th_2009",
+  "title": "His Name Was Jason: 30 Years of Friday the 13th",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5898676",
+    "imdb": "tt1282052",
+    "tmdb": 15004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

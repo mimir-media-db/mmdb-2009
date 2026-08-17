@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_small_island",
+  "title": "Small Island",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7542813",
+    "imdb": "tt1315058",
+    "tmdb": 46367
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

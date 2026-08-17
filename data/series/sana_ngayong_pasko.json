@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sana_ngayong_pasko",
+  "title": "Sana Ngayong Pasko",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7415431",
+    "imdb": "tt1567969",
+    "tmdb": 31348
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

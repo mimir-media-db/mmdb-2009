@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pit_bulls_parolees",
+  "title": "Pit Bulls & Parolees",
+  "start_year": 2009,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q7198551",
+    "imdb": "tt1538145",
+    "tmdb": 31537
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 200
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_nascar_race_hub",
+  "title": "NASCAR Race Hub",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6952485"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_venice_the_series",
+  "title": "Venice: The Series",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7919967"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 48
+}

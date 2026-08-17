@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gary_tank_commander",
+  "title": "Gary: Tank Commander",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5524560",
+    "imdb": "tt1676456",
+    "tmdb": 31632
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_singoff",
+  "title": "The Sing-Off",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2130377",
+    "imdb": "tt1565059",
+    "tmdb": 31675
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 28
+}

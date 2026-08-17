@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_weather_center_live",
+  "title": "Weather Center Live",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7978199"
+  },
+  "last_updated": "2026-08-17"
+}

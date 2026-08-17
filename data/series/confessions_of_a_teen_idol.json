@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_confessions_of_a_teen_idol",
+  "title": "Confessions of a Teen Idol",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5160027",
+    "imdb": "tt1347631",
+    "tmdb": 16341
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

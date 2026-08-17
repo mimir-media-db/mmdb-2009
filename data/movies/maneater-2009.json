@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maneater_2009",
+  "title": "Maneater",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6748372",
+    "imdb": "tt1264098",
+    "tmdb": 54753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

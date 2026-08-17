@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crawfishlike_2009",
+  "title": "Crawfishlike",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4208934",
+    "imdb": "tt1500724",
+    "tmdb": 63598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_verano_en_venecia",
+  "title": "Verano en Venecia",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6160503",
+    "imdb": "tt1543296",
+    "tmdb": 138202
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 151
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heavens_door_2009",
+  "title": "Heaven's Door",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5366918",
+    "imdb": "tt1173947",
+    "tmdb": 39799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 106
+}

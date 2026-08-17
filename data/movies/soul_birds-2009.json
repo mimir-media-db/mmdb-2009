@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_birds_2009",
+  "title": "Soul Birds",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2265237",
+    "imdb": "tt1459963",
+    "tmdb": 441971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

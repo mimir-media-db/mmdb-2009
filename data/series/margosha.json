@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_margosha",
+  "title": "Margosha",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4281226",
+    "imdb": "tt2851244",
+    "tmdb": 70993
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 240
+}

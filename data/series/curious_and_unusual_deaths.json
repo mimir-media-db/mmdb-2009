@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_curious_and_unusual_deaths",
+  "title": "Curious and Unusual Deaths",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9385801",
+    "imdb": "tt1535158",
+    "tmdb": 38680
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gulaal_2009",
+  "title": "Gulaal",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5617180",
+    "imdb": "tt1261047",
+    "tmdb": 21625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 140
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_home_time",
+  "title": "Home Time",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q16844374",
+    "imdb": "tt1478295",
+    "tmdb": 31125
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

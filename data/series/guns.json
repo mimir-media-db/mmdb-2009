@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_guns",
+  "title": "Guns",
+  "start_year": 2009,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1554848",
+    "imdb": "tt1077173",
+    "tmdb": 20703
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

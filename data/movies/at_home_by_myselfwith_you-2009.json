@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_at_home_by_myselfwith_you_2009",
+  "title": "At Home by Myself...With You",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4812331",
+    "imdb": "tt1347509",
+    "tmdb": 63217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

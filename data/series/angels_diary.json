@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_angels_diary",
+  "title": "Angel's Diary",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4762018",
+    "tmdb": 31970
+  },
+  "last_updated": "2026-08-17"
+}

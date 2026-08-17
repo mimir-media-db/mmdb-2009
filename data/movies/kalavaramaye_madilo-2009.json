@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalavaramaye_madilo_2009",
+  "title": "Kalavaramaye Madilo",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6351654",
+    "imdb": "tt1946278",
+    "tmdb": 23792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

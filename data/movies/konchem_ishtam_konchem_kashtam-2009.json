@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_konchem_ishtam_konchem_kashtam_2009",
+  "title": "Konchem Ishtam Konchem Kashtam",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6428911",
+    "imdb": "tt1230544",
+    "tmdb": 85810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

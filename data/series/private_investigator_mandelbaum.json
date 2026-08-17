@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_private_investigator_mandelbaum",
+  "title": "Private Investigator Mandelbaum",
+  "start_year": 2009,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q12409248",
+    "imdb": "tt2005880",
+    "tmdb": 51964
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 41
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_samanyolu",
+  "title": "Samanyolu",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q19612401",
+    "imdb": "tt1584905",
+    "tmdb": 49914
+  },
+  "last_updated": "2026-08-17"
+}

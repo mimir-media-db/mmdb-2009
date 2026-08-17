@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eating_out_all_you_can_eat_2009",
+  "title": "Eating Out: All You Can Eat",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1707771",
+    "imdb": "tt1472059",
+    "tmdb": 25833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 81
+}

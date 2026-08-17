@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_models_of_the_runway",
+  "title": "Models of the Runway",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6888425",
+    "imdb": "tt1302113",
+    "tmdb": 32326
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

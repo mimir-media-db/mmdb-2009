@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_life",
+  "title": "The Beautiful Life",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1340785",
+    "imdb": "tt1400580",
+    "tmdb": 31172
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

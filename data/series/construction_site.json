@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_construction_site",
+  "title": "Construction Site",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5164440",
+    "imdb": "tt0358808",
+    "tmdb": 9075
+  },
+  "last_updated": "2026-08-17"
+}

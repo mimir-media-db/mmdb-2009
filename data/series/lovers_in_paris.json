@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lovers_in_paris",
+  "title": "Lovers in Paris",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q18350611",
+    "imdb": "tt1675496",
+    "tmdb": 8176
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 55
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_petits_meurtres_dagatha_christie",
+  "title": "Les Petits Meurtres d'Agatha Christie",
+  "start_year": 2009,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q3234618",
+    "imdb": "tt1349600",
+    "tmdb": 61431
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 48
+}

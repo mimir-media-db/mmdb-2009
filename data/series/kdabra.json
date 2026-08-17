@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kdabra",
+  "title": "Kdabra",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3281880",
+    "imdb": "tt1558643",
+    "tmdb": 55219
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

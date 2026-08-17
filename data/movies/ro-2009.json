@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ro_2009",
+  "title": "Фига.Ro",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4483428",
+    "imdb": "tt1456854",
+    "tmdb": 991989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 92
+}

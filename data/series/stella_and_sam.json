@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stella_and_sam",
+  "title": "Stella and Sam",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7607150",
+    "imdb": "tt1685313",
+    "tmdb": 17730
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

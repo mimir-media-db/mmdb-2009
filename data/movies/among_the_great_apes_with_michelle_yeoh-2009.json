@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_among_the_great_apes_with_michelle_yeoh_2009",
+  "title": "Among the Great Apes with Michelle Yeoh",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4747552",
+    "imdb": "tt12573232",
+    "tmdb": 969961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_thursday_night_baseball",
+  "title": "Thursday Night Baseball",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16968779"
+  },
+  "last_updated": "2026-08-17"
+}

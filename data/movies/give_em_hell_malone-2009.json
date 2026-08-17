@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_give_em_hell_malone_2009",
+  "title": "Give 'Em Hell, Malone",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2069186",
+    "imdb": "tt1258137",
+    "tmdb": 28019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 96
+}

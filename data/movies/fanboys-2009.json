@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fanboys_2009",
+  "title": "Fanboys",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q650460",
+    "imdb": "tt0489049",
+    "tmdb": 13532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_team_2009",
+  "title": "Mystery Team",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6948873",
+    "imdb": "tt1237838",
+    "tmdb": 38087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

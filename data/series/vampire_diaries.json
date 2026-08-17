@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vampire_diaries",
+  "title": "The Vampire Diaries",
+  "start_year": 2009,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28537",
+    "imdb": "tt1405406",
+    "tmdb": 18165
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 171
+}

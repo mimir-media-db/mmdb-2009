@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ee_pattanathil_bhootham_2009",
+  "title": "Ee Pattanathil Bhootham",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5347010",
+    "imdb": "tt1447783",
+    "tmdb": 151875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

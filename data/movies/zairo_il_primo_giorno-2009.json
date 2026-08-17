@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zairo_il_primo_giorno_2009",
+  "title": "Zairo - Il primo giorno",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4023732",
+    "imdb": "tt1764751",
+    "tmdb": 1250168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

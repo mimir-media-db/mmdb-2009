@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_make_a_deal",
+  "title": "Let's Make a Deal",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q566130",
+    "imdb": "tt0056770",
+    "tmdb": 1040
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 1395
+}

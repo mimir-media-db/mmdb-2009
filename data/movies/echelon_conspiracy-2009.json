@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_echelon_conspiracy_2009",
+  "title": "Echelon Conspiracy",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1212068",
+    "imdb": "tt1124039",
+    "tmdb": 16325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baghdad_texas_2009",
+  "title": "Baghdad Texas",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4841825",
+    "imdb": "tt0762072",
+    "tmdb": 469643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

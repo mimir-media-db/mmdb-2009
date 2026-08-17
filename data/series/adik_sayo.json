@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_adik_sayo",
+  "title": "Adik Sa'Yo",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4682765",
+    "imdb": "tt1452956",
+    "tmdb": 18164
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

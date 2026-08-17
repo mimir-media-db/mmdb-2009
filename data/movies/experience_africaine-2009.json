@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_experience_africaine_2009",
+  "title": "Expérience africaine",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3062456",
+    "imdb": "tt1386429",
+    "tmdb": 575743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

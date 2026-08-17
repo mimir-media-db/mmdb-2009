@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_voce_stratos_2009",
+  "title": "La voce Stratos",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3825034",
+    "imdb": "tt1661851",
+    "tmdb": 611472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 110
+}

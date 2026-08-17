@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ovni",
+  "title": "OVNI",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3347751",
+    "imdb": "tt3121640",
+    "tmdb": 331339
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 5
+}

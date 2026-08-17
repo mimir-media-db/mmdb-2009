@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_chinoytv",
+  "title": "CHInoyTV",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5011175",
+    "tmdb": 41011
+  },
+  "last_updated": "2026-08-17"
+}

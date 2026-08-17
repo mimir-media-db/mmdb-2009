@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monsters_inside_me",
+  "title": "Monsters Inside Me",
+  "start_year": 2009,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q5359579",
+    "imdb": "tt1454824",
+    "tmdb": 21665
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 56
+}

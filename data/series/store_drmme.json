@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_store_drmme",
+  "title": "Store drømme",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12337344",
+    "imdb": "tt1505281",
+    "tmdb": 69713
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

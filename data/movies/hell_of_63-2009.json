@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_of_63_2009",
+  "title": "The Hell of '63",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2235250",
+    "imdb": "tt1156132",
+    "tmdb": 35840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 108
+}

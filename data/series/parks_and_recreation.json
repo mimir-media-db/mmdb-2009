@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_parks_and_recreation",
+  "title": "Parks and Recreation",
+  "start_year": 2009,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q218035",
+    "imdb": "tt1266020",
+    "tmdb": 8592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 125
+}

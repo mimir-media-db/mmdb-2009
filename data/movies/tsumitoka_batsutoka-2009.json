@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tsumitoka_batsutoka_2009",
+  "title": "Tsumitoka batsutoka",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q368614",
+    "imdb": "tt1330595",
+    "tmdb": 108538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
