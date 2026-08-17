@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rehen_de_ilusiones_2009",
+  "title": "Rehén de ilusiones",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110103698",
+    "imdb": "tt1815893",
+    "tmdb": 253789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}

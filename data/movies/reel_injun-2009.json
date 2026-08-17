@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reel_injun_2009",
+  "title": "Reel Injun",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7306863",
+    "imdb": "tt1484114",
+    "tmdb": 101520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}

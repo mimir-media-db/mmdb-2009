@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_river_2009",
+  "title": "Red River",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7304815",
+    "imdb": "tt1245719",
+    "tmdb": 53275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

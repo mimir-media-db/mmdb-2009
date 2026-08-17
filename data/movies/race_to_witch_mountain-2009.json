@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_race_to_witch_mountain_2009",
+  "title": "Race to Witch Mountain",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q922006",
+    "imdb": "tt1075417",
+    "tmdb": 13836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-13",
+  "runtime_minutes": 98
+}

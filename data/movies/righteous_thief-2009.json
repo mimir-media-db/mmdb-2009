@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_righteous_thief_2009",
+  "title": "The Righteous Thief",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12625334",
+    "imdb": "tt3243196",
+    "tmdb": 257296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-26",
+  "runtime_minutes": 117
+}

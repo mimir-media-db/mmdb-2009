@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rotkappchen_the_blood_of_red_riding_hood_2009",
+  "title": "Rotkäppchen: The Blood of Red Riding Hood",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140278753",
+    "imdb": "tt1339493",
+    "tmdb": 271798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-13",
+  "runtime_minutes": 105
+}

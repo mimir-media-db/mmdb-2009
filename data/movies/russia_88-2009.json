@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_russia_88_2009",
+  "title": "Russia 88",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1413358",
+    "imdb": "tt1362118",
+    "tmdb": 49585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-28",
+  "runtime_minutes": 103
+}
