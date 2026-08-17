@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_is_hell_with_the_princess_2009",
+  "title": "It Is Hell with the Princess",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12044562",
+    "imdb": "tt1342411",
+    "tmdb": 81701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-29",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_alaska_2009",
+  "title": "I Love Alaska",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999911",
+    "imdb": "tt1455044"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

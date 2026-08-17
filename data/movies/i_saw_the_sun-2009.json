@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_saw_the_sun_2009",
+  "title": "I Saw the Sun",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q942852",
+    "imdb": "tt1347521",
+    "tmdb": 27960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-16",
+  "runtime_minutes": 120
+}

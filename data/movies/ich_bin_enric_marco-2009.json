@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_bin_enric_marco_2009",
+  "title": "Ich bin Enric Marco",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127789252",
+    "imdb": "tt1357152",
+    "tmdb": 364962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-14",
+  "runtime_minutes": 100
+}

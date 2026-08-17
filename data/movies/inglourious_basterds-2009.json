@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inglourious_basterds_2009",
+  "title": "Inglourious Basterds",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q153723",
+    "imdb": "tt0361748",
+    "tmdb": 16869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-20",
+  "runtime_minutes": 153
+}

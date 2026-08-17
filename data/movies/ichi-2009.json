@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ichi_2009",
+  "title": "Ichi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115380",
+    "imdb": "tt1060256",
+    "tmdb": 19506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-14",
+  "runtime_minutes": 120
+}

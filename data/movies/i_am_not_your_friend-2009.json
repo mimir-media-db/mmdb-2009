@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_not_your_friend_2009",
+  "title": "I Am Not Your Friend",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105078260",
+    "imdb": "tt1339131",
+    "tmdb": 103440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-05",
+  "runtime_minutes": 100
+}
