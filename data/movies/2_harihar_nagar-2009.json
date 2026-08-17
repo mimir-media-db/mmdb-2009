@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2_harihar_nagar_2009",
+  "title": "2 Harihar Nagar",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3595071",
+    "imdb": "tt1332676",
+    "tmdb": 32172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-01"
+}

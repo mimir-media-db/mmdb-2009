@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2012_2009",
+  "title": "2012",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q184605",
+    "imdb": "tt1190080",
+    "tmdb": 14161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-11",
+  "runtime_minutes": 158
+}
