@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grandpa_in_my_pocket",
+  "title": "Grandpa in My Pocket",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5595528",
+    "imdb": "tt1390447",
+    "tmdb": 21204
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 120
+}

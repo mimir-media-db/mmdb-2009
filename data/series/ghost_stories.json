@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_stories",
+  "title": "Ghost Stories",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5557165",
+    "imdb": "tt1684731",
+    "tmdb": 34326
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

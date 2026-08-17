@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_girls_generations_hello_baby",
+  "title": "Girls' Generation's Hello Baby",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q488846",
+    "tmdb": 66916
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}
