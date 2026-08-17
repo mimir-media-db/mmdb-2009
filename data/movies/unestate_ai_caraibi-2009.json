@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unestate_ai_caraibi_2009",
+  "title": "Un'estate ai Caraibi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4003591",
+    "imdb": "tt1410276",
+    "tmdb": 53700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 106
+}
