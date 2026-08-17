@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_759_boy_scouts_of_harlem_2009",
+  "title": "759: Boy Scouts of Harlem",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4643412",
+    "imdb": "tt1391655",
+    "tmdb": 817051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
