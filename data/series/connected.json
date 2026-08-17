@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_connected",
+  "title": "Connected",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16131110",
+    "imdb": "tt3331908",
+    "tmdb": 75883
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 240
+}

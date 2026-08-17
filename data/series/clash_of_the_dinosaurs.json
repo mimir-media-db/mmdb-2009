@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_clash_of_the_dinosaurs",
+  "title": "Clash of the Dinosaurs",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q678457",
+    "imdb": "tt1266003",
+    "tmdb": 31532
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

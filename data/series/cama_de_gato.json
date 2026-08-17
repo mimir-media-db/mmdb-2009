@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cama_de_gato",
+  "title": "Cama de Gato",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3133871",
+    "imdb": "tt1615946",
+    "tmdb": 46022
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 161
+}

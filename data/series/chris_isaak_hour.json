@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chris_isaak_hour",
+  "title": "The Chris Isaak Hour",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7722692",
+    "imdb": "tt1494217",
+    "tmdb": 31409
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

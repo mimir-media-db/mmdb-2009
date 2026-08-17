@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_clave_uno_medicos_en_alerta",
+  "title": "Clave uno: médicos en alerta",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5772285",
+    "imdb": "tt1441405"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 139
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cesko_slovenska_superstar",
+  "title": "Česko Slovenská Superstar",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q340093",
+    "imdb": "tt1522461",
+    "tmdb": 31217
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

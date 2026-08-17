@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_city_hall",
+  "title": "The City Hall",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6499214",
+    "imdb": "tt1819835",
+    "tmdb": 31229
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}
