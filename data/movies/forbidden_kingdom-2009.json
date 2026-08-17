@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_kingdom_2009",
+  "title": "The Forbidden Kingdom",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q176568",
+    "imdb": "tt0865556",
+    "tmdb": 1729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-16",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_franco_cristaldi_e_il_suo_cinema_paradiso_2009",
+  "title": "Franco Cristaldi e il suo cinema Paradiso",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590241",
+    "imdb": "tt1527819",
+    "tmdb": 1339928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 102
+}

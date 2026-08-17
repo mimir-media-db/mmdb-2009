@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_destination_2009",
+  "title": "The Final Destination",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q858976",
+    "imdb": "tt1144884",
+    "tmdb": 19912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-26",
+  "runtime_minutes": 82
+}

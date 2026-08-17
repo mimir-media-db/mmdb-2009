@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_finishing_line_2009",
+  "title": "The Finishing Line",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59875073",
+    "imdb": "tt1495972"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

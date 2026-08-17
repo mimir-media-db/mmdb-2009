@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_of_all_felicia_2009",
+  "title": "First of All, Felicia",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44865024",
+    "imdb": "tt1343084",
+    "tmdb": 65818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 108
+}
