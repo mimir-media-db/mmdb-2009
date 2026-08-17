@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_talkin_bout_your_generation",
+  "title": "Talkin' 'Bout Your Generation",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3980444",
+    "imdb": "tt1425371",
+    "tmdb": 18527
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 72
+}

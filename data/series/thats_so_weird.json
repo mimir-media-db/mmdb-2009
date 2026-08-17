@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thats_so_weird",
+  "title": "That's So Weird!",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7711021",
+    "imdb": "tt1492220",
+    "tmdb": 32699
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

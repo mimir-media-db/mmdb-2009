@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tamra_the_island",
+  "title": "Tamra, the Island",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q625313",
+    "imdb": "tt1473708",
+    "tmdb": 45466
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

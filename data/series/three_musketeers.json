@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_three_musketeers",
+  "title": "The Three Musketeers",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q11639927",
+    "imdb": "tt43589414",
+    "tmdb": 282030
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tiagong_akyat",
+  "title": "Tiagong Akyat",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7800093",
+    "imdb": "tt1796352",
+    "tmdb": 30732
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

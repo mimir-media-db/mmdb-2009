@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_chef_masters",
+  "title": "Top Chef Masters",
+  "start_year": 2009,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7824459",
+    "imdb": "tt1427816",
+    "tmdb": 19356
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 41
+}

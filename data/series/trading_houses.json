@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_trading_houses",
+  "title": "Trading Houses",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7832221"
+  },
+  "last_updated": "2026-08-17"
+}
