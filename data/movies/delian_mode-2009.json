@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_delian_mode_2009",
+  "title": "The Delian Mode",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55450677",
+    "imdb": "tt1442559",
+    "tmdb": 93418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sometime_in_august_2009",
+  "title": "Sometime in August",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649347",
+    "imdb": "tt1091666",
+    "tmdb": 8213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

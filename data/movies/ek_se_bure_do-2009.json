@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_se_bure_do_2009",
+  "title": "Ek Se Bure Do",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350246",
+    "imdb": "tt1420539",
+    "tmdb": 435175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-10"
+}

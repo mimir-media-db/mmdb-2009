@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paribhavam_2009",
+  "title": "Paribhavam",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7137017",
+    "imdb": "tt23624456",
+    "tmdb": 1634478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-12"
+}

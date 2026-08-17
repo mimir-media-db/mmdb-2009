@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_an_abducted_woman_2009",
+  "title": "The Story of An Abducted Woman",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22078945",
+    "imdb": "tt1218507",
+    "tmdb": 60765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-22"
+}

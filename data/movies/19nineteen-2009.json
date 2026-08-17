@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_19nineteen_2009",
+  "title": "19-Nineteen",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15232860",
+    "imdb": "tt1697864",
+    "tmdb": 50792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-12",
+  "runtime_minutes": 103
+}

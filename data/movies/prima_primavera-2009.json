@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prima_primavera_2009",
+  "title": "Prima Primavera",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31192377",
+    "imdb": "tt0454918",
+    "tmdb": 298875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

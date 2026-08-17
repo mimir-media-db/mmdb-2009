@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hatrick_hodi_maga_2009",
+  "title": "Hatrick Hodi Maga",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18795312",
+    "imdb": "tt14448784",
+    "tmdb": 282619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

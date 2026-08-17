@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_found_family_2009",
+  "title": "The Lost & Found Family",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7748521",
+    "imdb": "tt1474897",
+    "tmdb": 55057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 91
+}

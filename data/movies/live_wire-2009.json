@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_wire_2009",
+  "title": "Live Wire",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1702997",
+    "imdb": "tt0304876",
+    "tmdb": 231540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-30",
+  "runtime_minutes": 81
+}

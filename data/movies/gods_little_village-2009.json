@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_little_village_2009",
+  "title": "God's Little Village",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9364258",
+    "imdb": "tt1368448",
+    "tmdb": 34698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-19",
+  "runtime_minutes": 110
+}

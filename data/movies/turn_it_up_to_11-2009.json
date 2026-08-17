@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turn_it_up_to_11_2009",
+  "title": "Turn It Up to 11",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12597395",
+    "imdb": "tt2424064",
+    "tmdb": 719514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

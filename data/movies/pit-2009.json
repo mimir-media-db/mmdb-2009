@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pit_2009",
+  "title": "The Pit",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57767551",
+    "imdb": "tt1540052",
+    "tmdb": 186121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

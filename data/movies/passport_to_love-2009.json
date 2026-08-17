@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_passport_to_love_2009",
+  "title": "Passport to Love",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7142858",
+    "imdb": "tt1260565",
+    "tmdb": 64937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

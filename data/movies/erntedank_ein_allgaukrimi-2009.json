@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_erntedank_ein_allgaukrimi_2009",
+  "title": "Erntedank. Ein Allgäukrimi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28086688",
+    "imdb": "tt1346981",
+    "tmdb": 75234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

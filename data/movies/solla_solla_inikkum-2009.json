@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_solla_solla_inikkum_2009",
+  "title": "Solla Solla Inikkum",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254373",
+    "imdb": "tt12735356",
+    "tmdb": 1123726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

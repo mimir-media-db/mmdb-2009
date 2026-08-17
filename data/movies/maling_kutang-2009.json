@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maling_kutang_2009",
+  "title": "Maling Kutang",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5231031",
+    "imdb": "tt1507326",
+    "tmdb": 655844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-01"
+}

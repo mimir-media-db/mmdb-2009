@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_las_meninas_2009",
+  "title": "Las Meninas",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4290526",
+    "imdb": "tt1330039",
+    "tmdb": 257941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-05",
+  "runtime_minutes": 99
+}

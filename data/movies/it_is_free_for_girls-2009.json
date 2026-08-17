@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_is_free_for_girls_2009",
+  "title": "It is free for girls",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12308432",
+    "imdb": "tt1453240",
+    "tmdb": 411378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

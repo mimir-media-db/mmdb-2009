@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_the_blue_river_run_2009",
+  "title": "Let the Blue River Run",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18815807",
+    "imdb": "tt3863914",
+    "tmdb": 418488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-08"
+}

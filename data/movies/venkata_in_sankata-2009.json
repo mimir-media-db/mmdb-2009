@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_venkata_in_sankata_2009",
+  "title": "Venkata in Sankata",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17088501",
+    "imdb": "tt4440564",
+    "tmdb": 282538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

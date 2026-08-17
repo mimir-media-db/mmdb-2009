@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_public_enemy_no_1_todestrieb_2009",
+  "title": "Public Enemy No. 1 – Todestrieb",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2623856",
+    "imdb": "tt0411272",
+    "tmdb": 15362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-21",
+  "runtime_minutes": 128
+}

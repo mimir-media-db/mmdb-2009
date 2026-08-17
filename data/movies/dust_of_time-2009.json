@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dust_of_time_2009",
+  "title": "The Dust of Time",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q200765",
+    "imdb": "tt0765442",
+    "tmdb": 51735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-29",
+  "runtime_minutes": 125
+}

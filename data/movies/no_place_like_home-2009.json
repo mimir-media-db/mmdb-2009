@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_place_like_home_2009",
+  "title": "No place like home",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64224993",
+    "imdb": "tt1651919",
+    "tmdb": 385889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 6
+}

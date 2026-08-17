@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sutures_2009",
+  "title": "Sutures",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17639610",
+    "imdb": "tt1209361",
+    "tmdb": 54612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 83
+}

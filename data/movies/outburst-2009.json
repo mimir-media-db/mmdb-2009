@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outburst_2009",
+  "title": "Outburst",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115133659",
+    "imdb": "tt1409831",
+    "tmdb": 45892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-30"
+}

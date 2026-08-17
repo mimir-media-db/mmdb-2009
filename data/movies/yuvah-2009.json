@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_yuvah_2009",
+  "title": "Yuvah",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255399",
+    "imdb": "tt3957158"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

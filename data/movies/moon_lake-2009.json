@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_lake_2009",
+  "title": "Moon Lake",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25217451",
+    "imdb": "tt1538864"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-29"
+}

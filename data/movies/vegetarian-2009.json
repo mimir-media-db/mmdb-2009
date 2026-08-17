@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vegetarian_2009",
+  "title": "Vegetarian",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19162104",
+    "imdb": "tt1517269",
+    "tmdb": 45814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-09",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kenny_begins_2009",
+  "title": "Kenny Begins",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1738956",
+    "imdb": "tt1278180",
+    "tmdb": 21013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-25",
+  "runtime_minutes": 87
+}

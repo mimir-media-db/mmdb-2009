@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_too_walked_on_the_moon_2009",
+  "title": "We Too Walked on the Moon",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7977809",
+    "imdb": "tt1563676",
+    "tmdb": 327628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_showdown_2009",
+  "title": "The Showdown",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20092348",
+    "imdb": "tt1415902",
+    "tmdb": 27369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kehua_2009",
+  "title": "Kehua",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881782",
+    "imdb": "tt4311510"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 13
+}

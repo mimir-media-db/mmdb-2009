@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_restoration_2009",
+  "title": "Restoration",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16183823",
+    "tmdb": 418487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

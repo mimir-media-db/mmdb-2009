@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bollywood_beats_2009",
+  "title": "Bollywood Beats",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16827842",
+    "imdb": "tt1207639",
+    "tmdb": 208136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

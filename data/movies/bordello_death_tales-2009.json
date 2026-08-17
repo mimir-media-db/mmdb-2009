@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bordello_death_tales_2009",
+  "title": "Bordello Death Tales",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28485811",
+    "imdb": "tt1312230",
+    "tmdb": 108647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-15",
+  "runtime_minutes": 90
+}

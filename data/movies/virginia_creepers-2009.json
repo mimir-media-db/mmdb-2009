@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virginia_creepers_2009",
+  "title": "Virginia Creepers",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7934217",
+    "imdb": "tt1524050",
+    "tmdb": 85707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_walls_2009",
+  "title": "The Story of Walls",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884857",
+    "imdb": "tt1521078",
+    "tmdb": 1274309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

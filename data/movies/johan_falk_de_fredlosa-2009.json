@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johan_falk_de_fredlosa_2009",
+  "title": "Johan Falk: De fredlösa",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10540367",
+    "imdb": "tt1528763",
+    "tmdb": 24712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-04",
+  "runtime_minutes": 94
+}

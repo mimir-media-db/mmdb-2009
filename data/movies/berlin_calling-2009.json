@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_calling_2009",
+  "title": "Berlin Calling",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q574295",
+    "imdb": "tt0211946",
+    "tmdb": 30508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-02",
+  "runtime_minutes": 100
+}

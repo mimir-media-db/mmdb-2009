@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_for_keeps_2009",
+  "title": "Playing for Keeps",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3207851",
+    "imdb": "tt1299377",
+    "tmdb": 189407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_butch_factor_2009",
+  "title": "The Butch Factor",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7720764",
+    "imdb": "tt1494815",
+    "tmdb": 47742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

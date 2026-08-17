@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_another_love_story_2009",
+  "title": "Just Another Love Story",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q813913",
+    "imdb": "tt1024942",
+    "tmdb": 14898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-09",
+  "runtime_minutes": 104
+}

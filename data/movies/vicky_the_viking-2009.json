@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vicky_the_viking_2009",
+  "title": "Vicky the Viking",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q555367",
+    "imdb": "tt1167599",
+    "tmdb": 22355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-10",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bangaru_babu_2009",
+  "title": "Bangaru Babu",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13003535",
+    "imdb": "tt1601810",
+    "tmdb": 531013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

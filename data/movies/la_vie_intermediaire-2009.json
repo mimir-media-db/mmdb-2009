@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vie_intermediaire_2009",
+  "title": "La Vie intermédiaire",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106512702",
+    "imdb": "tt1449826",
+    "tmdb": 583729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-15",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uma_aventura_na_casa_assombrada_2009",
+  "title": "Uma Aventura na Casa Assombrada",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7881005",
+    "imdb": "tt1464595",
+    "tmdb": 47523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bare_essence_of_life_2009",
+  "title": "Bare Essence of Life",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18700747",
+    "imdb": "tt1446204",
+    "tmdb": 33696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-06",
+  "runtime_minutes": 120
+}

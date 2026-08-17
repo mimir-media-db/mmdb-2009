@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_far_cry_2009",
+  "title": "Far Cry",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q543248",
+    "imdb": "tt0400426",
+    "tmdb": 7916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-24",
+  "runtime_minutes": 94
+}

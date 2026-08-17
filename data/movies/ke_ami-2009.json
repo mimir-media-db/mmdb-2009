@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ke_ami_2009",
+  "title": "Ke Ami",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13057561",
+    "imdb": "tt2070710"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-09"
+}

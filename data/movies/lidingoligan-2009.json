@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lidingoligan_2009",
+  "title": "Lidingöligan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18291740",
+    "imdb": "tt1794854",
+    "tmdb": 487293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

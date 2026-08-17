@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crocodiles_2009",
+  "title": "The Crocodiles",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q477570",
+    "imdb": "tt0803100",
+    "tmdb": 12137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-26",
+  "runtime_minutes": 98
+}

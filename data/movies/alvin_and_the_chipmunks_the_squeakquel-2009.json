@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alvin_and_the_chipmunks_the_squeakquel_2009",
+  "title": "Alvin and the Chipmunks: The Squeakquel",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q378311",
+    "imdb": "tt1231580",
+    "tmdb": 23398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-23",
+  "runtime_minutes": 88
+}

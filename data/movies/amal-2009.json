@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amal_2009",
+  "title": "Amal",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3546757",
+    "imdb": "tt0907674",
+    "tmdb": 25803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-22",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hessen_affair_2009",
+  "title": "The Hessen Affair",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363628",
+    "imdb": "tt1153106",
+    "tmdb": 6163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 113
+}

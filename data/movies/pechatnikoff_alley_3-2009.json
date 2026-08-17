@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pechatnikoff_alley_3_2009",
+  "title": "Pechatnikoff Alley, 3",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133568025",
+    "imdb": "tt1462853",
+    "tmdb": 692184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

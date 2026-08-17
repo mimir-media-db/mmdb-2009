@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_corredera_2009",
+  "title": "El Corredera",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140588436",
+    "imdb": "tt38790291"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 79
+}

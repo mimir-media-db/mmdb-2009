@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rafiki_2009",
+  "title": "Rafiki",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11960872",
+    "imdb": "tt1503710",
+    "tmdb": 160498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-30",
+  "runtime_minutes": 79
+}

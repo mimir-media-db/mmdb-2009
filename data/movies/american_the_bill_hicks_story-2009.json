@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_the_bill_hicks_story_2009",
+  "title": "American: The Bill Hicks Story",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2605468",
+    "imdb": "tt1179947",
+    "tmdb": 46105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-23",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lika_cinema_2009",
+  "title": "The Lika Cinema",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7747340",
+    "imdb": "tt1185253",
+    "tmdb": 259690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

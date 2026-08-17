@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_half_the_time_of_my_life_2009",
+  "title": "(Half) The Time of My Life",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94739385",
+    "imdb": "tt1313136",
+    "tmdb": 83493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 97
+}

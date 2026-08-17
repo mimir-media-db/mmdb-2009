@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dalamarmarangal_2009",
+  "title": "Dalamarmarangal",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5210197",
+    "imdb": "tt3588016",
+    "tmdb": 475102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-02"
+}

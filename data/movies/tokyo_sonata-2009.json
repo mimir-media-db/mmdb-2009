@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_sonata_2009",
+  "title": "Tokyo Sonata",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1368350",
+    "imdb": "tt0938341",
+    "tmdb": 8937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-30",
+  "runtime_minutes": 120
+}

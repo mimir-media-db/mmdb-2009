@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_stan_2009",
+  "title": "Big Stan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q939728",
+    "imdb": "tt0490086",
+    "tmdb": 13161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-25",
+  "runtime_minutes": 105
+}

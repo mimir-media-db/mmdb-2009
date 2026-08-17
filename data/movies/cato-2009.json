@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cato_2009",
+  "title": "Cato",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62079987",
+    "imdb": "tt1731138",
+    "tmdb": 1660735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

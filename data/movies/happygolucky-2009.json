@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happygolucky_2009",
+  "title": "Happy-Go-Lucky",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q669591",
+    "imdb": "tt1045670",
+    "tmdb": 10503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-05",
+  "runtime_minutes": 118
+}

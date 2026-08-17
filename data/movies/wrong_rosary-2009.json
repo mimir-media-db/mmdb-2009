@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_rosary_2009",
+  "title": "Wrong Rosary",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8038623",
+    "imdb": "tt1366981",
+    "tmdb": 34420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-27"
+}

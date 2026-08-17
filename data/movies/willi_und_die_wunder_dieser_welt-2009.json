@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_willi_und_die_wunder_dieser_welt_2009",
+  "title": "Willi und die Wunder dieser Welt",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718552",
+    "imdb": "tt1316029",
+    "tmdb": 18204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 78
+}

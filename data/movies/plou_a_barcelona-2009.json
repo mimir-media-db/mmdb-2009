@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plou_a_barcelona_2009",
+  "title": "Plou a Barcelona",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96245081",
+    "imdb": "tt1060267",
+    "tmdb": 199018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-20",
+  "runtime_minutes": 65
+}

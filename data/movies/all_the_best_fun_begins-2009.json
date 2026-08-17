@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_best_fun_begins_2009",
+  "title": "All the Best: Fun Begins",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4196318",
+    "imdb": "tt1433905",
+    "tmdb": 24603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-16",
+  "runtime_minutes": 144
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_target_2009",
+  "title": "Final Target",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47092203",
+    "imdb": "tt1841594",
+    "tmdb": 42546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

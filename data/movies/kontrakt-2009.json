@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kontrakt_2009",
+  "title": "Kontrakt",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575636",
+    "imdb": "tt3065650",
+    "tmdb": 1642640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

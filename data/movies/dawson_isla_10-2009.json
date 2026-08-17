@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dawson_isla_10_2009",
+  "title": "Dawson Isla 10",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1118333",
+    "imdb": "tt1365470",
+    "tmdb": 81536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-11",
+  "runtime_minutes": 117
+}

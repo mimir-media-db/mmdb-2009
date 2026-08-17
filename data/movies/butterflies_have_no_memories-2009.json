@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_butterflies_have_no_memories_2009",
+  "title": "Butterflies Have No Memories",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64267652",
+    "imdb": "tt1517163",
+    "tmdb": 181999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 58
+}

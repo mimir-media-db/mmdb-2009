@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_remember_better_when_i_paint_2009",
+  "title": "I Remember Better When I Paint",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16846099",
+    "imdb": "tt1595878"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 54
+}

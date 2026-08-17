@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wish_2009",
+  "title": "Wish",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16172931",
+    "imdb": "tt1519660",
+    "tmdb": 249277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-10"
+}

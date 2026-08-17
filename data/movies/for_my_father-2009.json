@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_my_father_2009",
+  "title": "For My Father",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1587932",
+    "imdb": "tt1043869",
+    "tmdb": 35623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-22",
+  "runtime_minutes": 100
+}

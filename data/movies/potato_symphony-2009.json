@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_potato_symphony_2009",
+  "title": "Potato Symphony",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17685188",
+    "imdb": "tt6033412",
+    "tmdb": 414195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-10",
+  "runtime_minutes": 107
+}

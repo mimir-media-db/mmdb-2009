@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_river_within_2009",
+  "title": "The River Within",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7761016",
+    "imdb": "tt1292655",
+    "tmdb": 42749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

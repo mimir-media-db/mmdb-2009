@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baderech_el_hachatulim_2009",
+  "title": "BaDerech El HaChatulim",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12404382",
+    "imdb": "tt1486803",
+    "tmdb": 665069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stepfather_2009",
+  "title": "The Stepfather",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2299344",
+    "imdb": "tt0814335",
+    "tmdb": 19904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-16",
+  "runtime_minutes": 101
+}

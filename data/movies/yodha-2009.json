@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yodha_2009",
+  "title": "Yodha",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17053887",
+    "imdb": "tt14143636",
+    "tmdb": 1502697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-19"
+}

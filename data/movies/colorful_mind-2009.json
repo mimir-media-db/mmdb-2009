@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_colorful_mind_2009",
+  "title": "Colorful Mind",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11084570",
+    "imdb": "tt1743696",
+    "tmdb": 167638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

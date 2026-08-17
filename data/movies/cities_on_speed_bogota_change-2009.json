@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cities_on_speed_bogota_change_2009",
+  "title": "Cities on Speed : Bogotá Change",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495181",
+    "imdb": "tt1757707",
+    "tmdb": 332389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rivers_wash_over_me_2009",
+  "title": "Rivers Wash Over Me",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7338308",
+    "imdb": "tt1279966",
+    "tmdb": 58475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

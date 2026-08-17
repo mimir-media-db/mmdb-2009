@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_travailleurses_du_sexe_2009",
+  "title": "Les travailleu(r)ses du sexe",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12139487",
+    "imdb": "tt1529298",
+    "tmdb": 59595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

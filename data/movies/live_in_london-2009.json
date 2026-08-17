@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_in_london_2009",
+  "title": "Live in London",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3760601",
+    "imdb": "tt1418353",
+    "tmdb": 26695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-07"
+}

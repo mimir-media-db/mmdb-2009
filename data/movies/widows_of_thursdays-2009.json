@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_widows_of_thursdays_2009",
+  "title": "The Widows of Thursdays",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5971363",
+    "imdb": "tt1386741",
+    "tmdb": 38238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-10",
+  "runtime_minutes": 122
+}

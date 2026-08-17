@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yamagata_scream_2009",
+  "title": "Yamagata Scream",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11468353",
+    "imdb": "tt1119169",
+    "tmdb": 341322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

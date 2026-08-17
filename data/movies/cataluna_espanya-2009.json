@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cataluna_espanya_2009",
+  "title": "Cataluña Espanya",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11913250",
+    "imdb": "tt1423915",
+    "tmdb": 192748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 77
+}

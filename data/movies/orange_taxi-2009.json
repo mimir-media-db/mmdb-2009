@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orange_taxi_2009",
+  "title": "The Orange Taxi",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5725414",
+    "imdb": "tt27730135",
+    "tmdb": 1166578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-30"
+}

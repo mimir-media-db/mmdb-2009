@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_darkness_2009",
+  "title": "In Darkness",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12810254",
+    "imdb": "tt1492923",
+    "tmdb": 52162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 100
+}

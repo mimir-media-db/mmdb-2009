@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pride_2009",
+  "title": "Pride",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135657030",
+    "imdb": "tt1200275",
+    "tmdb": 117981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-17"
+}

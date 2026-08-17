@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prey_2009",
+  "title": "Prey",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7242453",
+    "imdb": "tt1024232",
+    "tmdb": 74024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

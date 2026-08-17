@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killed_dove_2009",
+  "title": "The Killed Dove",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28195349",
+    "imdb": "tt2513068"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-04",
+  "runtime_minutes": 183
+}

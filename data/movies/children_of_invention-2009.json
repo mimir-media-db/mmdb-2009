@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_invention_2009",
+  "title": "Children of Invention",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5098449",
+    "imdb": "tt1322282",
+    "tmdb": 42850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-18"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kyo_kara_hitman_2009",
+  "title": "Kyō Kara Hitman",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18123085",
+    "imdb": "tt1516094",
+    "tmdb": 320986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

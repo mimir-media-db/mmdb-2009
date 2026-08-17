@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_megamall_2009",
+  "title": "Megamall",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129714729",
+    "imdb": "tt1326816",
+    "tmdb": 1115115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 81
+}

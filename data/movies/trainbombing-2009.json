@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trainbombing_2009",
+  "title": "Trainbombing",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729654",
+    "imdb": "tt1549125",
+    "tmdb": 1087594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 5
+}

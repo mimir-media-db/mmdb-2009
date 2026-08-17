@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_bobs_hospital_visit_2009",
+  "title": "Uncle Bob's Hospital Visit",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9378863",
+    "imdb": "tt2508230",
+    "tmdb": 511550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiananmen_2009_2009",
+  "title": "Tiananmen 2009",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10939379",
+    "imdb": "tt5840762",
+    "tmdb": 463275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

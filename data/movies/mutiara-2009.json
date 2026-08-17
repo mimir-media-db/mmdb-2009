@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mutiara_2009",
+  "title": "Mutiara",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88873767"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shortkut_2009",
+  "title": "Shortkut",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7502186",
+    "imdb": "tt1229390",
+    "tmdb": 20293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

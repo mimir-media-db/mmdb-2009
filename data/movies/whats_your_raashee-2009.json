@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_your_raashee_2009",
+  "title": "What's Your Raashee?",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7990866",
+    "imdb": "tt1242530",
+    "tmdb": 24864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 211
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_jenin_2009",
+  "title": "The Heart of Jenin",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1168958",
+    "imdb": "tt1286802",
+    "tmdb": 78273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-07",
+  "runtime_minutes": 89
+}

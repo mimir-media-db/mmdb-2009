@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winkys_horse_2009",
+  "title": "Winky's Horse",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1781803",
+    "imdb": "tt0447679",
+    "tmdb": 50730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-10",
+  "runtime_minutes": 90
+}

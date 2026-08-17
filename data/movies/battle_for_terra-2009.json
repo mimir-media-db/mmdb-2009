@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_for_terra_2009",
+  "title": "Battle for Terra",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2298194",
+    "imdb": "tt0858486",
+    "tmdb": 16873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-01",
+  "runtime_minutes": 85
+}

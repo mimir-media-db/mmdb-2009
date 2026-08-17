@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sumbaran_2009",
+  "title": "Sumbaran",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7637041",
+    "imdb": "tt2354391",
+    "tmdb": 533498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-31"
+}

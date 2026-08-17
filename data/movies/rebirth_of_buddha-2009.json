@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rebirth_of_buddha_2009",
+  "title": "The Rebirth of Buddha",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114232237",
+    "imdb": "tt1525803",
+    "tmdb": 60132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-17"
+}

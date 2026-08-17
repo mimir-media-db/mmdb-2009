@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_drachen_besiegen_2009",
+  "title": "Die Drachen besiegen",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27084844",
+    "imdb": "tt1270100",
+    "tmdb": 285703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

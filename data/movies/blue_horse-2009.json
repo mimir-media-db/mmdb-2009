@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_horse_2009",
+  "title": "The Blue Horse",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3168785",
+    "imdb": "tt1511471",
+    "tmdb": 118878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-07"
+}

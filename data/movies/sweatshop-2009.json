@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweatshop_2009",
+  "title": "Sweatshop",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16952103",
+    "imdb": "tt1160374",
+    "tmdb": 55684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

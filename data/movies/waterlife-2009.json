@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waterlife_2009",
+  "title": "Waterlife",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7974169",
+    "imdb": "tt1436049",
+    "tmdb": 69720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

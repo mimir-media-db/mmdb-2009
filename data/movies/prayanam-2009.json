@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prayanam_2009",
+  "title": "Prayanam",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7238993",
+    "imdb": "tt1473105",
+    "tmdb": 81898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

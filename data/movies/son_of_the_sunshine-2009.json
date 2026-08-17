@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_the_sunshine_2009",
+  "title": "Son of the Sunshine",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16950568",
+    "imdb": "tt1337024",
+    "tmdb": 81126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

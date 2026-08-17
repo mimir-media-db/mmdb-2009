@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_might_as_well_live_2009",
+  "title": "You Might as Well Live",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8057410",
+    "imdb": "tt1217645",
+    "tmdb": 53259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

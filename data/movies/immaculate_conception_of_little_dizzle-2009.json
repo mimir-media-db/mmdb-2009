@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immaculate_conception_of_little_dizzle_2009",
+  "title": "The Immaculate Conception of Little Dizzle",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15079767",
+    "imdb": "tt1039786",
+    "tmdb": 51511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scout_camp_2009",
+  "title": "Scout Camp",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126370056",
+    "imdb": "tt1288505",
+    "tmdb": 24131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_serious_games_1_watson_is_down_2009",
+  "title": "Serious Games 1: Watson Is Down",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42792193",
+    "imdb": "tt2793502",
+    "tmdb": 1231024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

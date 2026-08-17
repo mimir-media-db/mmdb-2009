@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_se_nada_mais_der_certo_2009",
+  "title": "Se Nada Mais Der Certo",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7439769",
+    "imdb": "tt1330048",
+    "tmdb": 72700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 120
+}

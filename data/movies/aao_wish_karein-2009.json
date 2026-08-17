@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aao_wish_karein_2009",
+  "title": "Aao Wish Karein",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18795222",
+    "imdb": "tt1538210",
+    "tmdb": 64756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_premio_europeo_di_letteratura_2009",
+  "title": "Premio Europeo di Letteratura",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11827038"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

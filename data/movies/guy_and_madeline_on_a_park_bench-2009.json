@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guy_and_madeline_on_a_park_bench_2009",
+  "title": "Guy and Madeline on a Park Bench",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124681",
+    "imdb": "tt1337193",
+    "tmdb": 46504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 82
+}

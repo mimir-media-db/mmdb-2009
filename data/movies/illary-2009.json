@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_illary_2009",
+  "title": "Illary",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278496",
+    "imdb": "tt1945117",
+    "tmdb": 1144920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

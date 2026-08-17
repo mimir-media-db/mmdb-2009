@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_575_castro_st_2009",
+  "title": "575 Castro St.",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978289",
+    "imdb": "tt1352822",
+    "tmdb": 404047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 8
+}

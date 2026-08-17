@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_2009",
+  "title": "Weekend",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6166688",
+    "imdb": "tt1552012",
+    "tmdb": 210601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-27",
+  "runtime_minutes": 85
+}

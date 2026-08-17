@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_breath_of_tengan_rei_2009",
+  "title": "The First Breath of Tengan Rei",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11349294",
+    "imdb": "tt0859641",
+    "tmdb": 819550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

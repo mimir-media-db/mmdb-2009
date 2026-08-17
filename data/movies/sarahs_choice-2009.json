@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sarahs_choice_2009",
+  "title": "Sarah's Choice",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7421993",
+    "imdb": "tt1392996",
+    "tmdb": 49841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

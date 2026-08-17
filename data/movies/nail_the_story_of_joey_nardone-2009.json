@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nail_the_story_of_joey_nardone_2009",
+  "title": "The Nail: The Story of Joey Nardone",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7753004",
+    "imdb": "tt1225698",
+    "tmdb": 49263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

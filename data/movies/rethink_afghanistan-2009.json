@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rethink_afghanistan_2009",
+  "title": "Rethink Afghanistan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7316696",
+    "imdb": "tt1572167",
+    "tmdb": 320220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

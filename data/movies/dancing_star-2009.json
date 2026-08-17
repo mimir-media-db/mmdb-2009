@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_star_2009",
+  "title": "Dancing Star",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30600284",
+    "imdb": "tt1502804"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-12"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uptown_2009",
+  "title": "Uptown",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7899422",
+    "imdb": "tt1419989",
+    "tmdb": 115260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

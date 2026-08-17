@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_the_wolf_man_2009",
+  "title": "House of the Wolf Man",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124893",
+    "imdb": "tt1483768",
+    "tmdb": 79119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ive_loved_you_so_long_2009",
+  "title": "I've Loved You So Long",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1249706",
+    "imdb": "tt1068649",
+    "tmdb": 8276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-23",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midaugust_lunch_2009",
+  "title": "Mid-August Lunch",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1167835",
+    "imdb": "tt1277728",
+    "tmdb": 17631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-30",
+  "runtime_minutes": 75
+}

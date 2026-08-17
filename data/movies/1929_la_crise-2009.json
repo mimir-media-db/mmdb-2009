@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1929_la_crise_2009",
+  "title": "1929, La crise",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10483233",
+    "imdb": "tt1555179",
+    "tmdb": 111886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-28"
+}

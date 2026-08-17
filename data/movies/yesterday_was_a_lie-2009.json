@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yesterday_was_a_lie_2009",
+  "title": "Yesterday Was a Lie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8052987",
+    "imdb": "tt0448182",
+    "tmdb": 36549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

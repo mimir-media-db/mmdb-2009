@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_make_the_last_wish_2009",
+  "title": "Make the Last Wish",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123913781",
+    "imdb": "tt2084021",
+    "tmdb": 639369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-09",
+  "runtime_minutes": 109
+}

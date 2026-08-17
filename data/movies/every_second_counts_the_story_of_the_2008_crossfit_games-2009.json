@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_every_second_counts_the_story_of_the_2008_crossfit_games_2009",
+  "title": "Every Second Counts: The Story of the 2008 CrossFit Games",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50408676",
+    "imdb": "tt1391581",
+    "tmdb": 105388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 86
+}

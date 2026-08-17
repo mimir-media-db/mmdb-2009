@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whiskey_with_vodka_2009",
+  "title": "Whiskey with Vodka",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2566795",
+    "imdb": "tt1037227",
+    "tmdb": 9508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-30",
+  "runtime_minutes": 104
+}

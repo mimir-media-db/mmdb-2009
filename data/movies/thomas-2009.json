@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thomas_2009",
+  "title": "Thomas",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11897392",
+    "imdb": "tt1286650",
+    "tmdb": 117579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-20",
+  "runtime_minutes": 70
+}

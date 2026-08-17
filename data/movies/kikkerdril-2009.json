@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kikkerdril_2009",
+  "title": "Kikkerdril",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q729360",
+    "imdb": "tt1302570",
+    "tmdb": 20335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-11",
+  "runtime_minutes": 75
+}

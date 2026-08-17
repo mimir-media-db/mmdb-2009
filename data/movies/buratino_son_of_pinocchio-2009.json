@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buratino_son_of_pinocchio_2009",
+  "title": "Buratino, Son of Pinocchio",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16408573",
+    "imdb": "tt1473784",
+    "tmdb": 135232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ramanam_2009",
+  "title": "Ramanam",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16134372",
+    "imdb": "tt1900961",
+    "tmdb": 1149937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

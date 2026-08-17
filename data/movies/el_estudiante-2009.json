@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_estudiante_2009",
+  "title": "El estudiante",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5352424",
+    "imdb": "tt1261393",
+    "tmdb": 48502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-14",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_offside_2009",
+  "title": "Offside",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126705",
+    "imdb": "tt1693814",
+    "tmdb": 800117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_greetings_from_the_woods_2009",
+  "title": "Greetings from the Woods",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18290796",
+    "imdb": "tt1288642",
+    "tmdb": 162989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_obama_is_nailin_palin_2009",
+  "title": "Obama Is Nailin' Palin",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25448644",
+    "imdb": "tt1356820",
+    "tmdb": 401602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-02",
+  "runtime_minutes": 172
+}

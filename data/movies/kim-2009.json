@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kim_2009",
+  "title": "Kim",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33544136",
+    "imdb": "tt1784492",
+    "tmdb": 1210503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

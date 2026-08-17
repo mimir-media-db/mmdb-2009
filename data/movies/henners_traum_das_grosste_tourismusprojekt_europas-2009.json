@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_henners_traum_das_grosste_tourismusprojekt_europas_2009",
+  "title": "Henners Traum: Das grosste Tourismusprojekt Europas",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18669582",
+    "imdb": "tt1386627",
+    "tmdb": 278246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-26",
+  "runtime_minutes": 94
+}

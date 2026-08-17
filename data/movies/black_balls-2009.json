@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_balls_2009",
+  "title": "Black Balls",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12336502",
+    "imdb": "tt1363140",
+    "tmdb": 17959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-12",
+  "runtime_minutes": 82
+}

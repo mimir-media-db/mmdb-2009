@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_place_2009",
+  "title": "Out of Place",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7111600",
+    "imdb": "tt1526619",
+    "tmdb": 544204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-27"
+}

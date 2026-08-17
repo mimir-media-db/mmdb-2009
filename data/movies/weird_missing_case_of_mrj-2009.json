@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weird_missing_case_of_mrj_2009",
+  "title": "The Weird Missing Case of Mr.J",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16176345",
+    "imdb": "tt1760439",
+    "tmdb": 56606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

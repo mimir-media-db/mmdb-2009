@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_3_day_boys_2009",
+  "title": "3 Day Boys",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11313435",
+    "imdb": "tt1461283"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

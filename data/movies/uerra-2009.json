@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uerra_2009",
+  "title": "Uerra",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30098507",
+    "imdb": "tt1508968"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 16
+}

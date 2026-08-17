@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enemies_within_2009",
+  "title": "Enemies Within",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11856955",
+    "imdb": "tt1396465",
+    "tmdb": 964732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

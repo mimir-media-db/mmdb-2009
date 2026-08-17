@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juon_black_ghost_2009",
+  "title": "Ju-on: Black Ghost",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17497450",
+    "imdb": "tt1422674",
+    "tmdb": 36917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 60
+}

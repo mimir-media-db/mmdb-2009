@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aya_seyahat_2009",
+  "title": "Aya Seyahat",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25478888",
+    "imdb": "tt2302527",
+    "tmdb": 592437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

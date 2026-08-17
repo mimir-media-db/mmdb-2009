@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jean_charles_2009",
+  "title": "Jean Charles",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6170404",
+    "imdb": "tt0989007",
+    "tmdb": 28997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-26",
+  "runtime_minutes": 93
+}

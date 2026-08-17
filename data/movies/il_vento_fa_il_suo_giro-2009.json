@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_vento_fa_il_suo_giro_2009",
+  "title": "Il vento fa il suo giro",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q590634",
+    "imdb": "tt0483206",
+    "tmdb": 55717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-14",
+  "runtime_minutes": 110
+}

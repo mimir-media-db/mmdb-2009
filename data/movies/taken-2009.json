@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taken_2009",
+  "title": "Taken",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q277080",
+    "imdb": "tt0936501",
+    "tmdb": 8681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-30",
+  "runtime_minutes": 93
+}

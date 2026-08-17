@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_upstream_2009",
+  "title": "Upstream",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13429057",
+    "imdb": "tt1339529",
+    "tmdb": 112033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-08"
+}

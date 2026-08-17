@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disgrace_2009",
+  "title": "Disgrace",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q281830",
+    "imdb": "tt0445953",
+    "tmdb": 12411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-17",
+  "runtime_minutes": 120
+}

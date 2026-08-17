@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_horse_from_shangrila_2009",
+  "title": "Wild Horse from Shangri-La",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16653849",
+    "imdb": "tt1430641",
+    "tmdb": 77293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

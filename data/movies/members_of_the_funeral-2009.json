@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_members_of_the_funeral_2009",
+  "title": "Members Of The Funeral",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16169498",
+    "imdb": "tt1356404",
+    "tmdb": 371380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-12"
+}

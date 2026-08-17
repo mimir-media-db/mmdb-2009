@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rail_truck_2009",
+  "title": "Rail Truck",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11322176",
+    "imdb": "tt1663216",
+    "tmdb": 384596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

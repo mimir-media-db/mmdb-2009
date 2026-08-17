@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virginie_2009",
+  "title": "Virginie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111802624",
+    "imdb": "tt1612128"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-14",
+  "runtime_minutes": 74
+}

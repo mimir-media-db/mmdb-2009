@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_gift_2009",
+  "title": "The Perfect Gift",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7756690",
+    "imdb": "tt1349640",
+    "tmdb": 113093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

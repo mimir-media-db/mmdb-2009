@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_het_sinterklaasjournaal_de_meezing_moevie_2009",
+  "title": "Het Sinterklaasjournaal: De Meezing Moevie",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13725830",
+    "imdb": "tt1515903",
+    "tmdb": 49884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-14"
+}

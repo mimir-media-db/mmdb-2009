@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_dawn_2009",
+  "title": "The Black Dawn",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26186656",
+    "imdb": "tt1294145",
+    "tmdb": 97026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-31"
+}

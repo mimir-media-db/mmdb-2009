@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_contrato_2009",
+  "title": "El Contrato",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168781",
+    "imdb": "tt1173941",
+    "tmdb": 25844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

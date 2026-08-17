@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_pepiniere_du_desert_2009",
+  "title": "La pépinière du désert",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39072453",
+    "imdb": "tt1369556",
+    "tmdb": 576679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

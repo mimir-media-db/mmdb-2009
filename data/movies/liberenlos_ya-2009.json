@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_liberenlos_ya_2009",
+  "title": "¡Libérenlos ya!",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278498"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 65
+}

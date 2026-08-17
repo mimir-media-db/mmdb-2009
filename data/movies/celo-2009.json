@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_celo_2009",
+  "title": "Celo",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110163606",
+    "imdb": "tt1247769",
+    "tmdb": 315728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

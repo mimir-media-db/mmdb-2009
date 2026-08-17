@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bendu_apparao_rmp_2009",
+  "title": "Bendu Apparao R.M.P",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13004248",
+    "imdb": "tt1616533",
+    "tmdb": 117008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

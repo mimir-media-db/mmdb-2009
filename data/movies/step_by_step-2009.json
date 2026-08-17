@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_step_by_step_2009",
+  "title": "Step by Step",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15943105",
+    "imdb": "tt1379184",
+    "tmdb": 300253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

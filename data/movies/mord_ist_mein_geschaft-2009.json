@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mord_ist_mein_geschaft_2009",
+  "title": "Mord ist mein Geschäft",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q826950",
+    "imdb": "tt1135940",
+    "tmdb": 15640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-26",
+  "runtime_minutes": 104
+}

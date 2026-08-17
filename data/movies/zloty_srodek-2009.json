@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zloty_srodek_2009",
+  "title": "Zloty srodek",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9393508",
+    "imdb": "tt1408118",
+    "tmdb": 36411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-13",
+  "runtime_minutes": 102
+}

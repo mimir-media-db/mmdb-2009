@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bohemia_a_year_in_the_wetlands_2009",
+  "title": "Bohemia: A Year in the Wetlands",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11170494",
+    "imdb": "tt2076811",
+    "tmdb": 1477125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

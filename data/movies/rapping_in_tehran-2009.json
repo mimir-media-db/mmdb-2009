@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rapping_in_tehran_2009",
+  "title": "Rapping in Tehran",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111448207",
+    "imdb": "tt1621900"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 37
+}

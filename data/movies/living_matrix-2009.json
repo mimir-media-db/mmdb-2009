@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_matrix_2009",
+  "title": "The Living Matrix",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41513155",
+    "imdb": "tt1499960",
+    "tmdb": 119742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

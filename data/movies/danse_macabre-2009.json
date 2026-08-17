@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_danse_macabre_2009",
+  "title": "Danse Macabre",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737762",
+    "imdb": "tt1526327",
+    "tmdb": 99348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-04"
+}

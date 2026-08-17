@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scener_fra_et_vennskap_2009",
+  "title": "Scener fra et vennskap",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22681485",
+    "imdb": "tt1551634",
+    "tmdb": 346437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 65
+}

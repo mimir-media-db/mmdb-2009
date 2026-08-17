@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_newsmakers_2009",
+  "title": "Newsmakers",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1983714",
+    "imdb": "tt1230207",
+    "tmdb": 37695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-24",
+  "runtime_minutes": 102
+}

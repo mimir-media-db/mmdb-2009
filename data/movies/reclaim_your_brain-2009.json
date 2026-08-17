@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reclaim_your_brain_2009",
+  "title": "Reclaim Your Brain",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q286141",
+    "imdb": "tt0810868",
+    "tmdb": 1912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-24",
+  "runtime_minutes": 124
+}

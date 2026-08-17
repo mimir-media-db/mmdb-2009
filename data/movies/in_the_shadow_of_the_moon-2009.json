@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_shadow_of_the_moon_2009",
+  "title": "In the Shadow of the Moon",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2704813",
+    "imdb": "tt0925248",
+    "tmdb": 14284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-29",
+  "runtime_minutes": 95
+}

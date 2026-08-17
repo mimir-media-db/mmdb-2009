@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_contra_timp_2_2009",
+  "title": "Contra timp 2",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18539261",
+    "imdb": "tt1542614",
+    "tmdb": 55298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

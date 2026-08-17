@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rise_up_2009",
+  "title": "Rise Up",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11240962",
+    "imdb": "tt1548626",
+    "tmdb": 115562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 84
+}

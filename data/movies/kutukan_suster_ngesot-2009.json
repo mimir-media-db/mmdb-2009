@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kutukan_suster_ngesot_2009",
+  "title": "Kutukan Suster Ngesot",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19728131",
+    "imdb": "tt1479268",
+    "tmdb": 52375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

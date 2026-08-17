@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punk_in_love_2009",
+  "title": "Punk In Love",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56388323",
+    "imdb": "tt1462603",
+    "tmdb": 327219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_admiral_2009",
+  "title": "The Admiral",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q358985",
+    "imdb": "tt1101026",
+    "tmdb": 13506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-24",
+  "runtime_minutes": 120
+}

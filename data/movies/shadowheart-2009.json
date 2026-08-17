@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadowheart_2009",
+  "title": "Shadowheart",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18043197",
+    "imdb": "tt1053918",
+    "tmdb": 20893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

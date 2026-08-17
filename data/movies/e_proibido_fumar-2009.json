@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_proibido_fumar_2009",
+  "title": "É Proibido Fumar",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10396211",
+    "imdb": "tt1134860",
+    "tmdb": 81055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 86
+}

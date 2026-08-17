@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taras_bulba_2009",
+  "title": "Taras Bulba",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1764277",
+    "imdb": "tt1242457",
+    "tmdb": 17935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-02",
+  "runtime_minutes": 127
+}

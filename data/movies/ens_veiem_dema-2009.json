@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ens_veiem_dema_2009",
+  "title": "Ens veiem demà",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999755",
+    "imdb": "tt1320424",
+    "tmdb": 241964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 91
+}

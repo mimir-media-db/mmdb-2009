@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_creative_nonfiction_2009",
+  "title": "Creative Nonfiction",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65048560",
+    "imdb": "tt1322903",
+    "tmdb": 125467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 60
+}

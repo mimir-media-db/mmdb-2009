@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anubis_en_de_wraak_van_arghus_2009",
+  "title": "Anubis en de wraak van Arghus",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2401023",
+    "imdb": "tt1581622",
+    "tmdb": 35988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-16"
+}

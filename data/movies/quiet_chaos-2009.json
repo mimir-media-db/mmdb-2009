@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_chaos_2009",
+  "title": "Quiet Chaos",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q262803",
+    "imdb": "tt0929412",
+    "tmdb": 22274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-29",
+  "runtime_minutes": 112
+}

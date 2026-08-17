@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guilty_pleasures_2009",
+  "title": "Guilty Pleasures",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16841210",
+    "imdb": "tt8346604",
+    "tmdb": 515754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-11-29"
+}

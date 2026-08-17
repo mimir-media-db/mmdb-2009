@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scrubs_a_xxx_parody_2009",
+  "title": "Scrubs: A XXX Parody",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50295880",
+    "imdb": "tt1621929",
+    "tmdb": 26284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 102
+}

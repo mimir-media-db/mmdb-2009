@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rio_breaks_2009",
+  "title": "Rio Breaks",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807533",
+    "imdb": "tt1269704",
+    "tmdb": 56270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-21"
+}

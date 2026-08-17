@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_automat_2009",
+  "title": "Auto*Mat",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10859251",
+    "imdb": "tt1550311",
+    "tmdb": 1228422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-24",
+  "runtime_minutes": 90
+}

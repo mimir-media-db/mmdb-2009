@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pierrot_2009",
+  "title": "A Pierrot",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90793851",
+    "imdb": "tt1427241",
+    "tmdb": 99188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-05-23",
+  "runtime_minutes": 118
+}

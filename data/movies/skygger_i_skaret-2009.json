@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skygger_i_skaret_2009",
+  "title": "Skygger i skaret",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22412872",
+    "imdb": "tt3783540"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 63
+}

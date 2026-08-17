@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_project_solitude_buried_alive_2009",
+  "title": "Project Solitude: Buried Alive",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511177",
+    "imdb": "tt1336624",
+    "tmdb": 595627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

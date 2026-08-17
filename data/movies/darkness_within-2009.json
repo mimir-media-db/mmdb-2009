@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_darkness_within_2009",
+  "title": "The Darkness Within",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7729054",
+    "imdb": "tt1720258",
+    "tmdb": 298301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arriero_2009",
+  "title": "The Arriero",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56102496",
+    "imdb": "tt1409567",
+    "tmdb": 83502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}

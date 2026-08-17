@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_true_adolescents_2009",
+  "title": "True Adolescents",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7847344",
+    "imdb": "tt1023346",
+    "tmdb": 73424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

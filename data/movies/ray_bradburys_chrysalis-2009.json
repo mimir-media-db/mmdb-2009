@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ray_bradburys_chrysalis_2009",
+  "title": "Ray Bradbury's Chrysalis",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7297222",
+    "imdb": "tt1164089",
+    "tmdb": 75598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 88
+}

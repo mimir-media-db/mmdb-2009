@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_raketenmann_wernher_von_braun_und_der_traum_vom_mond_2009",
+  "title": "Der Raketenmann – Wernher von Braun und der Traum vom Mond",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19278038",
+    "imdb": "tt1475150",
+    "tmdb": 122224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 89
+}

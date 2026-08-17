@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_os_misterios_de_lisboa_or_what_the_tourist_should_see_2009",
+  "title": "Os Mistérios de Lisboa or What the Tourist Should See",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26237474",
+    "imdb": "tt1764533"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 59
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twisted_tale_of_bloody_mary_2009",
+  "title": "The Twisted Tale of Bloody Mary",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113095607",
+    "imdb": "tt1255905",
+    "tmdb": 86229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 104
+}

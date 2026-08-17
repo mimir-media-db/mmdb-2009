@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maestro_2009",
+  "title": "Maestro",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25214363",
+    "imdb": "tt1785457",
+    "tmdb": 1246613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-31"
+}

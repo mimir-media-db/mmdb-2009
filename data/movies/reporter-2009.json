@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reporter_2009",
+  "title": "Reporter",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7314155",
+    "imdb": "tt1331024",
+    "tmdb": 275568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 90
+}

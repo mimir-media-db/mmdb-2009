@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_motherland_2009",
+  "title": "Motherland",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5916098",
+    "imdb": "tt1431347",
+    "tmdb": 536476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-02-05"
+}

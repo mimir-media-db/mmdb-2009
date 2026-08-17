@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_defiance_2009",
+  "title": "Defiance",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q842094",
+    "imdb": "tt1034303",
+    "tmdb": 13813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-23",
+  "runtime_minutes": 137
+}

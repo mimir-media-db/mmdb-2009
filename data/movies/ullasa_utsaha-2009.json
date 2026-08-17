@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ullasa_utsaha_2009",
+  "title": "Ullasa Utsaha",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254933",
+    "imdb": "tt3171844",
+    "tmdb": 305826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

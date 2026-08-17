@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_airhostess_roommate_2009",
+  "title": "My Airhostess Roommate",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16689826",
+    "imdb": "tt2215604",
+    "tmdb": 65412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

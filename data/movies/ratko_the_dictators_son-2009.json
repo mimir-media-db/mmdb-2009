@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ratko_the_dictators_son_2009",
+  "title": "Ratko: The Dictator's Son",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7295808",
+    "imdb": "tt1052027",
+    "tmdb": 25450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 85
+}

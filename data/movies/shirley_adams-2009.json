@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shirley_adams_2009",
+  "title": "Shirley Adams",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3482344",
+    "imdb": "tt1483507",
+    "tmdb": 207160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-07-25"
+}

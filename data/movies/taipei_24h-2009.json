@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taipei_24h_2009",
+  "title": "Taipei 24H",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15903225",
+    "imdb": "tt1519472",
+    "tmdb": 168923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 94
+}

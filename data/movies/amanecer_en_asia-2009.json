@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_amanecer_en_asia_2009",
+  "title": "Amanecer en Asia",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11905259",
+    "imdb": "tt1698477"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

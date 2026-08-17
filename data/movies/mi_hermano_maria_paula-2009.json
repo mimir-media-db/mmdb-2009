@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_hermano_maria_paula_2009",
+  "title": "Mi hermano María Paula",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278500",
+    "tmdb": 1134527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

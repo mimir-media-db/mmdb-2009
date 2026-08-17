@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_hair_2009",
+  "title": "Good Hair",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5582638",
+    "imdb": "tt1213585",
+    "tmdb": 22800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-18",
+  "runtime_minutes": 95
+}

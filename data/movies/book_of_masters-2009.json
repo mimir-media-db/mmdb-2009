@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_masters_2009",
+  "title": "The Book of Masters",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2065419",
+    "imdb": "tt1293793",
+    "tmdb": 25805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-29",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_initiation_2009",
+  "title": "Initiation",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15789071",
+    "imdb": "tt1396579",
+    "tmdb": 90108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-28",
+  "runtime_minutes": 95
+}

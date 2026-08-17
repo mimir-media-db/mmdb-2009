@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_eliges_2009",
+  "title": "Tú eliges",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978477",
+    "imdb": "tt1114734",
+    "tmdb": 361434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 87
+}

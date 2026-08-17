@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morgue_story_sangue_baiacu_e_quadrinhos_2009",
+  "title": "Morgue Story: Sangue, Baiacu e Quadrinhos",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168884",
+    "imdb": "tt1358996",
+    "tmdb": 204612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 78
+}

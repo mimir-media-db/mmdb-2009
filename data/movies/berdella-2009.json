@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berdella_2009",
+  "title": "Berdella",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28961082",
+    "imdb": "tt1460766",
+    "tmdb": 348157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

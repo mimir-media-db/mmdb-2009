@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_het_leven_uit_een_dag_2009",
+  "title": "Het leven uit een dag",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3136502",
+    "imdb": "tt1213647",
+    "tmdb": 51557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-09-03",
+  "runtime_minutes": 94
+}

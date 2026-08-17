@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rule_of_the_fists_2009",
+  "title": "Rule of the Fists",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61841591",
+    "imdb": "tt0867289"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-15"
+}

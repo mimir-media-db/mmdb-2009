@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mensch_2009",
+  "title": "Mensch",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64993965",
+    "imdb": "tt1185411",
+    "tmdb": 52091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-12-09",
+  "runtime_minutes": 87
+}

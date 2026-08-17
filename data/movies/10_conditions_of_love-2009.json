@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_10_conditions_of_love_2009",
+  "title": "The 10 Conditions of Love",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110952223",
+    "imdb": "tt1512237",
+    "tmdb": 42038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-08-08"
+}

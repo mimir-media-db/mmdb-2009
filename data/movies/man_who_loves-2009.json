@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_loves_2009",
+  "title": "The Man Who Loves",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819964",
+    "imdb": "tt1202541",
+    "tmdb": 24191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-04-30",
+  "runtime_minutes": 102
+}

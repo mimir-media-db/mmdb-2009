@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_no_place_2009",
+  "title": "The Heart of No Place",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7739177",
+    "imdb": "tt1382250"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

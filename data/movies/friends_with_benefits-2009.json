@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_with_benefits_2009",
+  "title": "Friends (With Benefits)",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5504145",
+    "imdb": "tt0896811",
+    "tmdb": 70166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-06-12",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freeing_silvia_baraldini_2009",
+  "title": "Freeing Silvia Baraldini",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24463355",
+    "imdb": "tt1413806",
+    "tmdb": 1048138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 99
+}

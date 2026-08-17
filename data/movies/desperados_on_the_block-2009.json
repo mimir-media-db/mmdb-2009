@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desperados_on_the_block_2009",
+  "title": "Desperados on the Block",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20183910",
+    "imdb": "tt1227773"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 95
+}

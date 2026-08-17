@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punisher_war_zone_2009",
+  "title": "Punisher: War Zone",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1065829",
+    "imdb": "tt0450314",
+    "tmdb": 13056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-03-17",
+  "runtime_minutes": 103
+}

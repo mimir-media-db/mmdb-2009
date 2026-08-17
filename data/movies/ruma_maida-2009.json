@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ruma_maida_2009",
+  "title": "Ruma Maida",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4186043",
+    "imdb": "tt1556029",
+    "tmdb": 395875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-10-28"
+}

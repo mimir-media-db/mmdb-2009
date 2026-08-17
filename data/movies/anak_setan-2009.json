@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anak_setan_2009",
+  "title": "Anak Setan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12471948",
+    "imdb": "tt1431001",
+    "tmdb": 127238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

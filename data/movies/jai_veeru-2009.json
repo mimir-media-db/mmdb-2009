@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_veeru_2009",
+  "title": "Jai Veeru",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15127331",
+    "imdb": "tt1369669",
+    "tmdb": 19668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

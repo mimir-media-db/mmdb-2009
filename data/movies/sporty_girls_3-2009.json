@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sporty_girls_3_2009",
+  "title": "Sporty Girls 3",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47137376",
+    "imdb": "tt1532403",
+    "tmdb": 335834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}
