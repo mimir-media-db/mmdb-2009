@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_nobody_but_juan_2009",
+  "title": "Nobody, Nobody But... Juan",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7045930",
+    "imdb": "tt1555991",
+    "tmdb": 58657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01"
+}

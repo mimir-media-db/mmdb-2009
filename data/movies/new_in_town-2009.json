@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_in_town_2009",
+  "title": "New in Town",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2306752",
+    "imdb": "tt1095174",
+    "tmdb": 14536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 97
+}

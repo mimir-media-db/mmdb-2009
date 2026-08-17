@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_york_2009",
+  "title": "New York",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5239300",
+    "imdb": "tt1328634",
+    "tmdb": 19616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 153
+}

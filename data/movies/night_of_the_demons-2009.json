@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_demons_2009",
+  "title": "Night of the Demons",
+  "year": 2009,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2596218",
+    "imdb": "tt1268809",
+    "tmdb": 27646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2009-01-01",
+  "runtime_minutes": 93
+}
