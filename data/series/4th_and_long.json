@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_4th_and_long",
+  "title": "4th and Long",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4639502",
+    "imdb": "tt1420010",
+    "tmdb": 18620
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}
