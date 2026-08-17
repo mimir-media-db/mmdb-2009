@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dolina_sunca",
+  "title": "Dolina sunca",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1249236",
+    "imdb": "tt1508998",
+    "tmdb": 120785
+  },
+  "last_updated": "2026-08-17"
+}

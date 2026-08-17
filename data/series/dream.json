@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dream",
+  "title": "Dream",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q485345",
+    "imdb": "tt3375828",
+    "tmdb": 30735
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_die_again",
+  "title": "D.I.E. Again",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1012543",
+    "imdb": "tt1517118",
+    "tmdb": 7694
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

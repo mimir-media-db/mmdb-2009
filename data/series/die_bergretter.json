@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_bergretter",
+  "title": "Die Bergretter",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1211274",
+    "imdb": "tt1555868",
+    "tmdb": 40445
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 95
+}

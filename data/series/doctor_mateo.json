@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_mateo",
+  "title": "Doctor Mateo",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q16835629",
+    "imdb": "tt1320315",
+    "tmdb": 34353
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 54
+}

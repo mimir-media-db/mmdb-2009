@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_deniz_yildizi",
+  "title": "Deniz Yildizi",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q20474531",
+    "imdb": "tt2154843",
+    "tmdb": 205351
+  },
+  "last_updated": "2026-08-17"
+}

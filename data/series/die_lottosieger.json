@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_lottosieger",
+  "title": "Die Lottosieger",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1214628",
+    "imdb": "tt1391752",
+    "tmdb": 41465
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

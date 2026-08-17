@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_kleine_mann",
+  "title": "Der kleine Mann",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1199251",
+    "imdb": "tt1284142",
+    "tmdb": 22253
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

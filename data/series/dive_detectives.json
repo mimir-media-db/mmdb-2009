@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dive_detectives",
+  "title": "Dive Detectives",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q139967463",
+    "imdb": "tt1670417",
+    "tmdb": 58124
+  },
+  "last_updated": "2026-08-17"
+}
