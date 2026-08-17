@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_7_days",
+  "title": "7 Days",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4643834",
+    "imdb": "tt1773120",
+    "tmdb": 31160
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12
+}
