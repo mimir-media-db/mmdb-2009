@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
   "id": "s_",
-  "title": "آخر صفقة حب",
+  "title": "آلفيجموت في عرض دوبيله",
   "start_year": 2009,
   "external_ids": {
-    "wikidata": "Q6530754"
+    "wikidata": "Q18191709"
   },
   "last_updated": "2026-08-20",
-  "end_year": null,
-  "total_episodes": 30
+  "end_year": 2009,
+  "total_seasons": 1,
+  "total_episodes": 10
 }
