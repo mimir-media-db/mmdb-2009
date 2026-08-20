@@ -1,13 +1,11 @@
 {
   "schema_version": 1,
   "id": "s_",
-  "title": "آلفيجموت في عرض دوبيله",
+  "title": "سفر الحجارة",
   "start_year": 2009,
   "external_ids": {
-    "wikidata": "Q18191709"
+    "wikidata": "Q12216185"
   },
   "last_updated": "2026-08-20",
-  "end_year": 2009,
-  "total_seasons": 1,
-  "total_episodes": 10
+  "end_year": null
 }
