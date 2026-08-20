@@ -1,11 +1,12 @@
 {
   "schema_version": 1,
   "id": "s_",
-  "title": "سفر الحجارة",
+  "title": "عن الخوف والعزلة",
   "start_year": 2009,
   "external_ids": {
-    "wikidata": "Q12216185"
+    "wikidata": "Q20420591"
   },
   "last_updated": "2026-08-20",
-  "end_year": null
+  "end_year": null,
+  "total_episodes": 32
 }
