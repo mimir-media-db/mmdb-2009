@@ -112,6 +112,13 @@
     "path": "data/series/30_seconds.json"
   },
   {
+    "id": "s_4",
+    "title": "4",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/4.json"
+  },
+  {
     "id": "s_4stjerners_middag",
     "title": "4-stjerners middag",
     "start_year": 2009,
