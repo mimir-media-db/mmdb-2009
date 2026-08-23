@@ -28,11 +28,25 @@
     "path": "data/series/10_things_i_hate_about_you-2009.json"
   },
   {
+    "id": "s_10_years_younger_in_10_days",
+    "title": "10 Years Younger in 10 Days",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/10_years_younger_in_10_days.json"
+  },
+  {
     "id": "s_10_years_younger_in_10_days_2009",
     "title": "10 Years Younger in 10 Days",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/10_years_younger_in_10_days-2009.json"
+  },
+  {
+    "id": "s_100_de_dana_dan",
+    "title": "100% De Dana Dan",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/100_de_dana_dan.json"
   },
   {
     "id": "s_100_de_dana_dan_2009",
@@ -49,11 +63,25 @@
     "path": "data/series/100_mile_challenge-2009.json"
   },
   {
+    "id": "s_106_gospel",
+    "title": "106 & Gospel",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/106_gospel.json"
+  },
+  {
     "id": "s_106_gospel_2009",
     "title": "106 & Gospel",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/106_gospel-2009.json"
+  },
+  {
+    "id": "s_1066_the_battle_for_middle_earth",
+    "title": "1066 The Battle for Middle Earth",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/1066_the_battle_for_middle_earth.json"
   },
   {
     "id": "s_1066_the_battle_for_middle_earth_2008",
@@ -63,11 +91,25 @@
     "path": "data/series/1066_the_battle_for_middle_earth-2008.json"
   },
   {
+    "id": "s_1224_karol_bagh",
+    "title": "12/24 Karol Bagh",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/1224_karol_bagh.json"
+  },
+  {
     "id": "s_1224_karol_bagh_2009",
     "title": "12/24 Karol Bagh",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/1224_karol_bagh-2009.json"
+  },
+  {
+    "id": "s_13_fear_is_real",
+    "title": "13: Fear Is Real",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/13_fear_is_real.json"
   },
   {
     "id": "s_13_fear_is_real_2009",
@@ -77,6 +119,13 @@
     "path": "data/series/13_fear_is_real-2009.json"
   },
   {
+    "id": "s_13_in_de_oorlog",
+    "title": "13 in de oorlog",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/13_in_de_oorlog.json"
+  },
+  {
     "id": "s_13_in_de_oorlog_2009",
     "title": "13 in de oorlog",
     "start_year": 2009,
@@ -84,11 +133,25 @@
     "path": "data/series/13_in_de_oorlog-2009.json"
   },
   {
+    "id": "s_1941",
+    "title": "1941",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/1941.json"
+  },
+  {
     "id": "s_1941_2009",
     "title": "1941",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/1941-2009.json"
+  },
+  {
+    "id": "s_2_months_2_million",
+    "title": "2 Months 2 Million",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/2_months_2_million.json"
   },
   {
     "id": "s_2_months_2_million_2009",
@@ -105,6 +168,13 @@
     "path": "data/series/2009-2009.json"
   },
   {
+    "id": "s_2012_het_jaar_nul",
+    "title": "2012, het jaar nul",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/2012_het_jaar_nul.json"
+  },
+  {
     "id": "s_2012_het_jaar_nul_2009",
     "title": "2012, het jaar nul",
     "start_year": 2009,
@@ -112,11 +182,25 @@
     "path": "data/series/2012_het_jaar_nul-2009.json"
   },
   {
+    "id": "s_20q",
+    "title": "20Q",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/20q.json"
+  },
+  {
     "id": "s_20q_2009",
     "title": "20Q",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/20q-2009.json"
+  },
+  {
+    "id": "s_30_seconds",
+    "title": "30 Seconds",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/30_seconds.json"
   },
   {
     "id": "s_30_seconds_2009",
@@ -133,11 +217,25 @@
     "path": "data/series/4-2009.json"
   },
   {
+    "id": "s_4stjerners_middag",
+    "title": "4-stjerners middag",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/4stjerners_middag.json"
+  },
+  {
     "id": "s_4stjerners_middag_2009",
     "title": "4-stjerners middag",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/4stjerners_middag-2009.json"
+  },
+  {
+    "id": "s_4th_and_long",
+    "title": "4th and Long",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/4th_and_long.json"
   },
   {
     "id": "s_4th_and_long_2009",
@@ -147,11 +245,25 @@
     "path": "data/series/4th_and_long-2009.json"
   },
   {
+    "id": "s_5_ingredient_fix",
+    "title": "5 Ingredient Fix",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/5_ingredient_fix.json"
+  },
+  {
     "id": "s_5_ingredient_fix_2009",
     "title": "5 Ingredient Fix",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/5_ingredient_fix-2009.json"
+  },
+  {
+    "id": "s_5_para_a_meianoite",
+    "title": "5 Para A Meia-Noite",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/5_para_a_meianoite.json"
   },
   {
     "id": "s_5_para_a_meianoite_2009",
@@ -161,6 +273,13 @@
     "path": "data/series/5_para_a_meianoite-2009.json"
   },
   {
+    "id": "s_6_7_8",
+    "title": "6, 7, 8",
+    "start_year": 2009,
+    "end_year": 2015,
+    "path": "data/series/6_7_8.json"
+  },
+  {
     "id": "s_6_7_8_2009",
     "title": "6, 7, 8",
     "start_year": 2009,
@@ -168,11 +287,25 @@
     "path": "data/series/6_7_8-2009.json"
   },
   {
+    "id": "s_7_days",
+    "title": "7 Days",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/7_days.json"
+  },
+  {
     "id": "s_7_days_2009",
     "title": "7 Days",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/7_days-2009.json"
+  },
+  {
+    "id": "s_906090_diario_secreto_de_una_adolescente",
+    "title": "90-60-90, diario secreto de una adolescente",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/906090_diario_secreto_de_una_adolescente.json"
   },
   {
     "id": "s_906090_diario_secreto_de_una_adolescente_2009",
@@ -8202,6 +8335,13 @@
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/send_in_the_dogs-2009.json"
+  },
+  {
+    "id": "s_seven",
+    "title": "@Seven",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/seven.json"
   },
   {
     "id": "s_seven_2009",
