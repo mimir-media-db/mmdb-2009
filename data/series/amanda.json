@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amanda",
+  "title": "Amanda",
+  "start_year": 2009,
+  "external_ids": {
+    "wikidata": "Q12471724",
+    "tmdb": 50248
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2009,
+  "total_seasons": 1
+}
