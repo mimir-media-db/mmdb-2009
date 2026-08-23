@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q2448321"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 208
+  "last_updated": "2026-08-23",
+  "total_episodes": 208,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false
 }

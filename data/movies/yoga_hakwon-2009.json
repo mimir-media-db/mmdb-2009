@@ -9,7 +9,13 @@
     "imdb": "tt1599378",
     "tmdb": 50458
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-08-20",
-  "runtime_minutes": 97
+  "runtime_minutes": 97,
+  "genres": [
+    "Fantasy",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false
 }

@@ -8,7 +8,13 @@
     "wikidata": "Q3537233",
     "imdb": "tt1458389"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-01-01",
-  "runtime_minutes": 101
+  "runtime_minutes": 101,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false
 }

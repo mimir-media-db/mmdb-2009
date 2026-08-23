@@ -8,7 +8,12 @@
     "wikidata": "Q136106895",
     "tmdb": 1500166
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-10-31",
-  "runtime_minutes": 5
+  "runtime_minutes": 5,
+  "genres": [
+    "Horror",
+    "machinima"
+  ],
+  "is_adult": false
 }

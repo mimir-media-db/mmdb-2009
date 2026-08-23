@@ -9,6 +9,10 @@
     "imdb": "tt5660296",
     "tmdb": 514833
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-05-12"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-05-12",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false
 }

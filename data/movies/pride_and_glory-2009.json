@@ -9,7 +9,13 @@
     "imdb": "tt0482572",
     "tmdb": 13150
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-01-22",
-  "runtime_minutes": 125
+  "runtime_minutes": 125,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false
 }

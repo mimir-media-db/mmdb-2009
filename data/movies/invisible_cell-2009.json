@@ -9,7 +9,13 @@
     "imdb": "tt1347513",
     "tmdb": 23729
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-03-20",
-  "runtime_minutes": 104
+  "runtime_minutes": 104,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false
 }

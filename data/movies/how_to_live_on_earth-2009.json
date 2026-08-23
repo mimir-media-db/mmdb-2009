@@ -8,6 +8,10 @@
     "wikidata": "Q21060340",
     "tmdb": 386240
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-09-24"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-09-24",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

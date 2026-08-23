@@ -9,6 +9,12 @@
     "imdb": "tt1737590",
     "tmdb": 178148
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-08-08"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-08-08",
+  "genres": [
+    "Animation",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false
 }

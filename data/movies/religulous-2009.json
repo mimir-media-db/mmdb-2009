@@ -9,7 +9,13 @@
     "imdb": "tt0815241",
     "tmdb": 13007
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-04-02",
-  "runtime_minutes": 101
+  "runtime_minutes": 101,
+  "genres": [
+    "Comedy",
+    "Documentary",
+    "War"
+  ],
+  "is_adult": false
 }

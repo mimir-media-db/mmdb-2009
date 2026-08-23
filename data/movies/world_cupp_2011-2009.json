@@ -8,6 +8,12 @@
     "wikidata": "Q8035626",
     "imdb": "tt1591615"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-01-01",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false
 }

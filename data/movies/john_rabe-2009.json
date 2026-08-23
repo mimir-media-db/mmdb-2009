@@ -9,7 +9,13 @@
     "imdb": "tt1124377",
     "tmdb": 5937
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-02-07",
-  "runtime_minutes": 134
+  "runtime_minutes": 134,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false
 }

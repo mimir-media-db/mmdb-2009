@@ -9,7 +9,13 @@
     "imdb": "tt1439556",
     "tmdb": 309634
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-02-20",
-  "runtime_minutes": 80
+  "runtime_minutes": 80,
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Documentary"
+  ],
+  "is_adult": false
 }

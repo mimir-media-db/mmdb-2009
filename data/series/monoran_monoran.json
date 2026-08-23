@@ -7,5 +7,9 @@
   "external_ids": {
     "wikidata": "Q11344458"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "music program"
+  ],
+  "is_adult": false
 }

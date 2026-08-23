@@ -8,7 +8,12 @@
     "wikidata": "Q125581400",
     "imdb": "tt9536918"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-06-15",
-  "runtime_minutes": 89
+  "runtime_minutes": 89,
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "is_adult": false
 }

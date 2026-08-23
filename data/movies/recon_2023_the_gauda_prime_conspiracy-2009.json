@@ -9,6 +9,11 @@
     "imdb": "tt1401674",
     "tmdb": 452523
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-06-22"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-06-22",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

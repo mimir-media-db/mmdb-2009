@@ -9,6 +9,12 @@
     "imdb": "tt1444692",
     "tmdb": 58079
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-08-19"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-08-19",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false
 }

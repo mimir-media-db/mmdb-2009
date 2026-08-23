@@ -9,7 +9,12 @@
     "imdb": "tt1438463",
     "tmdb": 41978
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-08-25",
-  "runtime_minutes": 113
+  "runtime_minutes": 113,
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false
 }

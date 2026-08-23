@@ -9,7 +9,12 @@
     "imdb": "tt1594333",
     "tmdb": 34555
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 5,
-  "total_episodes": 135
+  "total_episodes": 135,
+  "genres": [
+    "Crime",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

@@ -8,7 +8,8 @@
     "wikidata": "Q96472258",
     "imdb": "tt1379723"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-11-14",
-  "runtime_minutes": 84
+  "runtime_minutes": 84,
+  "is_adult": false
 }

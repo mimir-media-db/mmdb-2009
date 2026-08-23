@@ -8,5 +8,10 @@
     "wikidata": "Q5084585",
     "imdb": "tt1519827"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,10 @@
     "wikidata": "Q7562639",
     "tmdb": 52091
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 16
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "soap opera"
+  ],
+  "is_adult": false
 }

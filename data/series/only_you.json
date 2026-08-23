@@ -8,6 +8,10 @@
     "wikidata": "Q7094285",
     "tmdb": 17550
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 85
+  "last_updated": "2026-08-23",
+  "total_episodes": 85,
+  "genres": [
+    "comedy television program"
+  ],
+  "is_adult": false
 }

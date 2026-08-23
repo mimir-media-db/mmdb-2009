@@ -9,6 +9,12 @@
     "imdb": "tt1415098",
     "tmdb": 17640
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 13
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

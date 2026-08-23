@@ -8,7 +8,12 @@
     "wikidata": "Q1262491",
     "imdb": "tt2347132"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 10
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "War"
+  ],
+  "is_adult": false
 }

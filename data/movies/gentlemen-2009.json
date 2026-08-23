@@ -8,7 +8,13 @@
     "wikidata": "Q20729623",
     "imdb": "tt1480682"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-06-27",
-  "runtime_minutes": 31
+  "runtime_minutes": 31,
+  "genres": [
+    "Comedy",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false
 }

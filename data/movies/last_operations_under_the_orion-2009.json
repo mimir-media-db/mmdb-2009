@@ -9,6 +9,11 @@
     "imdb": "tt1382642",
     "tmdb": 38625
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-01-01",
+  "genres": [
+    "Action",
+    "War"
+  ],
+  "is_adult": false
 }

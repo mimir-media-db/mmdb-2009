@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q12207323"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 60
+  "total_episodes": 60,
+  "genres": [
+    "comedy television series",
+    "adventure television series"
+  ],
+  "is_adult": false
 }

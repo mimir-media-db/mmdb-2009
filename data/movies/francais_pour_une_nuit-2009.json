@@ -9,7 +9,11 @@
     "imdb": "tt1578124",
     "tmdb": 27962
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-11-23",
-  "runtime_minutes": 132
+  "runtime_minutes": 132,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false
 }

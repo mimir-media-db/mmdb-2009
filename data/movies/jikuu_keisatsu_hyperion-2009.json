@@ -8,6 +8,10 @@
     "wikidata": "Q4259553",
     "tmdb": 1165427
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-07-25"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-07-25",
+  "genres": [
+    "tokusatsu"
+  ],
+  "is_adult": false
 }

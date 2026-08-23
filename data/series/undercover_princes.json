@@ -7,7 +7,13 @@
   "external_ids": {
     "wikidata": "Q7883528"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 8
+  "total_episodes": 8,
+  "genres": [
+    "Documentary",
+    "reality television",
+    "LGBT-related television series"
+  ],
+  "is_adult": false
 }

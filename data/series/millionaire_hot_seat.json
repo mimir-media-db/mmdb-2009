@@ -8,6 +8,10 @@
     "wikidata": "Q6296148",
     "imdb": "tt1421009"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 8
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false
 }
