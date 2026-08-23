@@ -17,5 +17,10 @@
     "Biography",
     "Crime"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "FR",
+    "IT"
+  ]
 }

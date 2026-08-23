@@ -13,5 +13,8 @@
     "cartoon pornography",
     "pornographic parody film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
 }

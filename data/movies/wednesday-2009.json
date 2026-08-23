@@ -7,6 +7,9 @@
   "external_ids": {
     "wikidata": "Q109366481"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-07-17"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-07-17",
+  "countries": [
+    "JP"
+  ]
 }
