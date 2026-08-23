@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ermolovy",
+  "title": "Ermolovy",
+  "start_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4176675",
+    "imdb": "tt3256154"
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_episodes": 32
+}
