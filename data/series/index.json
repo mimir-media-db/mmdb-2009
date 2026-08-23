@@ -826,11 +826,25 @@
     "path": "data/series/amazing_race-2009.json"
   },
   {
+    "id": "s_american_loggers",
+    "title": "American Loggers",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/american_loggers.json"
+  },
+  {
     "id": "s_american_loggers_2009",
     "title": "American Loggers",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/american_loggers-2009.json"
+  },
+  {
+    "id": "s_american_ninja_warrior",
+    "title": "American Ninja Warrior",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/american_ninja_warrior.json"
   },
   {
     "id": "s_american_ninja_warrior_2009",
@@ -840,11 +854,32 @@
     "path": "data/series/american_ninja_warrior-2009.json"
   },
   {
+    "id": "s_american_xplorer",
+    "title": "American Xplorer",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/american_xplorer.json"
+  },
+  {
     "id": "s_american_xplorer_2009",
     "title": "American Xplorer",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/american_xplorer-2009.json"
+  },
+  {
+    "id": "s_amira",
+    "title": "Amira",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/amira.json"
+  },
+  {
+    "id": "s_amor_e_sexo",
+    "title": "Amor e Sexo",
+    "start_year": 2009,
+    "end_year": 2014,
+    "path": "data/series/amor_e_sexo.json"
   },
   {
     "id": "s_amor_e_sexo_2009",
@@ -854,11 +889,25 @@
     "path": "data/series/amor_e_sexo-2009.json"
   },
   {
+    "id": "s_amor_en_custodia_colombia",
+    "title": "Amor en Custodia (Colombia)",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/amor_en_custodia_colombia.json"
+  },
+  {
     "id": "s_amor_en_custodia_colombia_2009",
     "title": "Amor en Custodia (Colombia)",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/amor_en_custodia_colombia-2009.json"
+  },
+  {
+    "id": "s_amor_mentiras_y_video",
+    "title": "Amor, Mentiras y video",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/amor_mentiras_y_video.json"
   },
   {
     "id": "s_amor_mentiras_y_video_2008",
@@ -889,6 +938,20 @@
     "path": "data/series/amtv-2009.json"
   },
   {
+    "id": "s_anak_membawa_berkah",
+    "title": "Anak Membawa Berkah",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/anak_membawa_berkah.json"
+  },
+  {
+    "id": "s_anbe_vaa",
+    "title": "Anbe Vaa",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/anbe_vaa.json"
+  },
+  {
     "id": "s_anbe_vaa_2009",
     "title": "Anbe Vaa",
     "start_year": 2009,
@@ -896,11 +959,25 @@
     "path": "data/series/anbe_vaa-2009.json"
   },
   {
+    "id": "s_ancestral_temple",
+    "title": "Ancestral Temple",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/ancestral_temple.json"
+  },
+  {
     "id": "s_ancestral_temple_2009",
     "title": "Ancestral Temple",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/ancestral_temple-2009.json"
+  },
+  {
+    "id": "s_ancient_aliens",
+    "title": "Ancient Aliens",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/ancient_aliens.json"
   },
   {
     "id": "s_ancient_aliens_2009",
@@ -917,11 +994,25 @@
     "path": "data/series/ancient_dogoo_girl-2009.json"
   },
   {
+    "id": "s_ancients_behaving_badly",
+    "title": "Ancients Behaving Badly",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/ancients_behaving_badly.json"
+  },
+  {
     "id": "s_ancients_behaving_badly_2009",
     "title": "Ancients Behaving Badly",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/ancients_behaving_badly-2009.json"
+  },
+  {
+    "id": "s_andra_cari_cinta",
+    "title": "Andra Cari Cinta",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/andra_cari_cinta.json"
   },
   {
     "id": "s_andreas_kieling_mitten_im_wilden_deutschland",
@@ -938,11 +1029,25 @@
     "path": "data/series/andreas_kieling_mitten_im_wilden_deutschland-2009.json"
   },
   {
+    "id": "s_andrew_marrs_the_making_of_modern_britain",
+    "title": "Andrew Marr's The Making of Modern Britain",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/andrew_marrs_the_making_of_modern_britain.json"
+  },
+  {
     "id": "s_andrew_marrs_the_making_of_modern_britain_2009",
     "title": "Andrew Marr's The Making of Modern Britain",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/andrew_marrs_the_making_of_modern_britain-2009.json"
+  },
+  {
+    "id": "s_andrew_zimmerns_bizarre_world",
+    "title": "Andrew Zimmern's Bizarre World",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/andrew_zimmerns_bizarre_world.json"
   },
   {
     "id": "s_andrew_zimmerns_bizarre_world_2009",
@@ -952,11 +1057,25 @@
     "path": "data/series/andrew_zimmerns_bizarre_world-2009.json"
   },
   {
+    "id": "s_ang_babaeng_hinugot_sa_aking_tadyang",
+    "title": "Ang Babaeng Hinugot sa Aking Tadyang",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/ang_babaeng_hinugot_sa_aking_tadyang.json"
+  },
+  {
     "id": "s_ang_babaeng_hinugot_sa_aking_tadyang_2009",
     "title": "Ang Babaeng Hinugot sa Aking Tadyang",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/ang_babaeng_hinugot_sa_aking_tadyang-2009.json"
+  },
+  {
+    "id": "s_ang_lalaking_nagmahal_sa_akin",
+    "title": "Ang Lalaking Nagmahal Sa Akin",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/ang_lalaking_nagmahal_sa_akin.json"
   },
   {
     "id": "s_ang_lalaking_nagmahal_sa_akin_2009",
@@ -966,6 +1085,13 @@
     "path": "data/series/ang_lalaking_nagmahal_sa_akin-2009.json"
   },
   {
+    "id": "s_angela_and_friends",
+    "title": "Angela and Friends",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/angela_and_friends.json"
+  },
+  {
     "id": "s_angela_and_friends_2009",
     "title": "Angela and Friends",
     "start_year": 2009,
@@ -973,11 +1099,25 @@
     "path": "data/series/angela_and_friends-2009.json"
   },
   {
+    "id": "s_angels_diary",
+    "title": "Angel's Diary",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/angels_diary.json"
+  },
+  {
     "id": "s_angels_diary_2009",
     "title": "Angel's Diary",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/angels_diary-2009.json"
+  },
+  {
+    "id": "s_animal_cops_phoenix",
+    "title": "Animal Cops: Phoenix",
+    "start_year": 2009,
+    "end_year": 2017,
+    "path": "data/series/animal_cops_phoenix.json"
   },
   {
     "id": "s_animal_cops_phoenix_2009",
