@@ -1,10 +1,24 @@
 [
   {
+    "id": "s_1_girl_5_gays",
+    "title": "1 Girl 5 Gays",
+    "start_year": 2009,
+    "end_year": 2014,
+    "path": "data/series/1_girl_5_gays.json"
+  },
+  {
     "id": "s_1_girl_5_gays_2009",
     "title": "1 Girl 5 Gays",
     "start_year": 2009,
     "end_year": 2013,
     "path": "data/series/1_girl_5_gays-2009.json"
+  },
+  {
+    "id": "s_10_things_i_hate_about_you",
+    "title": "10 Things I Hate About You",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/10_things_i_hate_about_you.json"
   },
   {
     "id": "s_10_things_i_hate_about_you_2009",
@@ -525,6 +539,13 @@
     "path": "data/series/ancients_behaving_badly-2009.json"
   },
   {
+    "id": "s_andreas_kieling_mitten_im_wilden_deutschland",
+    "title": "Andreas Kieling – Mitten im wilden Deutschland",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/andreas_kieling_mitten_im_wilden_deutschland.json"
+  },
+  {
     "id": "s_andreas_kieling_mitten_im_wilden_deutschland_2009",
     "title": "Andreas Kieling – Mitten im wilden Deutschland",
     "start_year": 2009,
@@ -978,6 +999,13 @@
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/better_off_ted-2009.json"
+  },
+  {
+    "id": "s_beutolomaus_und_die_vergessene_weihnacht",
+    "title": "Beutolomäus und die vergessene Weihnacht",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/beutolomaus_und_die_vergessene_weihnacht.json"
   },
   {
     "id": "s_beutolomaus_und_die_vergessene_weihnacht_2009",
@@ -2331,6 +2359,13 @@
     "path": "data/series/de_repente_los_gomez-2009.json"
   },
   {
+    "id": "s_de_rodenburgs",
+    "title": "De Rodenburgs",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/de_rodenburgs.json"
+  },
+  {
     "id": "s_de_rodenburgs_2009",
     "title": "De Rodenburgs",
     "start_year": 2009,
@@ -2520,6 +2555,13 @@
     "path": "data/series/die_again-2009.json"
   },
   {
+    "id": "s_die_autobahnpolizei",
+    "title": "Die Autobahnpolizei",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/die_autobahnpolizei.json"
+  },
+  {
     "id": "s_die_autobahnpolizei_2009",
     "title": "Die Autobahnpolizei",
     "start_year": 2009,
@@ -2555,11 +2597,25 @@
     "path": "data/series/die_psprofis_mehr_power_aus_dem_pott-2008.json"
   },
   {
+    "id": "s_die_schulermittler",
+    "title": "Die Schulermittler",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/die_schulermittler.json"
+  },
+  {
     "id": "s_die_schulermittler_2009",
     "title": "Die Schulermittler",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/die_schulermittler-2009.json"
+  },
+  {
+    "id": "s_die_welt_auf_schwabisch",
+    "title": "Die Welt auf Schwäbisch",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/die_welt_auf_schwabisch.json"
   },
   {
     "id": "s_die_welt_auf_schwabisch_2009",
@@ -2856,6 +2912,13 @@
     "path": "data/series/eesti_laul-2008.json"
   },
   {
+    "id": "s_ein_fall_von_liebe",
+    "title": "Ein Fall von Liebe",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/ein_fall_von_liebe.json"
+  },
+  {
     "id": "s_ein_fall_von_liebe_2009",
     "title": "Ein Fall von Liebe",
     "start_year": 2009,
@@ -2989,6 +3052,13 @@
     "path": "data/series/ergazomeni_gynaika-2009.json"
   },
   {
+    "id": "s_ermolovy",
+    "title": "Ermolovy",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/ermolovy.json"
+  },
+  {
     "id": "s_ermolovy_2009",
     "title": "Ermolovy",
     "start_year": 2009,
@@ -3001,6 +3071,13 @@
     "start_year": 2008,
     "end_year": null,
     "path": "data/series/erotic-2008.json"
+  },
+  {
+    "id": "s_erwachsen_auf_probe",
+    "title": "Erwachsen auf Probe",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/erwachsen_auf_probe.json"
   },
   {
     "id": "s_erwachsen_auf_probe_2009",
@@ -3442,6 +3519,13 @@
     "start_year": 2009,
     "end_year": 2013,
     "path": "data/series/furo_mtv-2009.json"
+  },
+  {
+    "id": "s_furs_leben_gezeichnet",
+    "title": "Fürs Leben gezeichnet",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/furs_leben_gezeichnet.json"
   },
   {
     "id": "s_furs_leben_gezeichnet_2009",
@@ -5425,6 +5509,13 @@
     "path": "data/series/lei_e_o_crime-2009.json"
   },
   {
+    "id": "s_leichter_leben",
+    "title": "Leichter Leben",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/leichter_leben.json"
+  },
+  {
     "id": "s_leichter_leben_2009",
     "title": "Leichter Leben",
     "start_year": 2009,
@@ -6690,6 +6781,13 @@
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/noor_pur_ki_rani-2009.json"
+  },
+  {
+    "id": "s_normal_is_des_ned",
+    "title": "Normal is des ned",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/normal_is_des_ned.json"
   },
   {
     "id": "s_normal_is_des_ned_2009",
@@ -8505,6 +8603,13 @@
     "path": "data/series/stargate_universe-2009.json"
   },
   {
+    "id": "s_startrampe",
+    "title": "Startrampe",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/startrampe.json"
+  },
+  {
     "id": "s_startrampe_2009",
     "title": "Startrampe",
     "start_year": 2009,
@@ -8804,6 +8909,13 @@
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/tale_of_janghwa_and_hongryeon-2009.json"
+  },
+  {
+    "id": "s_talk_im_hangar7",
+    "title": "Talk im Hangar-7",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/talk_im_hangar7.json"
   },
   {
     "id": "s_talk_im_hangar7_2009",
@@ -9569,6 +9681,13 @@
     "path": "data/series/verborgen_verhalen-2009.json"
   },
   {
+    "id": "s_verdachtsfalle",
+    "title": "Verdachtsfälle",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/verdachtsfalle.json"
+  },
+  {
     "id": "s_verdachtsfalle_2009",
     "title": "Verdachtsfälle",
     "start_year": 2009,
@@ -9945,6 +10064,13 @@
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/winter_melon_tale-2009.json"
+  },
+  {
+    "id": "s_wipeout_heul_nicht_lauf",
+    "title": "WipeOut – Heul nicht, lauf!",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/wipeout_heul_nicht_lauf.json"
   },
   {
     "id": "s_wipeout_heul_nicht_lauf_2009",
