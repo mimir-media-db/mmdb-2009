@@ -315,11 +315,25 @@
     "path": "data/series/906090_diario_secreto_de_una_adolescente-2009.json"
   },
   {
+    "id": "s_aadade_aadharam",
+    "title": "Aadade Aadharam",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/aadade_aadharam.json"
+  },
+  {
     "id": "s_aadade_aadharam_2009",
     "title": "Aadade Aadharam",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/aadade_aadharam-2009.json"
+  },
+  {
+    "id": "s_aapki_antara",
+    "title": "Aapki Antara",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/aapki_antara.json"
   },
   {
     "id": "s_aapki_antara_2009",
@@ -329,11 +343,25 @@
     "path": "data/series/aapki_antara-2009.json"
   },
   {
+    "id": "s_aaron_stone",
+    "title": "Aaron Stone",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/aaron_stone.json"
+  },
+  {
     "id": "s_aaron_stone_2009",
     "title": "Aaron Stone",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/aaron_stone-2009.json"
+  },
+  {
+    "id": "s_aashiq_biwi_ka",
+    "title": "Aashiq Biwi Ka",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/aashiq_biwi_ka.json"
   },
   {
     "id": "s_aashiq_biwi_ka_2009",
@@ -343,6 +371,13 @@
     "path": "data/series/aashiq_biwi_ka-2009.json"
   },
   {
+    "id": "s_aashti",
+    "title": "Aashti",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/aashti.json"
+  },
+  {
     "id": "s_aashti_2009",
     "title": "Aashti",
     "start_year": 2009,
@@ -350,11 +385,25 @@
     "path": "data/series/aashti-2009.json"
   },
   {
+    "id": "s_above_suspicion",
+    "title": "Above Suspicion",
+    "start_year": 2009,
+    "end_year": 2012,
+    "path": "data/series/above_suspicion.json"
+  },
+  {
     "id": "s_above_suspicion_2009",
     "title": "Above Suspicion",
     "start_year": 2009,
     "end_year": 2012,
     "path": "data/series/above_suspicion-2009.json"
+  },
+  {
+    "id": "s_academy_night_g",
+    "title": "Academy Night G",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/academy_night_g.json"
   },
   {
     "id": "s_academy_night_g_2009",
@@ -371,11 +420,25 @@
     "path": "data/series/accidental_couple-2009.json"
   },
   {
+    "id": "s_accidentally_on_purpose",
+    "title": "Accidentally on Purpose",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/accidentally_on_purpose.json"
+  },
+  {
     "id": "s_accidentally_on_purpose_2009",
     "title": "Accidentally on Purpose",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/accidentally_on_purpose-2009.json"
+  },
+  {
+    "id": "s_acompanantes",
+    "title": "Acompañantes",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/acompanantes.json"
   },
   {
     "id": "s_acompanantes_2009",
@@ -385,11 +448,25 @@
     "path": "data/series/acompanantes-2009.json"
   },
   {
+    "id": "s_acusados",
+    "title": "Acusados",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/acusados.json"
+  },
+  {
     "id": "s_acusados_2009",
     "title": "Acusados",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/acusados-2009.json"
+  },
+  {
+    "id": "s_addicted_to_beauty",
+    "title": "Addicted to Beauty",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/addicted_to_beauty.json"
   },
   {
     "id": "s_addicted_to_beauty_2009",
@@ -399,6 +476,13 @@
     "path": "data/series/addicted_to_beauty-2009.json"
   },
   {
+    "id": "s_adik_sayo",
+    "title": "Adik Sa'Yo",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/adik_sayo.json"
+  },
+  {
     "id": "s_adik_sayo_2009",
     "title": "Adik Sa'Yo",
     "start_year": 2009,
@@ -406,11 +490,25 @@
     "path": "data/series/adik_sayo-2009.json"
   },
   {
+    "id": "s_adventures_in_booga_booga_land",
+    "title": "Adventures in Booga Booga Land",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/adventures_in_booga_booga_land.json"
+  },
+  {
     "id": "s_adventures_in_booga_booga_land_2008",
     "title": "Adventures in Booga Booga Land",
     "start_year": 2008,
     "end_year": null,
     "path": "data/series/adventures_in_booga_booga_land-2008.json"
+  },
+  {
+    "id": "s_agimat_ang_mga_alamat_ni_ramon_revilla",
+    "title": "Agimat: Ang Mga Alamat ni Ramon Revilla",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/agimat_ang_mga_alamat_ni_ramon_revilla.json"
   },
   {
     "id": "s_agimat_ang_mga_alamat_ni_ramon_revilla_2009",
@@ -628,6 +726,13 @@
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/amor_urbano-2009.json"
+  },
+  {
+    "id": "s_amtv",
+    "title": "AMTV",
+    "start_year": 2009,
+    "end_year": 2017,
+    "path": "data/series/amtv.json"
   },
   {
     "id": "s_amtv_2009",
@@ -1846,6 +1951,13 @@
     "start_year": 2008,
     "end_year": null,
     "path": "data/series/chinoytv-2008.json"
+  },
+  {
+    "id": "s_chip_off_the_old_block",
+    "title": "A Chip Off the Old Block",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/chip_off_the_old_block.json"
   },
   {
     "id": "s_chip_off_the_old_block_2009",
@@ -3374,6 +3486,13 @@
     "path": "data/series/fathers_place-2009.json"
   },
   {
+    "id": "s_fazenda",
+    "title": "A Fazenda",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/fazenda.json"
+  },
+  {
     "id": "s_fazenda_2009",
     "title": "A Fazenda",
     "start_year": 2009,
@@ -4268,6 +4387,13 @@
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/histoires_comme_ca-2009.json"
+  },
+  {
+    "id": "s_history_of_christianity",
+    "title": "A History of Christianity",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/history_of_christianity.json"
   },
   {
     "id": "s_history_of_christianity_2009",
@@ -5633,6 +5759,13 @@
     "start_year": 2008,
     "end_year": 2009,
     "path": "data/series/legend_of_enyo-2008.json"
+  },
+  {
+    "id": "s_lei_e_o_crime",
+    "title": "A Lei e o Crime",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/lei_e_o_crime.json"
   },
   {
     "id": "s_lei_e_o_crime_2009",
@@ -7775,6 +7908,13 @@
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/queen_seondeok-2009.json"
+  },
+  {
+    "id": "s_question_of_genius",
+    "title": "A Question of Genius",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/question_of_genius.json"
   },
   {
     "id": "s_question_of_genius_2009",
@@ -9966,6 +10106,13 @@
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/watch_what_happens_live_with_andy_cohen-2009.json"
+  },
+  {
+    "id": "s_watchdogs_tale",
+    "title": "A Watchdog's Tale",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/watchdogs_tale.json"
   },
   {
     "id": "s_watchdogs_tale_2009",
