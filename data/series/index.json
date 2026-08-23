@@ -518,6 +518,13 @@
     "path": "data/series/agimat_ang_mga_alamat_ni_ramon_revilla-2009.json"
   },
   {
+    "id": "s_agle_janam_mohe_bitiya_hi_kijo",
+    "title": "Agle Janam Mohe Bitiya Hi Kijo",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/agle_janam_mohe_bitiya_hi_kijo.json"
+  },
+  {
     "id": "s_agle_janam_mohe_bitiya_hi_kijo_2009",
     "title": "Agle Janam Mohe Bitiya Hi Kijo",
     "start_year": 2009,
@@ -532,11 +539,25 @@
     "path": "data/series/aguila_roja-2009.json"
   },
   {
+    "id": "s_air_mata_cinta",
+    "title": "Air Mata Cinta",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/air_mata_cinta.json"
+  },
+  {
     "id": "s_air_mata_cinta_2009",
     "title": "Air Mata Cinta",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/air_mata_cinta-2009.json"
+  },
+  {
+    "id": "s_air_ways",
+    "title": "Air Ways",
+    "start_year": 2009,
+    "end_year": 2012,
+    "path": "data/series/air_ways.json"
   },
   {
     "id": "s_air_ways_2009",
@@ -546,11 +567,25 @@
     "path": "data/series/air_ways-2009.json"
   },
   {
+    "id": "s_aishiteru_kaiyo",
+    "title": "Aishiteru: Kaiyō",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/aishiteru_kaiyo.json"
+  },
+  {
     "id": "s_aishiteru_kaiyo_2009",
     "title": "Aishiteru: Kaiyō",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/aishiteru_kaiyo-2009.json"
+  },
+  {
+    "id": "s_akakabukenjifunsenki",
+    "title": "Akakabukenjifunsenki",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/akakabukenjifunsenki.json"
   },
   {
     "id": "s_akakabukenjifunsenki_2009",
@@ -560,11 +595,25 @@
     "path": "data/series/akakabukenjifunsenki-2009.json"
   },
   {
+    "id": "s_al_fondo_hay_sitio",
+    "title": "Al Fondo Hay Sitio",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/al_fondo_hay_sitio.json"
+  },
+  {
     "id": "s_al_fondo_hay_sitio_2009",
     "title": "Al Fondo Hay Sitio",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/al_fondo_hay_sitio-2009.json"
+  },
+  {
+    "id": "s_al_murrays_multiple_personality_disorder",
+    "title": "Al Murray's Multiple Personality Disorder",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/al_murrays_multiple_personality_disorder.json"
   },
   {
     "id": "s_al_murrays_multiple_personality_disorder_2009",
@@ -574,11 +623,25 @@
     "path": "data/series/al_murrays_multiple_personality_disorder-2009.json"
   },
   {
+    "id": "s_ala_qayd_al_hayah",
+    "title": "Ala Qayd Al Hayah",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/ala_qayd_al_hayah.json"
+  },
+  {
     "id": "s_ala_qayd_al_hayah_2009",
     "title": "Ala Qayd Al Hayah",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/ala_qayd_al_hayah-2009.json"
+  },
+  {
+    "id": "s_alan_carr_chatty_man",
+    "title": "Alan Carr: Chatty Man",
+    "start_year": 2009,
+    "end_year": 2017,
+    "path": "data/series/alan_carr_chatty_man.json"
   },
   {
     "id": "s_alan_carr_chatty_man_2009",
@@ -588,6 +651,13 @@
     "path": "data/series/alan_carr_chatty_man-2009.json"
   },
   {
+    "id": "s_alaska_state_troopers",
+    "title": "Alaska State Troopers",
+    "start_year": 2009,
+    "end_year": 2015,
+    "path": "data/series/alaska_state_troopers.json"
+  },
+  {
     "id": "s_alaska_state_troopers_2009",
     "title": "Alaska State Troopers",
     "start_year": 2009,
@@ -595,11 +665,25 @@
     "path": "data/series/alaska_state_troopers-2009.json"
   },
   {
+    "id": "s_alisa_folge_deinem_herzen",
+    "title": "Alisa – Folge deinem Herzen",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/alisa_folge_deinem_herzen.json"
+  },
+  {
     "id": "s_alisa_folge_deinem_herzen_2009",
     "title": "Alisa – Folge deinem Herzen",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/alisa_folge_deinem_herzen-2009.json"
+  },
+  {
+    "id": "s_all_about_eve",
+    "title": "All About Eve",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/all_about_eve.json"
   },
   {
     "id": "s_all_about_eve_2009",
@@ -616,11 +700,25 @@
     "path": "data/series/all_ireland_talent_show-2009.json"
   },
   {
+    "id": "s_all_my_life",
+    "title": "All My Life",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/all_my_life.json"
+  },
+  {
     "id": "s_all_my_life_2009",
     "title": "All My Life",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/all_my_life-2009.json"
+  },
+  {
+    "id": "s_all_the_small_things",
+    "title": "All the Small Things",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/all_the_small_things.json"
   },
   {
     "id": "s_all_the_small_things_2009",
@@ -630,11 +728,25 @@
     "path": "data/series/all_the_small_things-2009.json"
   },
   {
+    "id": "s_all_worked_up",
+    "title": "All Worked Up",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/all_worked_up.json"
+  },
+  {
     "id": "s_all_worked_up_2009",
     "title": "All Worked Up",
     "start_year": 2009,
     "end_year": 2011,
     "path": "data/series/all_worked_up-2009.json"
+  },
+  {
+    "id": "s_alma_indomable",
+    "title": "Alma Indomable",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/alma_indomable.json"
   },
   {
     "id": "s_alma_indomable_2009",
@@ -644,11 +756,25 @@
     "path": "data/series/alma_indomable-2009.json"
   },
   {
+    "id": "s_almohadazo",
+    "title": "Almohadazo",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/almohadazo.json"
+  },
+  {
     "id": "s_almohadazo_2009",
     "title": "Almohadazo",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/almohadazo-2009.json"
+  },
+  {
+    "id": "s_aloha",
+    "title": "Aloha!",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/aloha.json"
   },
   {
     "id": "s_aloha_2008",
@@ -658,11 +784,32 @@
     "path": "data/series/aloha-2008.json"
   },
   {
+    "id": "s_alone_in_the_wild",
+    "title": "Alone in the Wild",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/alone_in_the_wild.json"
+  },
+  {
     "id": "s_alone_in_the_wild_2008",
     "title": "Alone in the Wild",
     "start_year": 2008,
     "end_year": 2008,
     "path": "data/series/alone_in_the_wild-2008.json"
+  },
+  {
+    "id": "s_amanda",
+    "title": "Amanda",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/amanda.json"
+  },
+  {
+    "id": "s_amanpour",
+    "title": "Amanpour",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/amanpour.json"
   },
   {
     "id": "s_amanpour_2009",
