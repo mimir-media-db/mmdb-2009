@@ -8,7 +8,13 @@
     "wikidata": "Q2792828",
     "imdb": "tt6238388"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 8,
-  "total_episodes": 93
+  "total_episodes": 93,
+  "genres": [
+    "Documentary",
+    "Family",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

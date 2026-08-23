@@ -9,7 +9,13 @@
     "imdb": "tt1526818",
     "tmdb": 31116
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 26
+  "total_episodes": 26,
+  "genres": [
+    "Documentary",
+    "Mystery",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

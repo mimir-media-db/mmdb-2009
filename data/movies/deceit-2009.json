@@ -8,6 +8,11 @@
     "wikidata": "Q5248882",
     "imdb": "tt1469870"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-01-01",
+  "genres": [
+    "Short",
+    "War"
+  ],
+  "is_adult": false
 }

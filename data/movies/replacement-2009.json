@@ -9,6 +9,12 @@
     "imdb": "tt1589417",
     "tmdb": 514345
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-06-03"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-06-03",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false
 }

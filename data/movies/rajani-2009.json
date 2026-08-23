@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q28180133"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-07-15"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-07-15",
+  "genres": [
+    "action comedy film"
+  ],
+  "is_adult": false
 }

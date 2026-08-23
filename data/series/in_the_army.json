@@ -8,7 +8,11 @@
     "wikidata": "Q13052369",
     "imdb": "tt5777468"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 681
+  "total_episodes": 681,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

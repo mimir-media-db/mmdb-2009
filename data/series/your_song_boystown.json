@@ -8,6 +8,10 @@
     "wikidata": "Q17143939",
     "imdb": "tt1895735"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 7
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

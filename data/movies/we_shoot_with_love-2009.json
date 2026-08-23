@@ -7,7 +7,14 @@
   "external_ids": {
     "wikidata": "Q10840985"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-11-01",
-  "runtime_minutes": 12
+  "runtime_minutes": 12,
+  "genres": [
+    "short film",
+    "Comedy",
+    "Action",
+    "Spy"
+  ],
+  "is_adult": false
 }

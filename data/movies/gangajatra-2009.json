@@ -8,6 +8,10 @@
     "wikidata": "Q13057702",
     "imdb": "tt5269644"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-11-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-11-28",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

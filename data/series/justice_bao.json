@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q486468"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 61
+  "last_updated": "2026-08-23",
+  "total_episodes": 61,
+  "genres": [
+    "drama"
+  ],
+  "is_adult": false
 }

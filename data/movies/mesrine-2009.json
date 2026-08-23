@@ -8,7 +8,13 @@
     "wikidata": "Q2063364",
     "tmdb": 13635
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-04-23",
-  "runtime_minutes": 113
+  "runtime_minutes": 113,
+  "genres": [
+    "Drama",
+    "biographical film",
+    "Crime"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,10 @@
     "wikidata": "Q4271870",
     "imdb": "tt1437763"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 40
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false
 }

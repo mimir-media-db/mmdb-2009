@@ -9,7 +9,11 @@
     "imdb": "tt0879403",
     "tmdb": 39698
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-03-20",
-  "runtime_minutes": 103
+  "runtime_minutes": 103,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

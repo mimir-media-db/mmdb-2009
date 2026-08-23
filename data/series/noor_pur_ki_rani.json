@@ -8,6 +8,12 @@
     "wikidata": "Q7049830",
     "imdb": "tt8386684"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 23
+  "last_updated": "2026-08-23",
+  "total_episodes": 23,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt1394268",
     "tmdb": 23116
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-09-22",
-  "runtime_minutes": 99
+  "runtime_minutes": 99,
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false
 }

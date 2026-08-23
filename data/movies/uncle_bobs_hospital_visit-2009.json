@@ -9,6 +9,12 @@
     "imdb": "tt2508230",
     "tmdb": 511550
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2009-11-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2009-11-01",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "is_adult": false
 }

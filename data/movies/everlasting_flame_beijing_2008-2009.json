@@ -9,7 +9,12 @@
     "imdb": "tt1491616",
     "tmdb": 471058
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-01-01",
-  "runtime_minutes": 110
+  "runtime_minutes": 110,
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

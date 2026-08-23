@@ -8,7 +8,11 @@
     "wikidata": "Q7196438",
     "tmdb": 18110
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 63
+  "total_episodes": 63,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false
 }

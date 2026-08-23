@@ -8,7 +8,13 @@
     "wikidata": "Q20729760",
     "imdb": "tt1578845"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2009-11-24",
-  "runtime_minutes": 49
+  "runtime_minutes": 49,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }
