@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_politistationen_2009",
+  "title": "Politistationen",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12332033",
+    "imdb": "tt3686276",
+    "tmdb": 38836
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 47,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

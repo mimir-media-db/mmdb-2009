@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hestons_feasts_2009",
+  "title": "Heston's Feasts",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q16843323",
+    "imdb": "tt1551950",
+    "tmdb": 38998
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

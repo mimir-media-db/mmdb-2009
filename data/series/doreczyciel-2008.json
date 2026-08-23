@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_doreczyciel_2008",
+  "title": "Doreczyciel",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9210304",
+    "imdb": "tt1460872",
+    "tmdb": 37045
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

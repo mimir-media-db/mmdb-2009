@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tel_avivjaffa_2008",
+  "title": "Tel Aviv-Jaffa",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7002169",
+    "imdb": "tt5539588",
+    "tmdb": 203654
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

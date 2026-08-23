@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_miitsuketa_2009",
+  "title": "Miitsuketa!",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11278743",
+    "tmdb": 275628
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "music program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

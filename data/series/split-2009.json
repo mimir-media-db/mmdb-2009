@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_split_2009",
+  "title": "Split",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q648469",
+    "imdb": "tt1885795",
+    "tmdb": 19096
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 135,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

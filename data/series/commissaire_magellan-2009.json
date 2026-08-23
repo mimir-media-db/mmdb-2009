@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_commissaire_magellan_2009",
+  "title": "Commissaire Magellan",
+  "start_year": 2009,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q2986289",
+    "imdb": "tt1548331",
+    "tmdb": 64813
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "total_episodes": 38,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

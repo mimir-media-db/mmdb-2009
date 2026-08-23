@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bang_goes_the_theory_2009",
+  "title": "Bang Goes the Theory",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4854953",
+    "imdb": "tt1481440",
+    "tmdb": 18851
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 64,
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

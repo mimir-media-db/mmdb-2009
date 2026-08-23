@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_brilliant_legacy_2009",
+  "title": "Brilliant Legacy",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q489617",
+    "imdb": "tt2283335",
+    "tmdb": 31120
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 28,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

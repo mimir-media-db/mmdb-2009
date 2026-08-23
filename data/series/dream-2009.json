@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dream_2009",
+  "title": "Dream",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q485345",
+    "imdb": "tt3375828",
+    "tmdb": 30735
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

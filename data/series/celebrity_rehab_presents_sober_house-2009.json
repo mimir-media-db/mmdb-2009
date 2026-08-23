@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_rehab_presents_sober_house_2009",
+  "title": "Celebrity Rehab Presents Sober House",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5057755",
+    "imdb": "tt1275409",
+    "tmdb": 8475
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 17,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

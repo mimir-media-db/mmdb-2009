@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_los_misterios_de_laura_2009",
+  "title": "Los misterios de Laura",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3065473",
+    "imdb": "tt1442434",
+    "tmdb": 62984
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 32,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

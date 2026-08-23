@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_eesti_laul_2008",
+  "title": "Eesti Laul",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2672940"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 16,
+  "total_episodes": 47,
+  "genres": [
+    "talent show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EE"
+  ]
+}

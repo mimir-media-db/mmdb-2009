@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fern_britton_meets_2009",
+  "title": "Fern Britton Meets...",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5444444",
+    "imdb": "tt1554655",
+    "tmdb": 32013
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 29,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

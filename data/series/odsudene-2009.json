@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_odsudene_2009",
+  "title": "Odsúdené",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1223261",
+    "imdb": "tt1715739",
+    "tmdb": 95014
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 86,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ",
+    "SK"
+  ]
+}

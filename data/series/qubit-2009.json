@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_qubit_2009",
+  "title": "Qubit",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7269655"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

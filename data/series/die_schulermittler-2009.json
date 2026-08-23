@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_die_schulermittler_2009",
+  "title": "Die Schulermittler",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1216101",
+    "imdb": "tt1481605",
+    "tmdb": 63331
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 364,
+  "genres": [
+    "Drama",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

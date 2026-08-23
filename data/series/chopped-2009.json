@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_chopped_2009",
+  "title": "Chopped",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5104849",
+    "imdb": "tt1353281",
+    "tmdb": 17404
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 36,
+  "total_episodes": 698,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

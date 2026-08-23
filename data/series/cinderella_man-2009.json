@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cinderella_man_2009",
+  "title": "Cinderella Man",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q489465",
+    "imdb": "tt2273915",
+    "tmdb": 32819
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_gone_too_far_2009",
+  "title": "Gone Too Far",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20642698",
+    "imdb": "tt1523388"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

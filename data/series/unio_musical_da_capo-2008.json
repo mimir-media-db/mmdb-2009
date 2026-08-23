@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_unio_musical_da_capo_2008",
+  "title": "Unió Musical Da Capo",
+  "start_year": 2008,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q9091710",
+    "imdb": "tt1565370",
+    "tmdb": 228654
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

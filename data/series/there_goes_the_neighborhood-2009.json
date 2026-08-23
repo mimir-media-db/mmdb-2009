@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_there_goes_the_neighborhood_2009",
+  "title": "There Goes the Neighborhood",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7782720",
+    "imdb": "tt1488520"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Family",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sportsnation_2009",
+  "title": "SportsNation",
+  "start_year": 2009,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7579665",
+    "imdb": "tt1576149",
+    "tmdb": 21501
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 1456,
+  "genres": [
+    "News",
+    "Sport",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

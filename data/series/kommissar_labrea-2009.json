@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_kommissar_labrea_2009",
+  "title": "Kommissar LaBréa",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1305574",
+    "imdb": "tt10937708"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_lab_2009",
+  "title": "Ghost Lab",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5557098",
+    "imdb": "tt1526818",
+    "tmdb": 31116
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Documentary",
+    "Mystery",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

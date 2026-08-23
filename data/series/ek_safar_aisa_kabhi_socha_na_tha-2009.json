@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ek_safar_aisa_kabhi_socha_na_tha_2009",
+  "title": "Ek Safar Aisa Kabhi Socha Na Tha",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5350235",
+    "imdb": "tt12368874"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 60,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

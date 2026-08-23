@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_colony_2009",
+  "title": "The Colony",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7726819",
+    "imdb": "tt1470018",
+    "tmdb": 21678
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

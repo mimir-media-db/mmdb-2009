@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_live_fra_bremen_2008",
+  "title": "Live fra Bremen",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12324727",
+    "imdb": "tt1515451",
+    "tmdb": 50976
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

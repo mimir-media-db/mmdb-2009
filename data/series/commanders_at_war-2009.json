@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_commanders_at_war_2009",
+  "title": "Commanders at War",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5152216",
+    "imdb": "tt1574503",
+    "tmdb": 38342
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

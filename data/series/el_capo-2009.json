@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_el_capo_2009",
+  "title": "El Capo",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4752809",
+    "imdb": "tt1527368",
+    "tmdb": 31268
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 166,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

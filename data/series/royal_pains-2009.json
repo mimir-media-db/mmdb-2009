@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_royal_pains_2009",
+  "title": "Royal Pains",
+  "start_year": 2009,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1138359",
+    "imdb": "tt1319735",
+    "tmdb": 18779
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 104,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

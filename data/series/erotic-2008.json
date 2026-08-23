@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_erotic_2008",
+  "title": "E-Rotic",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5321448",
+    "imdb": "tt1676767",
+    "tmdb": 18539
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

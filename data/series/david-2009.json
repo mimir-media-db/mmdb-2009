@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_david_2009",
+  "title": "David",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2448321"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 208,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

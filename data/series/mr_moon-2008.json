@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_moon_2008",
+  "title": "Mr Moon",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q16998221",
+    "imdb": "tt1870140",
+    "tmdb": 208233
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

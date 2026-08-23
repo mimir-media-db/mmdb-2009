@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_king_of_snooker_2009",
+  "title": "The King of Snooker",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3472304",
+    "imdb": "tt11912344",
+    "tmdb": 16238
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

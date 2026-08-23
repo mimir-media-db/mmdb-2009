@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_andrew_zimmerns_bizarre_world_2009",
+  "title": "Andrew Zimmern's Bizarre World",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4759013",
+    "imdb": "tt1657553",
+    "tmdb": 19143
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

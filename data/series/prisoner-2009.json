@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_prisoner_2009",
+  "title": "The Prisoner",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2547809",
+    "imdb": "tt1043714",
+    "tmdb": 31319
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

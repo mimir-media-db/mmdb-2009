@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_darwins_brave_new_world_2009",
+  "title": "Darwin's Brave New World",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5225902",
+    "imdb": "tt1392904",
+    "tmdb": 37873
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "CA"
+  ]
+}

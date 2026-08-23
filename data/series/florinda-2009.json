@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_florinda_2009",
+  "title": "Florinda",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5461879",
+    "imdb": "tt1166721",
+    "tmdb": 6995
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}
