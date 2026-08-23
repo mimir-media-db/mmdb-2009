@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_diettribe_2009",
+  "title": "DietTribe",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5275044",
+    "imdb": "tt1352486",
+    "tmdb": 27884
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 13,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

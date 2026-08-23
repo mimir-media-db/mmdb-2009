@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_producing_parker_2009",
+  "title": "Producing Parker",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7247724",
+    "imdb": "tt1159608",
+    "tmdb": 18446
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

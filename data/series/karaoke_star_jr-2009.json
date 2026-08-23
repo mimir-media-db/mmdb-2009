@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_karaoke_star_jr_2009",
+  "title": "Karaoke Star Jr.",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6368549"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "countries": [
+    "CA"
+  ]
+}

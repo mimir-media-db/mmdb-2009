@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_case_with_paula_zahn_2009",
+  "title": "On the Case with Paula Zahn",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7091318",
+    "imdb": "tt1554356",
+    "tmdb": 25181
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 22,
+  "total_episodes": 113,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dolina_sunca_2008",
+  "title": "Dolina sunca",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1249236",
+    "imdb": "tt1508998",
+    "tmdb": 120785
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HR"
+  ]
+}

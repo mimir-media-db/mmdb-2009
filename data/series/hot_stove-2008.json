@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hot_stove_2008",
+  "title": "Hot Stove",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16744244",
+    "imdb": "tt1330128",
+    "tmdb": 38198
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "genres": [
+    "News",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_swords_2009",
+  "title": "Swords",
+  "start_year": 2009,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7659334",
+    "imdb": "tt1490380",
+    "tmdb": 22762
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Adventure",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

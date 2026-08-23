@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_hospital_247_2008",
+  "title": "Hospital 24/7",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5908313"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 12,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

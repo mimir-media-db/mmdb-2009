@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_soul_2009",
+  "title": "Soul",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q624312",
+    "imdb": "tt2269311",
+    "tmdb": 44208
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_oz_show_2009",
+  "title": "The Dr. Oz Show",
+  "start_year": 2009,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q1393313",
+    "imdb": "tt1442070",
+    "tmdb": 21768
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "total_episodes": 1681,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

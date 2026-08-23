@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_peter_andre_my_life_2009",
+  "title": "Peter Andre: My Life",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7172525",
+    "imdb": "tt1495168",
+    "tmdb": 31858
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 77,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

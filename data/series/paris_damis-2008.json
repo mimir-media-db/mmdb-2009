@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_paris_damis_2008",
+  "title": "Paris d'amis",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3365329",
+    "imdb": "tt2150336"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

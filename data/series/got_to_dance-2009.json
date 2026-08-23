@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_got_to_dance_2009",
+  "title": "Got to Dance",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14165879",
+    "imdb": "tt1553487",
+    "tmdb": 31587
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

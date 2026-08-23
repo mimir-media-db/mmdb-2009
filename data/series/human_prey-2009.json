@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_human_prey_2009",
+  "title": "Human Prey",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2416282",
+    "imdb": "tt1354663",
+    "tmdb": 20442
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

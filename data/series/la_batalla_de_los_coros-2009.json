@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_la_batalla_de_los_coros_2009",
+  "title": "La batalla de los coros",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q102151634",
+    "imdb": "tt1364357"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_summer_challenge_camp_2009",
+  "title": "Summer Challenge Camp",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17082006"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

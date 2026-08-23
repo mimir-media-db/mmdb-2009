@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_street_court_2009",
+  "title": "Street Court",
+  "start_year": 2009,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7622809",
+    "imdb": "tt1454868"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_katie_2009",
+  "title": "Katie",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6377383",
+    "imdb": "tt1495648"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

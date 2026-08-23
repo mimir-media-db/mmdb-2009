@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_michael_mcintyres_comedy_roadshow_2009",
+  "title": "Michael McIntyre's Comedy Roadshow",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q12326967",
+    "imdb": "tt1566018",
+    "tmdb": 21607
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

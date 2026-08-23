@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_himnaera_him_2009",
+  "title": "Himnaera Him!",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q12485766"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

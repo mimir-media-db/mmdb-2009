@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_right_to_the_edge_sydney_to_tokyo_by_any_means_2009",
+  "title": "Right to the Edge: Sydney to Tokyo by Any Means",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7333708"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

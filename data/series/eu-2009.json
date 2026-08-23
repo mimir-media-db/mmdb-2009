@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_eu_2009",
+  "title": "E.U.",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1012548",
+    "imdb": "tt1517115",
+    "tmdb": 7893
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

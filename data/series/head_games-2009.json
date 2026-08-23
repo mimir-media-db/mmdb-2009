@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_head_games_2009",
+  "title": "Head Games",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5689154",
+    "imdb": "tt1509839"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Family",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

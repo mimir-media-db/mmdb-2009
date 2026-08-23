@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ludovic_2008",
+  "title": "Ludovic",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q35747878",
+    "imdb": "tt1468783"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "DE"
+  ]
+}

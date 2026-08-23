@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_visitor_from_the_future_2009",
+  "title": "The visitor from the future",
+  "start_year": 2009,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3228183",
+    "imdb": "tt2473544",
+    "tmdb": 60013
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 57,
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

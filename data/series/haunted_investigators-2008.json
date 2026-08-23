@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_haunted_investigators_2008",
+  "title": "Haunted Investigators",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q127617516",
+    "imdb": "tt1718355"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": []
+}

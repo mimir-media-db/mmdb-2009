@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_chopping_block_2009",
+  "title": "The Chopping Block",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7722651",
+    "imdb": "tt1204888",
+    "tmdb": 17975
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

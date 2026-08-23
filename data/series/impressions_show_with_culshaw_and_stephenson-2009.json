@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_impressions_show_with_culshaw_and_stephenson_2009",
+  "title": "The Impressions Show with Culshaw and Stephenson",
+  "start_year": 2009,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7741630",
+    "imdb": "tt1546347",
+    "tmdb": 31358
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 21,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

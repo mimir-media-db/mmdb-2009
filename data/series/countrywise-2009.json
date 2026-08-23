@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_countrywise_2009",
+  "title": "Countrywise",
+  "start_year": 2009,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5177569",
+    "imdb": "tt1403966",
+    "tmdb": 32926
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

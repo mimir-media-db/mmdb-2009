@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_aloha_2008",
+  "title": "Aloha!",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12300101",
+    "imdb": "tt1522776",
+    "tmdb": 51132
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_family_biz_2009",
+  "title": "Family Biz",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2826033",
+    "imdb": "tt1167346",
+    "tmdb": 7656
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

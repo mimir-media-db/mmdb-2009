@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_headline_country_2008",
+  "title": "Headline Country",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5689761"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

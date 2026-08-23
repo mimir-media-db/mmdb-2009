@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_two_wives_2009",
+  "title": "Two Wives",
+  "start_year": 2009,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q486141",
+    "tmdb": 44615
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 120,
+  "genres": [
+    "melodrama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

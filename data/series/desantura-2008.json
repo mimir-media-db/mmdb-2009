@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_desantura_2008",
+  "title": "Desantura",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4159166",
+    "imdb": "tt1743280",
+    "tmdb": 119473
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": []
+}
