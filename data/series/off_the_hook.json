@@ -16,5 +16,8 @@
     "sitcom",
     "college life television program"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
 }

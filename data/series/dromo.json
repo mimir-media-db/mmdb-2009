@@ -14,5 +14,8 @@
     "horror television series",
     "science fiction television series"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
 }

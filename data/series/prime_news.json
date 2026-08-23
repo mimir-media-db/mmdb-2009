@@ -12,5 +12,8 @@
   "genres": [
     "news commentary podcast"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
 }

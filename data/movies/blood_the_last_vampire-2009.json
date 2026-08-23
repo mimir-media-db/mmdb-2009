@@ -17,5 +17,11 @@
     "Adventure",
     "Fantasy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "CN",
+    "FR",
+    "HK"
+  ]
 }

@@ -13,5 +13,8 @@
     "Comedy",
     "sitcom"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "NG"
+  ]
 }

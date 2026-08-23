@@ -12,5 +12,9 @@
   "genres": [
     "compilation film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CZ",
+    "DE"
+  ]
 }

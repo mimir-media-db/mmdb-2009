@@ -8,6 +8,9 @@
     "wikidata": "Q10937144",
     "tmdb": 213706
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 43
+  "last_updated": "2026-08-23",
+  "total_episodes": 43,
+  "countries": [
+    "CN"
+  ]
 }
