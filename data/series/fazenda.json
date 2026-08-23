@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fazenda",
+  "title": "A Fazenda",
+  "start_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2403567",
+    "imdb": "tt1842561",
+    "tmdb": 31342
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_episodes": 542
+}
