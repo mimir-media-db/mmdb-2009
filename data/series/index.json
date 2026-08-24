@@ -1449,11 +1449,25 @@
     "path": "data/series/australias_perfect_couple-2009.json"
   },
   {
+    "id": "s_autograph",
+    "title": "Autograph",
+    "start_year": 2009,
+    "end_year": 2012,
+    "path": "data/series/autograph.json"
+  },
+  {
     "id": "s_autograph_2009",
     "title": "Autograph",
     "start_year": 2009,
     "end_year": 2012,
     "path": "data/series/autograph-2009.json"
+  },
+  {
+    "id": "s_autumns_concerto",
+    "title": "Autumn's Concerto",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/autumns_concerto.json"
   },
   {
     "id": "s_autumns_concerto_2009",
@@ -1463,11 +1477,25 @@
     "path": "data/series/autumns_concerto-2009.json"
   },
   {
+    "id": "s_aveux",
+    "title": "Aveux",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/aveux.json"
+  },
+  {
     "id": "s_aveux_2009",
     "title": "Aveux",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/aveux-2009.json"
+  },
+  {
+    "id": "s_avri_gilad_talk_show",
+    "title": "Avri Gilad talk show",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/avri_gilad_talk_show.json"
   },
   {
     "id": "s_avri_gilad_talk_show_2009",
@@ -1477,6 +1505,13 @@
     "path": "data/series/avri_gilad_talk_show-2009.json"
   },
   {
+    "id": "s_ayrlk",
+    "title": "Ayrılık",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/ayrlk.json"
+  },
+  {
     "id": "s_ayrlk_2009",
     "title": "Ayrılık",
     "start_year": 2009,
@@ -1484,11 +1519,25 @@
     "path": "data/series/ayrlk-2009.json"
   },
   {
+    "id": "s_azar_ki_ayegi_baraat",
+    "title": "Azar Ki Ayegi Baraat",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/azar_ki_ayegi_baraat.json"
+  },
+  {
     "id": "s_azar_ki_ayegi_baraat_2009",
     "title": "Azar Ki Ayegi Baraat",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/azar_ki_ayegi_baraat-2009.json"
+  },
+  {
+    "id": "s_b430",
+    "title": "B430",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/b430.json"
   },
   {
     "id": "s_b430_2008",
@@ -1505,11 +1554,32 @@
     "path": "data/series/bachelor-2009.json"
   },
   {
+    "id": "s_baike_quan_shuo",
+    "title": "Baike Quan Shuo",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/baike_quan_shuo.json"
+  },
+  {
     "id": "s_baike_quan_shuo_2009",
     "title": "Baike Quan Shuo",
     "start_year": 2009,
     "end_year": 2011,
     "path": "data/series/baike_quan_shuo-2009.json"
+  },
+  {
+    "id": "s_baim_anak_sholeh",
+    "title": "Baim Anak Sholeh",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/baim_anak_sholeh.json"
+  },
+  {
+    "id": "s_bait_car",
+    "title": "Bait Car",
+    "start_year": 2009,
+    "end_year": 2012,
+    "path": "data/series/bait_car.json"
   },
   {
     "id": "s_bait_car_2009",
@@ -1519,11 +1589,25 @@
     "path": "data/series/bait_car-2009.json"
   },
   {
+    "id": "s_bandaoke",
+    "title": "BandaOke",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/bandaoke.json"
+  },
+  {
     "id": "s_bandaoke_2009",
     "title": "BandaOke",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/bandaoke-2009.json"
+  },
+  {
+    "id": "s_bandini",
+    "title": "Bandini",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/bandini.json"
   },
   {
     "id": "s_bandini_2009",
@@ -1533,11 +1617,25 @@
     "path": "data/series/bandini-2009.json"
   },
   {
+    "id": "s_bang_goes_the_theory",
+    "title": "Bang Goes the Theory",
+    "start_year": 2009,
+    "end_year": 2014,
+    "path": "data/series/bang_goes_the_theory.json"
+  },
+  {
     "id": "s_bang_goes_the_theory_2009",
     "title": "Bang Goes the Theory",
     "start_year": 2009,
     "end_year": 2014,
     "path": "data/series/bang_goes_the_theory-2009.json"
+  },
+  {
+    "id": "s_bank_of_hollywood",
+    "title": "Bank of Hollywood",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/bank_of_hollywood.json"
   },
   {
     "id": "s_bank_of_hollywood_2009",
@@ -1547,11 +1645,25 @@
     "path": "data/series/bank_of_hollywood-2009.json"
   },
   {
+    "id": "s_barefoot_contessa_back_to_basics",
+    "title": "Barefoot Contessa: Back to Basics",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/barefoot_contessa_back_to_basics.json"
+  },
+  {
     "id": "s_barefoot_contessa_back_to_basics_2008",
     "title": "Barefoot Contessa: Back to Basics",
     "start_year": 2008,
     "end_year": null,
     "path": "data/series/barefoot_contessa_back_to_basics-2008.json"
+  },
+  {
+    "id": "s_baseballs_seasons",
+    "title": "Baseball's Seasons",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/baseballs_seasons.json"
   },
   {
     "id": "s_baseballs_seasons_2009",
@@ -1561,11 +1673,25 @@
     "path": "data/series/baseballs_seasons-2009.json"
   },
   {
+    "id": "s_battle_of_the_blades",
+    "title": "Battle of the Blades",
+    "start_year": 2009,
+    "end_year": 2013,
+    "path": "data/series/battle_of_the_blades.json"
+  },
+  {
     "id": "s_battle_of_the_blades_2009",
     "title": "Battle of the Blades",
     "start_year": 2009,
     "end_year": 2013,
     "path": "data/series/battle_of_the_blades-2009.json"
+  },
+  {
+    "id": "s_battles_bc",
+    "title": "Battles BC",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/battles_bc.json"
   },
   {
     "id": "s_battles_bc_2009",
@@ -1580,6 +1706,13 @@
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/bayttaab_dil_kee_tamanna_hai-2009.json"
+  },
+  {
+    "id": "s_bbq_pitmasters",
+    "title": "BBQ Pitmasters",
+    "start_year": 2009,
+    "end_year": 2015,
+    "path": "data/series/bbq_pitmasters.json"
   },
   {
     "id": "s_bbq_pitmasters_2009",
@@ -1883,6 +2016,13 @@
     "path": "data/series/born_rich-2009.json"
   },
   {
+    "id": "s_boss",
+    "title": "BOSS",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/boss.json"
+  },
+  {
     "id": "s_boss_2009",
     "title": "BOSS",
     "start_year": 2009,
@@ -2042,6 +2182,13 @@
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/brothers_karamazov-2009.json"
+  },
+  {
+    "id": "s_bs_okaasan_to_issho_spoo_to_asobo",
+    "title": "BS Okaasan to Issho Spoo to Asobo",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/bs_okaasan_to_issho_spoo_to_asobo.json"
   },
   {
     "id": "s_bs_okaasan_to_issho_spoo_to_asobo_2009",
