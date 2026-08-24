@@ -1127,11 +1127,25 @@
     "path": "data/series/animal_cops_phoenix-2009.json"
   },
   {
+    "id": "s_ano_sefe",
+    "title": "Ano, séfe!",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/ano_sefe.json"
+  },
+  {
     "id": "s_ano_sefe_2008",
     "title": "Ano, séfe!",
     "start_year": 2008,
     "end_year": null,
     "path": "data/series/ano_sefe-2008.json"
+  },
+  {
+    "id": "s_appalachia_a_history_of_mountains_and_people",
+    "title": "Appalachia: A History of Mountains and People",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/appalachia_a_history_of_mountains_and_people.json"
   },
   {
     "id": "s_appalachia_a_history_of_mountains_and_people_2009",
@@ -1155,11 +1169,25 @@
     "path": "data/series/aqui_no_hay_quien_viva-2009.json"
   },
   {
+    "id": "s_arankada",
+    "title": "Arankada",
+    "start_year": 2009,
+    "end_year": 2017,
+    "path": "data/series/arankada.json"
+  },
+  {
     "id": "s_arankada_2009",
     "title": "Arankada",
     "start_year": 2009,
     "end_year": 2017,
     "path": "data/series/arankada-2009.json"
+  },
+  {
+    "id": "s_are_you_smarter_than_a_5th_grader",
+    "title": "Are You Smarter Than a 5th Grader?",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/are_you_smarter_than_a_5th_grader.json"
   },
   {
     "id": "s_are_you_smarter_than_a_5th_grader_2009",
@@ -1169,11 +1197,25 @@
     "path": "data/series/are_you_smarter_than_a_5th_grader-2009.json"
   },
   {
+    "id": "s_are_you_the_next_big_star",
+    "title": "Are You the Next Big Star?",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/are_you_the_next_big_star.json"
+  },
+  {
     "id": "s_are_you_the_next_big_star_2009",
     "title": "Are You the Next Big Star?",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/are_you_the_next_big_star-2009.json"
+  },
+  {
+    "id": "s_arga_snickaren",
+    "title": "Arga snickaren",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/arga_snickaren.json"
   },
   {
     "id": "s_arga_snickaren_2009",
@@ -1190,11 +1232,25 @@
     "path": "data/series/aria_music_show-2009.json"
   },
   {
+    "id": "s_around_the_world_for_free",
+    "title": "Around the World for Free",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/around_the_world_for_free.json"
+  },
+  {
     "id": "s_around_the_world_for_free_2009",
     "title": "Around the World for Free",
     "start_year": 2009,
     "end_year": 2011,
     "path": "data/series/around_the_world_for_free-2009.json"
+  },
+  {
+    "id": "s_around_the_world_in_80_days",
+    "title": "Around the World in 80 Days",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/around_the_world_in_80_days.json"
   },
   {
     "id": "s_around_the_world_in_80_days_2009",
@@ -1204,11 +1260,25 @@
     "path": "data/series/around_the_world_in_80_days-2009.json"
   },
   {
+    "id": "s_around_the_world_in_80_faiths",
+    "title": "Around the World in 80 Faiths",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/around_the_world_in_80_faiths.json"
+  },
+  {
     "id": "s_around_the_world_in_80_faiths_2009",
     "title": "Around the World in 80 Faiths",
     "start_year": 2009,
     "end_year": 2009,
     "path": "data/series/around_the_world_in_80_faiths-2009.json"
+  },
+  {
+    "id": "s_arre_deewano_mujhe_pehchano",
+    "title": "Arre Deewano Mujhe Pehchano",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/arre_deewano_mujhe_pehchano.json"
   },
   {
     "id": "s_arre_deewano_mujhe_pehchano_2009",
@@ -1218,11 +1288,25 @@
     "path": "data/series/arre_deewano_mujhe_pehchano-2009.json"
   },
   {
+    "id": "s_arros_covat",
+    "title": "Arròs covat",
+    "start_year": 2009,
+    "end_year": 2012,
+    "path": "data/series/arros_covat.json"
+  },
+  {
     "id": "s_arros_covat_2009",
     "title": "Arròs covat",
     "start_year": 2009,
     "end_year": 2012,
     "path": "data/series/arros_covat-2009.json"
+  },
+  {
+    "id": "s_as_seen_on_tv",
+    "title": "As Seen on TV",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/as_seen_on_tv.json"
   },
   {
     "id": "s_as_seen_on_tv_2009",
@@ -1232,11 +1316,25 @@
     "path": "data/series/as_seen_on_tv-2009.json"
   },
   {
+    "id": "s_ashpazbashi",
+    "title": "Ashpazbashi",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/ashpazbashi.json"
+  },
+  {
     "id": "s_ashpazbashi_2009",
     "title": "Ashpazbashi",
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/ashpazbashi-2009.json"
+  },
+  {
+    "id": "s_asia_uncut",
+    "title": "Asia Uncut",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/asia_uncut.json"
   },
   {
     "id": "s_asia_uncut_2008",
@@ -1253,11 +1351,25 @@
     "path": "data/series/assistants-2009.json"
   },
   {
+    "id": "s_assorted_gems",
+    "title": "Assorted Gems",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/assorted_gems.json"
+  },
+  {
     "id": "s_assorted_gems_2009",
     "title": "Assorted Gems",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/assorted_gems-2009.json"
+  },
+  {
+    "id": "s_atashinchi_no_danshi",
+    "title": "Atashinchi no Danshi",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/atashinchi_no_danshi.json"
   },
   {
     "id": "s_atashinchi_no_danshi_2009",
@@ -1267,11 +1379,25 @@
     "path": "data/series/atashinchi_no_danshi-2009.json"
   },
   {
+    "id": "s_atrevete_a_sonar",
+    "title": "Atrévete a soñar",
+    "start_year": 2009,
+    "end_year": 2010,
+    "path": "data/series/atrevete_a_sonar.json"
+  },
+  {
     "id": "s_atrevete_a_sonar_2009",
     "title": "Atrévete a soñar",
     "start_year": 2009,
     "end_year": 2010,
     "path": "data/series/atrevete_a_sonar-2009.json"
+  },
+  {
+    "id": "s_au_siecle_de_maupassant_contes_et_nouvelles_du_xixeme_siecle",
+    "title": "Au siècle de Maupassant: Contes et nouvelles du XIXème siècle",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/au_siecle_de_maupassant_contes_et_nouvelles_du_xixeme_siecle.json"
   },
   {
     "id": "s_au_siecle_de_maupassant_contes_et_nouvelles_du_xixeme_siecle_2009",
@@ -1281,6 +1407,13 @@
     "path": "data/series/au_siecle_de_maupassant_contes_et_nouvelles_du_xixeme_siecle-2009.json"
   },
   {
+    "id": "s_aussie_ladette_to_lady",
+    "title": "Aussie Ladette to Lady",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/aussie_ladette_to_lady.json"
+  },
+  {
     "id": "s_aussie_ladette_to_lady_2009",
     "title": "Aussie Ladette to Lady",
     "start_year": 2009,
@@ -1288,11 +1421,25 @@
     "path": "data/series/aussie_ladette_to_lady-2009.json"
   },
   {
+    "id": "s_australias_greatest_athlete",
+    "title": "Australia's Greatest Athlete",
+    "start_year": 2009,
+    "end_year": 2011,
+    "path": "data/series/australias_greatest_athlete.json"
+  },
+  {
     "id": "s_australias_greatest_athlete_2008",
     "title": "Australia's Greatest Athlete",
     "start_year": 2008,
     "end_year": 2011,
     "path": "data/series/australias_greatest_athlete-2008.json"
+  },
+  {
+    "id": "s_australias_perfect_couple",
+    "title": "Australia's Perfect Couple",
+    "start_year": 2009,
+    "end_year": 2009,
+    "path": "data/series/australias_perfect_couple.json"
   },
   {
     "id": "s_australias_perfect_couple_2009",
