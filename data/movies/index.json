@@ -19852,6 +19852,14 @@
     "path": "data/movies/le_premier_cercle-2009.json"
   },
   {
+    "id": "m_le_psy_dhollywood_2009",
+    "title": "Le Psy d'Hollywood",
+    "year": 2009,
+    "type": "movie",
+    "runtime_minutes": 104,
+    "path": "data/movies/le_psy_dhollywood-2009.json"
+  },
+  {
     "id": "m_le_roi_roger_2009",
     "title": "Le roi Roger",
     "year": 2009,
