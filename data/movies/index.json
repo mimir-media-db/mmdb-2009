@@ -2552,6 +2552,14 @@
     "path": "data/movies/arn_the_knight_templar-2009.json"
   },
   {
+    "id": "m_arrastrame_al_infierno_2009",
+    "title": "Arrástrame al infierno",
+    "year": 2009,
+    "type": "movie",
+    "runtime_minutes": 99,
+    "path": "data/movies/arrastrame_al_infierno-2009.json"
+  },
+  {
     "id": "m_arriero_2009",
     "title": "The Arriero",
     "year": 2009,
