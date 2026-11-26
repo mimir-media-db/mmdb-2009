@@ -5299,6 +5299,13 @@
     "path": "data/series/important_things_with_demetri_martin-2009.json"
   },
   {
+    "id": "s_impossible_escapes",
+    "title": "(Im)possible Escapes",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/impossible_escapes.json"
+  },
+  {
     "id": "s_impostores_2009",
     "title": "Impostores",
     "start_year": 2009,
@@ -7523,6 +7530,13 @@
     "start_year": 2009,
     "end_year": null,
     "path": "data/series/neighbourhood_watched-2009.json"
+  },
+  {
+    "id": "s_neimanomi_pabegimai",
+    "title": "(Ne)įmanomi pabėgimai",
+    "start_year": 2009,
+    "end_year": null,
+    "path": "data/series/neimanomi_pabegimai.json"
   },
   {
     "id": "s_nemylimi_2009",

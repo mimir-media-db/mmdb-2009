@@ -15818,6 +15818,14 @@
     "path": "data/movies/hush-2009.json"
   },
   {
+    "id": "m_hyper_tension_2_2009",
+    "title": "Hyper Tension 2",
+    "year": 2009,
+    "type": "movie",
+    "runtime_minutes": 96,
+    "path": "data/movies/hyper_tension_2-2009.json"
+  },
+  {
     "id": "m_hysterical_psycho_2009",
     "title": "Hysterical Psycho",
     "year": 2009,
